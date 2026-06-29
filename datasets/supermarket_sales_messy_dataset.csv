@@ -1,0 +1,3101 @@
+SaleID,Date,Branch,Category,Product,Quantity,UnitPrice,TotalSales,PaymentMethod
+52359,1/7/2026, Kisumu ,Groceries,Run,1,1000,1000,cash
+51951,5/13/2025,,groceries,Suggest,5,1000,5000,Card
+52341,1/14/2025,,Groceries,Away,50,1000,50000,Card
+53023,1/18/2026,nakuru,groceries,Management,1,2000,2000,Cash
+51252,8/12/2024, Kisumu ,Personal Care,Young,2,,,Cash
+50219,5/26/2025,Mombasa,groceries,Really,,10000,,cash
+50316,5/18/2025,nakuru,groceries,Book,1,2000,2000,M-Pesa
+53769,18-04-1975,,Groceries,Part,50,250,12500,cash
+53460,2/3/2025,nakuru,Beverages,What,10,50,500,cash
+53468,22-03-1998,Nairobi,groceries,Set,10,100,1000,Cash
+50440,9/10/2013,,Personal Care,Gas,2,2000,4000,cash
+53274,13-10-1983,,groceries,Way,20,250,5000,M-Pesa
+52841,4/26/2026,Mombasa,Personal Care,Grow,20,2000,40000,Cash
+50142,12/15/2024,Mombasa,Snacks,Eight,20,10000,200000,M-Pesa
+50470,15-05-1987,nakuru,Personal Care,Sign,1,,,Cash
+53487,26-11-1982,nakuru,Personal Care,Wrong,50,50,2500,cash
+51985,7/31/2024,Nairobi,groceries,Work,2,100,200,cash
+50692,2/27/2025,,Groceries,Live,20,10000,200000,cash
+51140,4/22/2026,,Personal Care,Station,1,500,500,M-Pesa
+50047,18-01-2003,Nairobi,Personal Care,Set,,250,,M-Pesa
+50460,3/6/1993,,Beverages,Fine,1,500,500,M-Pesa
+50998,11/19/2025,,Household,Executive,2,250,500,Card
+52780,5/6/2026, Kisumu ,Personal Care,Day,50,50,2500,M-Pesa
+50283,26-11-1987, Kisumu ,Beverages,Value,,,,Cash
+50920,25-03-2025,Mombasa,Beverages,Particularly,50,500,25000,Card
+50709,10/13/2025,Nairobi,Household,Break,5,10000,50000,Cash
+51262,5/16/2026,,Snacks,Its,,1000,,M-Pesa
+50782,29-03-2018,Nairobi,Groceries,History,20,500,10000,Cash
+51790,3/14/2026, Kisumu ,Snacks,Then,5,500,2500,cash
+53995,16-10-2005, Kisumu ,Personal Care,Describe,1,1000,1000,cash
+51534,28-04-2024,Nairobi,Personal Care,Example,2,,,cash
+50332,9/2/2025,,Groceries,Great,5,,,Cash
+53315,30-07-2020,nakuru,Beverages,Leader,,100,,Cash
+52311,11/4/1993,Mombasa,groceries,Front,,,,Card
+53328,27-09-2022,nakuru,Snacks,Wrong,,100,,Cash
+51135,8/3/2024,,Groceries,Among,,500,,Card
+52493,1/4/2002,Mombasa,Groceries,Low,5,10000,50000,cash
+53915,20-09-1978, Kisumu ,Household,Notice,,500,,cash
+52182,24-04-1974, Kisumu ,Personal Care,Until,1,2000,2000,Cash
+52236,3/8/1971,,groceries,Help,5,10000,50000,Card
+53086,30-07-2020,Mombasa,Snacks,Style,1,500,500,M-Pesa
+52102,2/7/2025,,Beverages,Whether,50,100,5000,Card
+53157,19-10-2000,,groceries,Foreign,1,,,Cash
+50254,10/15/2025,nakuru,Snacks,Allow,50,10000,500000,Cash
+52518,9/19/2025,Mombasa,Beverages,Piece,5,10000,50000,Card
+50675,11/29/2024,Mombasa,groceries,Action,50,,,M-Pesa
+52159,2/12/2025,Mombasa,Snacks,Right,20,,,Cash
+52645,4/20/2025,,Household,Middle,20,100,2000,M-Pesa
+51688,3/1/2026, Kisumu ,Snacks,Field,20,100,2000,cash
+51655,9/4/2010,Mombasa,groceries,Response,1,2000,2000,M-Pesa
+50364,23-01-2003,Nairobi,Snacks,Former,50,,,M-Pesa
+53870,20-12-1978,Nairobi,Snacks,East,10,100,1000,cash
+50270,4/23/2025,nakuru,Household,Risk,5,250,1250,Card
+52791,6/11/2026,,Groceries,Thousand,10,,,M-Pesa
+51222,10/24/2025,nakuru,groceries,Stuff,50,250,12500,Card
+50816,18-06-2026,Mombasa,Household,Skin,1,10000,10000,Card
+50765,7/12/2024,,Snacks,Quality,1,100,100,Cash
+53334,22-10-1977,,Groceries,National,10,1000,10000,Card
+51145,9/12/2025,,groceries,Author,,1000,,Cash
+50116,3/13/2026,Nairobi,groceries,Model,,50,,cash
+53374,9/22/2024,nakuru,Personal Care,Stage,20,250,5000,Card
+50097,8/16/2025,,Snacks,Indeed,50,,,M-Pesa
+50003,1/29/2026, Kisumu ,Household,Response,20,500,10000,Cash
+53934,3/31/2026, Kisumu ,Household,Everything,10,50,500,cash
+51617,1/12/2026,,Household,Region,1,50,50,Cash
+52277,5/8/2025,Nairobi,groceries,Consider,1,500,500,Cash
+50515,14-03-1995,nakuru,Snacks,During,50,500,25000,M-Pesa
+51868,13-08-1998, Kisumu ,Beverages,How,1,50,50,Cash
+50618,5/11/2012,nakuru,Beverages,Budget,20,50,1000,cash
+52658,2/17/2025,,Personal Care,Model,1,500,500,Cash
+51556,1/5/2023,,Household,Few,10,100,1000,M-Pesa
+50056,7/19/2025,nakuru,Groceries,Job,1,50,50,Cash
+51426,25-09-1997, Kisumu ,Beverages,Soon,2,250,500,Cash
+51030,7/21/2025,Mombasa,groceries,Happy,20,500,10000,Card
+52344,9/1/2024,Nairobi,Personal Care,Force,10,2000,20000,Cash
+53188,7/31/2024,Mombasa,groceries,Direction,,,,cash
+50915,3/4/2018,Nairobi,Household,Night,2,1000,2000,Cash
+53230,1/28/2025, Kisumu ,Groceries,Herself,5,1000,5000,Cash
+51544,27-03-2018,,Household,Side,1,250,250,Cash
+50523,12/6/2025,,groceries,Individual,20,50,1000,cash
+50963,7/7/2025,nakuru,Groceries,Move,1,2000,2000,cash
+53011,10/15/2024,Nairobi,groceries,Buy,1,2000,2000,cash
+53191,20-10-2008,Mombasa,Personal Care,Material,1,250,250,cash
+53436,5/30/2026,nakuru,Household,Direction,10,1000,10000,Cash
+50389,10/7/2025,,Household,Lot,10,250,2500,Card
+50179,5/20/2025,,groceries,Between,20,10000,200000,M-Pesa
+53345,5/7/1978,nakuru,Household,Camera,2,500,1000,Card
+51719,10/1/1973,nakuru,Personal Care,Around,,2000,,cash
+52202,9/25/2024,nakuru,Groceries,Light,5,,,Card
+51180,4/5/2025,,Personal Care,Similar,2,,,Cash
+51929,6/21/2024, Kisumu ,Beverages,Behind,50,,,Cash
+53982,27-01-2022, Kisumu ,groceries,Entire,1,50,50,Cash
+51625,12/3/1987,nakuru,Groceries,Measure,2,10000,20000,M-Pesa
+50645,8/4/1987,,Groceries,Attorney,20,2000,40000,cash
+52043,1/27/2026,,Beverages,Protect,,50,,Card
+50273,2/18/2026, Kisumu ,groceries,Dinner,5,10000,50000,Cash
+50582,4/7/2026,Nairobi,Personal Care,Tend,,250,,Card
+52929,4/9/2022,,Household,American,50,500,25000,Card
+50703,7/22/2024,Mombasa,Beverages,Couple,2,10000,20000,cash
+51955,1/29/2025,Nairobi,Snacks,Bar,,250,,cash
+51374,3/18/2025,Nairobi,Groceries,Shake,10,1000,10000,Card
+51459,5/13/2025,Nairobi,Household,Affect,5,2000,10000,Card
+50141,7/11/2025,,Personal Care,View,,2000,,Card
+53738,30-04-1997,Mombasa,Personal Care,Land,2,10000,20000,M-Pesa
+52118,1/15/2025,Nairobi,Personal Care,Back,5,500,2500,cash
+53277,11/12/2025,nakuru,Personal Care,On,1,100,100,cash
+52692,1/2/2026,nakuru,Beverages,Her,5,,,M-Pesa
+51677,23-10-1977,nakuru,Beverages,Play,20,2000,40000,Card
+51651,11/22/2024,Nairobi,Household,Bad,5,100,500,Cash
+51018,9/3/2024,Mombasa,Personal Care,Even,2,2000,4000,Cash
+52410,1/3/2025,,Household,Indicate,20,500,10000,M-Pesa
+53840,13-08-1995,Nairobi,Groceries,Serious,20,100,2000,cash
+53244,7/23/2025,,Beverages,Her,20,2000,40000,cash
+50707,18-01-1987,Mombasa,Snacks,Because,,500,,Cash
+51275,20-03-1994,nakuru,Groceries,Film,2,10000,20000,Cash
+52199,7/5/2024, Kisumu ,Household,Recognize,20,100,2000,Cash
+51698,23-11-2019, Kisumu ,Beverages,Window,50,10000,500000,M-Pesa
+50436,25-01-2011, Kisumu ,Personal Care,Role,20,250,5000,cash
+50264,10/24/2024, Kisumu ,Groceries,New,5,100,500,Card
+52345,10/12/2001,,Beverages,Bank,2,50,100,cash
+51295,28-01-1975, Kisumu ,Household,Forget,5,1000,5000,Cash
+50709,11/4/2015, Kisumu ,Groceries,Keep,1,,,Cash
+52354,8/12/2025,Mombasa,Household,News,20,2000,40000,Card
+53851,3/11/2026,,Personal Care,People,10,100,1000,cash
+51155,23-07-1992,nakuru,Groceries,Personal,,100,,Cash
+53777,9/1/1987,,Groceries,Entire,5,250,1250,Card
+50282,18-09-1974,,groceries,Strong,,2000,,Card
+51638,12/6/1977,,Household,Capital,50,100,5000,cash
+53098,4/12/2026,,Beverages,Subject,50,100,5000,M-Pesa
+53616,12/4/2025,Nairobi,groceries,Mind,20,500,10000,M-Pesa
+52559,3/25/2025,Mombasa,Household,Share,5,,,cash
+50534,4/10/2023,Nairobi,Groceries,Alone,5,1000,5000,Cash
+53683,7/6/1994,,Household,Thought,10,250,2500,Card
+53100,6/4/1995, Kisumu ,Groceries,System,5,250,1250,cash
+51747,9/23/2025,Mombasa,Snacks,Around,,,,M-Pesa
+52648,10/6/1996,Mombasa,Beverages,Really,1,250,250,Card
+51267,6/21/2025,,groceries,Level,1,10000,10000,Card
+51004,13-11-1973,nakuru,groceries,Old,1,50,50,cash
+51204,9/21/2025,,Snacks,Several,20,250,5000,cash
+51037,4/5/2006,,Beverages,Agreement,50,10000,500000,Card
+51480,5/25/2026,Mombasa,Groceries,Year,1,1000,1000,cash
+52603,8/23/2024,nakuru,Personal Care,Section,1,1000,1000,Card
+53652,11/24/2024,Mombasa,Household,Word,20,1000,20000,Card
+52614,16-03-2000,Nairobi,Personal Care,This,2,,,M-Pesa
+52387,3/6/2009,,Personal Care,Where,2,,,cash
+52697,10/24/2024,Mombasa,Snacks,Most,1,1000,1000,Card
+53831,10/12/2018,nakuru,Snacks,Space,1,50,50,Card
+53783,10/5/2024,,Beverages,Former,5,500,2500,M-Pesa
+50533,1/8/1970,,groceries,Hundred,5,1000,5000,cash
+51896,8/20/2025,nakuru,groceries,Million,50,100,5000,cash
+51115,1/23/2025,nakuru,Household,This,10,500,5000,cash
+51392,11/17/2024,,Personal Care,Hot,50,1000,50000,cash
+50339,11/17/2025, Kisumu ,groceries,Receive,50,10000,500000,Card
+53991,7/20/2024,nakuru,groceries,Foreign,10,500,5000,M-Pesa
+51549,4/11/2009,,Snacks,Beyond,1,2000,2000,Card
+50651,21-03-1986,Nairobi,Personal Care,Mr,20,10000,200000,cash
+53192,2/2/1981, Kisumu ,Household,Summer,50,,,cash
+52610,17-12-2008,,Personal Care,Series,2,10000,20000,Cash
+53563,6/1/2025,,Beverages,Nation,1,100,100,Cash
+53749,1/24/2026,,Personal Care,Reduce,10,,,Cash
+53433,27-09-1973, Kisumu ,Snacks,Someone,20,2000,40000,cash
+50058,3/20/2026,Nairobi,Personal Care,Evening,,2000,,M-Pesa
+51845,3/7/2026, Kisumu ,Groceries,According,10,500,5000,Cash
+50066,12/12/2025,Nairobi,Personal Care,Third,2,1000,2000,cash
+51581,9/9/2025,,Personal Care,South,,,,cash
+53856,4/11/2026,,Snacks,Money,,,,Card
+51781,13-06-1996, Kisumu ,Beverages,Answer,50,1000,50000,cash
+53275,16-10-2007,Mombasa,Beverages,South,5,250,1250,Cash
+51038,2/7/2011,Mombasa,Snacks,Point,20,1000,20000,Card
+52540,5/3/1997,nakuru,Personal Care,From,20,2000,40000,Cash
+53646,3/9/2026,Mombasa,groceries,Senior,20,1000,20000,M-Pesa
+50729,10/5/2025,nakuru,Personal Care,Least,20,2000,40000,M-Pesa
+50651,4/21/2025,Nairobi,Groceries,Day,20,500,10000,Cash
+53304,7/9/2008,Mombasa,Snacks,State,20,100,2000,Cash
+50357,10/18/2025,Nairobi,Household,Board,50,,,cash
+50235,2/23/2026, Kisumu ,Groceries,Toward,5,1000,5000,cash
+50592,9/18/2025,nakuru,Groceries,Business,2,,,Cash
+50781,2/17/2025, Kisumu ,Snacks,Chance,5,2000,10000,Cash
+51794,9/23/2025,Nairobi,Snacks,Subject,2,10000,20000,Card
+53182,12/9/2021,,Beverages,Treatment,1,250,250,Cash
+50550,12/11/2024,nakuru,groceries,Nor,50,2000,100000,Cash
+52657,23-07-2020, Kisumu ,Groceries,Include,20,2000,40000,cash
+53232,12/23/2024,nakuru,Beverages,Forward,,1000,,cash
+50590,16-04-2004, Kisumu ,Personal Care,Defense,2,,,cash
+52542,5/1/2025,,Beverages,Soon,,2000,,M-Pesa
+52481,15-01-1974,nakuru,Beverages,Church,10,500,5000,Card
+51338,10/15/2025,,groceries,Recognize,20,2000,40000,Card
+50567,9/15/2025, Kisumu ,groceries,Early,2,2000,4000,M-Pesa
+51281,6/9/1989,,Beverages,Customer,,10000,,M-Pesa
+52748,31-03-2012,nakuru,Groceries,Any,20,500,10000,M-Pesa
+50182,4/5/2018,,Beverages,Week,10,50,500,Cash
+51559,5/23/2025,Nairobi,groceries,Interest,10,,,cash
+51765,22-12-1985,Nairobi,Personal Care,Worry,50,500,25000,M-Pesa
+51634,12/6/1989,nakuru,Personal Care,Before,10,,,cash
+51326,17-03-1984,Nairobi,groceries,Form,,1000,,cash
+50879,26-03-2020,Nairobi,Beverages,Approach,,10000,,Cash
+50796,3/9/2014,nakuru,Groceries,Adult,1,,,Cash
+52923,28-11-1971,Mombasa,Snacks,Idea,10,1000,10000,Card
+53928,7/29/2025,,Beverages,Likely,10,,,Cash
+52334,23-09-1972,nakuru,Beverages,Chance,2,10000,20000,Card
+51375,1/7/2010,,groceries,Meet,2,250,500,Cash
+51512,3/11/2025,Nairobi,groceries,Language,10,2000,20000,Cash
+50801,9/27/2024,,Household,Throw,5,100,500,Card
+52288,11/27/2025,,Beverages,Up,10,2000,20000,cash
+53204,11/6/2008,nakuru,Snacks,Watch,1,500,500,cash
+51713,12/1/2024,,Personal Care,Watch,50,500,25000,cash
+51137,7/21/2025,Mombasa,Groceries,Machine,2,250,500,cash
+52592,7/27/2024, Kisumu ,Household,If,1,250,250,Cash
+53530,18-05-2017,,groceries,Sister,,10000,,M-Pesa
+51185,22-11-1996,nakuru,Groceries,Purpose,5,50,250,cash
+53231,7/28/2024,Mombasa,groceries,Environmental,20,1000,20000,Card
+51811,1/8/2002,Mombasa,Personal Care,Yourself,10,50,500,cash
+52337,13-08-1973,Mombasa,Beverages,Physical,50,10000,500000,Card
+53735,9/12/1999, Kisumu ,groceries,No,,1000,,cash
+53253,29-08-2023, Kisumu ,Household,Heart,1,2000,2000,Card
+50190,6/11/2018, Kisumu ,Snacks,Artist,1,1000,1000,cash
+51437,8/7/2003, Kisumu ,groceries,Official,1,10000,10000,Card
+53696,2/5/1978,,Groceries,Discover,5,1000,5000,Card
+51640,7/1/1981,,Personal Care,Certainly,1,50,50,cash
+50227,9/7/1975,,Beverages,Say,10,,,Card
+50476,21-12-2021, Kisumu ,Snacks,His,,2000,,M-Pesa
+51255,2/28/2025,nakuru,Beverages,On,10,250,2500,cash
+50544,8/3/1974, Kisumu ,Personal Care,Spring,50,10000,500000,cash
+51309,23-12-1973,,Snacks,Painting,5,,,M-Pesa
+52916,31-05-1994, Kisumu ,Snacks,None,5,2000,10000,cash
+52451,8/29/2025,,Snacks,Keep,10,10000,100000,cash
+51460,11/2/1993,Mombasa,Beverages,Administration,,10000,,Cash
+50399,10/23/2024,nakuru,Groceries,Short,10,1000,10000,Card
+53204,19-10-2023,Nairobi,Groceries,Girl,1,,,Card
+51086,1/9/2025,Mombasa,Beverages,Writer,1,500,500,M-Pesa
+50516,2/23/2026, Kisumu ,groceries,Allow,2,,,M-Pesa
+51089,20-11-2016,Nairobi,Household,Until,50,,,Card
+50129,10/12/2024,Nairobi,Personal Care,Think,2,100,200,cash
+52719,25-08-1975, Kisumu ,Personal Care,Save,,500,,Cash
+50906,9/27/2025,,Snacks,Treat,10,10000,100000,Card
+52313,1/24/2026, Kisumu ,Groceries,Change,10,500,5000,cash
+51585,4/3/2026,,Groceries,Price,,,,Cash
+52264,9/11/2024,nakuru,Groceries,And,1,,,M-Pesa
+53204,2/5/2025,,Snacks,Mention,5,50,250,cash
+52546,15-09-2025,Nairobi,Groceries,Study,10,250,2500,Cash
+51900,3/22/2026,,Snacks,Including,10,,,M-Pesa
+52451,12/9/2011,Nairobi,Personal Care,Side,5,50,250,M-Pesa
+50330,6/13/2025,,groceries,College,1,500,500,cash
+51961,5/5/2026,Mombasa,Household,Travel,1,100,100,Cash
+51664,12/1/2024,,Personal Care,Various,,,,M-Pesa
+51604,6/30/2024, Kisumu ,groceries,Avoid,1,250,250,Card
+51011,16-09-2018,nakuru,Household,Structure,5,2000,10000,Cash
+53523,30-03-2018,Mombasa,Household,Think,10,1000,10000,Card
+51215,5/10/2026,nakuru,Beverages,Able,1,50,50,M-Pesa
+51414,23-11-2004,Nairobi,Snacks,Security,50,10000,500000,Card
+51804,20-11-2019,Mombasa,Snacks,Cause,20,1000,20000,Cash
+50295,7/30/2025,Nairobi,Groceries,Republican,,2000,,Cash
+51177,26-03-1976, Kisumu ,Personal Care,Less,,2000,,Card
+50501,4/11/1982,,groceries,Fly,20,50,1000,Cash
+53986,3/25/2025,,Personal Care,Face,,100,,M-Pesa
+51340,2/1/2026,nakuru,Household,Nearly,10,1000,10000,Cash
+50200,12/15/2025,nakuru,Snacks,Respond,,100,,M-Pesa
+51834,6/12/1993, Kisumu ,Snacks,Lay,20,100,2000,M-Pesa
+53432,10/26/2025,Nairobi,Personal Care,Piece,1,100,100,Card
+51673,11/10/2016,Mombasa,Household,Education,20,250,5000,Cash
+51542,4/14/2025, Kisumu ,groceries,Performance,5,2000,10000,Cash
+51389,7/2/2025,nakuru,groceries,Cover,2,500,1000,cash
+52671,8/2/2012, Kisumu ,Beverages,There,2,1000,2000,Card
+53450,6/24/2025,,groceries,Likely,1,1000,1000,M-Pesa
+51798,12/7/1974,,Personal Care,Memory,1,,,Cash
+51603,6/10/1976,,Beverages,Them,10,2000,20000,Cash
+52466,6/24/2025,Mombasa,Groceries,Tv,1,50,50,Card
+51565,2/13/2025,,Snacks,Reason,2,50,100,cash
+52859,19-05-2022, Kisumu ,groceries,Partner,20,,,Card
+51557,5/6/2024, Kisumu ,groceries,Style,50,50,2500,cash
+50003,6/26/2024,nakuru,Beverages,Million,10,50,500,Card
+51666,4/16/2025,Mombasa,Household,Later,50,,,Cash
+50236,8/13/2024,Mombasa,groceries,Effect,,50,,Card
+52358,10/15/2025,Mombasa,Beverages,Seek,50,50,2500,M-Pesa
+52464,22-12-2000,nakuru,Snacks,Now,50,500,25000,Cash
+52936,7/20/2024, Kisumu ,Beverages,Case,5,500,2500,cash
+53443,12/26/2024,,Beverages,Do,,,,Card
+51024,12/2/2024,Nairobi,Household,Item,,250,,Card
+53064,9/3/2025,Mombasa,Household,Board,5,10000,50000,M-Pesa
+52584,9/16/2024, Kisumu ,Household,Best,50,,,Cash
+53970,9/10/2001,nakuru,Household,Large,50,,,M-Pesa
+53704,1/10/2026,,Household,Find,10,10000,100000,cash
+52177,2/15/2026,Mombasa,groceries,Raise,20,50,1000,Cash
+50700,5/28/2026,nakuru,Personal Care,Game,5,,,Card
+51520,7/22/2024,Nairobi,Groceries,Week,,500,,cash
+53468,24-08-2018,,Household,Investment,50,100,5000,M-Pesa
+51401,3/3/2026,Nairobi,groceries,Senior,,50,,cash
+53935,7/14/2024, Kisumu ,Beverages,Number,20,10000,200000,M-Pesa
+50826,11/10/2024,,Snacks,Concern,10,,,Card
+51614,7/1/2005,nakuru,Snacks,Can,2,250,500,cash
+52285,10/9/2025,,Household,Nature,2,2000,4000,Card
+51966,7/9/2015,,Beverages,Stay,5,250,1250,cash
+52117,5/30/2025,,Beverages,Big,10,100,1000,Cash
+53711,13-10-2007,,Household,Poor,2,100,200,M-Pesa
+52267,14-02-2008,Mombasa,Personal Care,Board,2,10000,20000,M-Pesa
+50323,21-07-1970, Kisumu ,Snacks,Nation,1,1000,1000,M-Pesa
+53116,1/17/2025,Mombasa,Groceries,At,1,250,250,Card
+53563,9/10/2002,Nairobi,Beverages,Customer,10,100,1000,Cash
+52714,16-08-1989,,Beverages,Degree,,1000,,M-Pesa
+53951,28-01-2015,,Beverages,Own,5,2000,10000,Card
+51791,22-01-1990,,groceries,Save,5,,,M-Pesa
+51313,8/6/2024,Nairobi,Groceries,Experience,5,,,Card
+53248,2/8/2025, Kisumu ,Beverages,Easy,1,50,50,Card
+50997,7/22/2024,,groceries,Trade,2,250,500,M-Pesa
+53464,3/14/2026,nakuru,Household,Law,5,250,1250,cash
+50901,6/27/2025,Mombasa,Beverages,How,10,2000,20000,cash
+53715,11/18/2024, Kisumu ,Personal Care,Type,10,10000,100000,Cash
+51830,3/8/2026,,Household,Write,20,250,5000,Card
+52691,5/23/2026,Nairobi,Beverages,Appear,5,250,1250,M-Pesa
+52596,11/20/2024,nakuru,Household,Soon,20,1000,20000,Card
+51195,2/10/1984, Kisumu ,Groceries,Institution,2,250,500,cash
+50337,2/4/2020, Kisumu ,Groceries,Phone,20,100,2000,cash
+52479,10/13/2024,,Beverages,Word,2,500,1000,Cash
+53184,4/30/2025,,Snacks,Skin,5,500,2500,Cash
+52677,16-12-2007,,Snacks,Population,20,50,1000,M-Pesa
+51227,1/1/2025,Nairobi,Beverages,Two,2,100,200,Cash
+51232,9/2/2024, Kisumu ,Groceries,No,1,10000,10000,Cash
+50547,10/22/2025, Kisumu ,Snacks,Short,20,1000,20000,cash
+50148,24-10-2018, Kisumu ,Snacks,Dinner,1,1000,1000,cash
+53760,9/11/1972,,groceries,Herself,50,10000,500000,Card
+53174,5/7/2013,,Household,Any,20,1000,20000,Card
+53152,1/5/2015,,Beverages,Whatever,50,10000,500000,Cash
+52945,25-10-2025, Kisumu ,Personal Care,Record,1,1000,1000,Card
+51446,9/23/2025, Kisumu ,Groceries,Husband,,250,,Card
+50161,3/25/2025, Kisumu ,Household,According,1,100,100,M-Pesa
+53569,3/11/2014, Kisumu ,Snacks,Simply,5,100,500,Cash
+53517,2/12/2025,nakuru,Groceries,Catch,2,,,Card
+51639,1/25/2026, Kisumu ,Groceries,Still,50,1000,50000,cash
+53338,11/28/2025,,Personal Care,Relationship,,50,,cash
+50522,3/16/2025,,Household,Report,2,10000,20000,Card
+50161,12/7/2025,nakuru,groceries,Eight,20,1000,20000,Card
+50622,17-05-2011,nakuru,groceries,What,1,250,250,cash
+53435,9/8/2000,Nairobi,Personal Care,Fast,20,500,10000,M-Pesa
+50708,28-03-1987,,Beverages,Range,50,,,cash
+53503,10/12/2024, Kisumu ,Household,Space,1,10000,10000,cash
+52883,6/28/2024,Nairobi,Snacks,Minute,10,1000,10000,Card
+50446,1/28/2025, Kisumu ,Snacks,Picture,5,500,2500,Card
+51574,12/18/2024,Mombasa,groceries,Dream,,10000,,Cash
+52448,29-09-1988,Mombasa,Snacks,Investment,10,10000,100000,Cash
+50721,3/7/2007,Mombasa,Snacks,Magazine,2,1000,2000,M-Pesa
+53969,11/30/2024,,Household,Above,5,2000,10000,Cash
+52967,5/15/2026,Nairobi,Snacks,Admit,10,2000,20000,M-Pesa
+53818,10/1/1985, Kisumu ,Groceries,Leave,10,100,1000,Card
+50643,19-08-1997, Kisumu ,Beverages,Least,5,500,2500,Cash
+53278,12/22/2024,nakuru,Snacks,Chance,2,1000,2000,cash
+50640,27-04-2023,,Beverages,Ok,2,50,100,Card
+51324,20-08-2017,Mombasa,Personal Care,Special,2,2000,4000,M-Pesa
+51141,30-07-2022,Mombasa,Personal Care,Culture,1,500,500,cash
+53536,7/7/2025, Kisumu ,Household,According,1,1000,1000,cash
+51153,1/27/2025,,Personal Care,Sort,,2000,,M-Pesa
+53778,7/30/2025,Mombasa,Groceries,Wide,1,10000,10000,Card
+53430,20-06-2012,,Snacks,Artist,,50,,M-Pesa
+53345,24-01-2003,,Snacks,Kitchen,10,250,2500,M-Pesa
+51620,24-05-2023,,groceries,Really,1,100,100,Card
+52445,1/2/1990, Kisumu ,Beverages,Provide,5,10000,50000,Cash
+51648,6/16/2025, Kisumu ,groceries,Decide,2,1000,2000,cash
+53899,16-02-1979,nakuru,Personal Care,Charge,5,10000,50000,cash
+50856,6/20/2025,,Personal Care,Right,2,250,500,cash
+51765,10/24/2025,Mombasa,Household,Citizen,20,10000,200000,M-Pesa
+50429,2/10/1973,,Snacks,Off,2,2000,4000,Cash
+52949,2/2/2025,,Snacks,Above,5,100,500,cash
+51263,27-02-2026,Mombasa,Household,We,20,2000,40000,M-Pesa
+53918,25-10-2019,,Personal Care,Themselves,10,500,5000,Card
+52503,3/1/1993,,Household,Imagine,10,250,2500,M-Pesa
+52820,4/1/1982,Nairobi,Beverages,Strategy,20,1000,20000,M-Pesa
+52711,15-09-2002,Mombasa,Household,Receive,10,100,1000,Card
+51301,18-12-2004,Nairobi,Household,Begin,20,250,5000,Cash
+51792,18-05-2007, Kisumu ,Beverages,Energy,20,100,2000,Cash
+51968,6/28/2024,,Household,Between,5,100,500,Card
+53488,17-12-1989,,Beverages,Few,1,10000,10000,M-Pesa
+51942,12/23/2025,Mombasa,Personal Care,Reflect,50,500,25000,Cash
+53695,23-02-2015,Nairobi,Household,Want,2,,,M-Pesa
+52176,7/5/2017,,Beverages,Include,5,50,250,M-Pesa
+50772,26-05-2018,Mombasa,Beverages,Deal,50,500,25000,Card
+52713,18-02-2013,,Personal Care,Bag,5,500,2500,cash
+53210,14-11-1987,Mombasa,Snacks,Truth,1,2000,2000,cash
+53215,2/3/1981,Mombasa,Snacks,Budget,10,50,500,cash
+51735,7/21/2024,Mombasa,Personal Care,Sound,10,2000,20000,cash
+50653,8/17/2024,,Groceries,Knowledge,5,2000,10000,M-Pesa
+51956,7/10/2024, Kisumu ,Beverages,We,20,250,5000,M-Pesa
+50768,2/2/2025,Mombasa,Snacks,Base,1,500,500,Cash
+52231,1/5/2026,,Snacks,Eight,2,500,1000,Card
+53811,10/2/2025,,Groceries,Support,20,500,10000,cash
+50813,14-02-1995, Kisumu ,Beverages,Doctor,20,,,Card
+52869,7/29/2025,nakuru,Groceries,Onto,50,50,2500,M-Pesa
+53193,30-03-1978,,groceries,By,20,10000,200000,M-Pesa
+53565,6/28/2025,Mombasa,groceries,Study,5,,,Cash
+52147,12/22/2024,Mombasa,Beverages,Prevent,,1000,,M-Pesa
+50301,6/7/1979,,Beverages,Dinner,50,10000,500000,Cash
+53159,4/10/1982,,Groceries,Style,,2000,,Cash
+53213,26-10-2006,,Snacks,Them,1,50,50,M-Pesa
+50151,11/11/1986, Kisumu ,Household,Hand,20,2000,40000,Card
+53802,23-03-2010,,Household,Thus,50,2000,100000,Card
+52833,27-06-1991,Nairobi,Household,Character,20,50,1000,M-Pesa
+51286,13-09-2025,,Household,Million,1,10000,10000,Cash
+50827,3/15/2025,Nairobi,Personal Care,Without,20,1000,20000,Card
+53396,1/12/2026,Nairobi,Snacks,Close,1,100,100,Card
+53207,22-10-1979,Mombasa,Snacks,Region,10,1000,10000,Cash
+50318,6/28/2025,,groceries,Choose,5,10000,50000,cash
+53931,21-07-2007,nakuru,Household,Interesting,50,,,Card
+51697,12/1/1975,,Personal Care,Director,50,,,Cash
+50078,11/24/2025,nakuru,Beverages,Character,10,,,cash
+53147,9/11/2021,,Personal Care,Speak,2,1000,2000,Cash
+50462,26-04-2014,,Personal Care,Board,2,100,200,Card
+50127,9/25/2025,Nairobi,Beverages,Property,,250,,M-Pesa
+52044,8/16/2025,,Beverages,Sit,10,100,1000,M-Pesa
+53898,21-01-1976,,Snacks,End,50,500,25000,M-Pesa
+53370,1/16/2025,,Personal Care,Reality,50,2000,100000,Cash
+50585,7/12/2024, Kisumu ,Snacks,Structure,5,,,cash
+53325,22-01-1971,nakuru,Personal Care,Often,20,50,1000,M-Pesa
+52988,14-03-2008,Nairobi,Snacks,Price,1,50,50,Card
+50371,28-02-2022,,Personal Care,Rate,50,100,5000,Card
+52815,15-06-1976,nakuru,Personal Care,Personal,1,50,50,Card
+53734,9/7/2006,nakuru,Snacks,Least,5,500,2500,Cash
+51180,8/3/1985, Kisumu ,Personal Care,Fish,20,250,5000,Cash
+51978,5/21/2026,Mombasa,Groceries,Back,2,1000,2000,Cash
+53434,23-10-1972,,Personal Care,Memory,1,500,500,cash
+53835,7/6/2020,Nairobi,Household,American,2,100,200,cash
+53571,17-01-1971,nakuru,Household,First,10,500,5000,cash
+52019,23-01-1975,Nairobi,Snacks,Specific,20,500,10000,cash
+52435,10/31/2024,Mombasa,Beverages,Hair,20,500,10000,cash
+50009,6/6/2022,,groceries,Bring,2,10000,20000,Card
+53679,11/8/2024,,Beverages,Investment,20,2000,40000,Cash
+50154,7/20/2025, Kisumu ,groceries,Trade,2,2000,4000,Cash
+51438,10/8/2025, Kisumu ,Groceries,Wind,2,2000,4000,Cash
+51206,12/9/1973,Nairobi,Beverages,Western,2,1000,2000,cash
+51844,7/11/2025,Nairobi,groceries,Environment,50,500,25000,Cash
+52739,10/3/2024,Mombasa,groceries,Into,20,50,1000,Cash
+52494,28-05-1976, Kisumu ,Snacks,Travel,50,500,25000,M-Pesa
+53094,16-06-1990,Mombasa,Household,Heavy,5,500,2500,Cash
+50870,2/13/2025, Kisumu ,Household,Traditional,20,50,1000,M-Pesa
+50765,24-03-2007,Nairobi,Personal Care,Capital,5,250,1250,cash
+53336,1/28/2025,,groceries,Give,20,250,5000,M-Pesa
+51866,7/28/2025,,Beverages,Control,,500,,Card
+53496,14-11-1992,nakuru,Personal Care,Brother,50,1000,50000,cash
+50131,3/21/2025,Nairobi,Household,Put,20,500,10000,M-Pesa
+50875,14-04-1984,,Snacks,Around,2,250,500,cash
+50322,3/3/2026,,Snacks,Accept,20,1000,20000,Card
+52432,5/12/2025,Mombasa,Personal Care,Bad,,100,,M-Pesa
+51483,13-04-1986,Mombasa,Groceries,Difference,2,500,1000,cash
+50516,22-03-1973,nakuru,groceries,Tax,,2000,,cash
+53288,12/12/2024,,groceries,Capital,20,500,10000,Card
+52195,5/10/1970,,Beverages,Past,2,2000,4000,M-Pesa
+50319,18-01-2021,nakuru,Snacks,Wrong,10,100,1000,M-Pesa
+50793,4/7/2025,Nairobi,Personal Care,Ask,50,50,2500,M-Pesa
+50507,20-04-1997,nakuru,Beverages,Project,50,,,Card
+51010,1/22/2026,nakuru,groceries,Thank,2,500,1000,cash
+53146,14-09-1993,,groceries,Realize,,2000,,Cash
+50009,26-12-1995,Mombasa,Personal Care,When,10,1000,10000,Card
+50220,30-03-2012,Nairobi,Beverages,Wish,5,10000,50000,Cash
+51172,25-11-2004, Kisumu ,Snacks,Tv,1,10000,10000,cash
+52967,2/10/2025,,Groceries,Person,10,2000,20000,M-Pesa
+52792,4/4/2025,,Personal Care,Effort,5,2000,10000,Card
+52858,7/13/2025,Mombasa,Beverages,Fear,20,250,5000,Card
+52261,6/12/2026,nakuru,Beverages,Both,2,250,500,Cash
+50090,12/15/2025,Mombasa,Snacks,Control,50,,,M-Pesa
+51823,28-08-1986, Kisumu ,Groceries,Time,20,10000,200000,Card
+50227,10/11/2025,,Beverages,Recently,20,50,1000,cash
+52420,3/10/2026,,Personal Care,Four,1,2000,2000,Cash
+51639,11/22/2024,Mombasa,Household,Art,10,50,500,Card
+50199,1/4/2025,Nairobi,groceries,She,1,50,50,cash
+50433,26-06-2003,,Beverages,Read,10,50,500,M-Pesa
+50893,5/31/2025,Mombasa,Personal Care,Interview,50,1000,50000,Cash
+53541,1/13/2025,,Beverages,Not,,100,,Card
+51498,10/8/2014,Nairobi,Groceries,Political,5,2000,10000,Card
+51210,8/26/2025,Nairobi,Snacks,Call,10,50,500,Cash
+51991,2/1/2026,,Beverages,Something,1,1000,1000,Card
+51640,3/29/2026,nakuru,Household,Daughter,50,1000,50000,M-Pesa
+52111,4/24/2025, Kisumu ,groceries,Dinner,2,50,100,Cash
+52915,3/4/1988,Mombasa,Snacks,Environment,2,10000,20000,M-Pesa
+51395,9/12/1981, Kisumu ,Household,Conference,1,100,100,Card
+52599,11/2/2026,Mombasa,Beverages,Investment,50,100,5000,Card
+52959,3/31/2025,,Household,Involve,20,2000,40000,M-Pesa
+52751,27-03-2016,,Personal Care,Blue,1,50,50,Cash
+53957,12/2/2025,Mombasa,Snacks,Clearly,10,250,2500,cash
+52820,12/23/2024,Nairobi,Personal Care,Key,50,,,cash
+51357,7/1/2021,,Household,Worry,2,50,100,cash
+52303,11/6/2005, Kisumu ,Beverages,Record,10,100,1000,Cash
+52968,9/8/1998, Kisumu ,Beverages,Book,20,500,10000,Card
+51236,11/6/1982,Nairobi,groceries,To,,500,,Cash
+51722,9/7/2025,Mombasa,Household,Throughout,5,50,250,Cash
+51011,16-05-1991,Nairobi,Beverages,Right,20,2000,40000,M-Pesa
+50776,9/12/2024,,groceries,Toward,10,10000,100000,M-Pesa
+52652,12/22/2025,Mombasa,Household,Turn,,50,,M-Pesa
+53245,6/5/2010,nakuru,groceries,Its,,1000,,Cash
+50749,17-01-1988,Mombasa,Household,Ready,50,500,25000,Cash
+52540,11/10/1981, Kisumu ,Groceries,Mention,1,10000,10000,cash
+50651,20-01-1974, Kisumu ,Groceries,Nature,10,10000,100000,cash
+50101,2/28/2025,Nairobi,Groceries,Call,10,1000,10000,M-Pesa
+51866,10/1/2024,nakuru,Snacks,Own,,100,,Cash
+53931,10/2/1976,Mombasa,Groceries,Small,2,,,M-Pesa
+52425,21-02-2002,nakuru,Personal Care,West,10,2000,20000,Cash
+50062,15-04-1991, Kisumu ,Beverages,Image,50,10000,500000,M-Pesa
+51548,20-11-2025,nakuru,Groceries,Coach,5,250,1250,Card
+52657,21-09-2007,,Personal Care,Seven,5,10000,50000,M-Pesa
+52256,15-02-1981,,groceries,Bank,10,500,5000,Card
+53385,10/17/2024,,Snacks,Myself,10,100,1000,Cash
+50125,12/10/1974,,Household,Wish,,100,,M-Pesa
+51039,4/28/2026,,Beverages,Join,1,50,50,cash
+50247,4/3/2025,Nairobi,Snacks,Attention,1,2000,2000,Card
+51847,9/12/2024,Nairobi,Household,Agent,2,500,1000,Cash
+50579,7/13/2025,,groceries,Degree,2,100,200,M-Pesa
+52565,8/15/2025, Kisumu ,Personal Care,Production,20,10000,200000,Card
+50753,2/4/2026,,Beverages,Ball,10,500,5000,Card
+53409,20-07-1978, Kisumu ,Household,Save,50,500,25000,Cash
+50272,12/16/2025,,groceries,Budget,5,,,M-Pesa
+50709,3/19/2026,,Groceries,Enjoy,,50,,M-Pesa
+51769,2/23/2026, Kisumu ,Groceries,Describe,,1000,,cash
+52330,4/12/1999, Kisumu ,Snacks,Whatever,10,100,1000,Cash
+50030,13-02-2003,,Household,Happen,50,500,25000,cash
+52348,17-03-2014,Nairobi,groceries,Build,50,500,25000,cash
+50763,10/3/2024,nakuru,Groceries,Decade,,1000,,Cash
+51872,7/17/2025,nakuru,Personal Care,Arm,,,,Card
+50575,4/9/2025, Kisumu ,Household,Experience,,100,,Cash
+50448,4/24/2025,Nairobi,Snacks,Seat,10,1000,10000,cash
+52423,6/24/2025,,Snacks,Those,2,1000,2000,Card
+53366,9/1/1991,,groceries,Network,,50,,Cash
+51603,9/30/2024,Mombasa,Groceries,Sign,5,,,M-Pesa
+51625,4/12/2025,Mombasa,Beverages,Establish,20,100,2000,Card
+51063,2/4/2022,,Snacks,Beautiful,50,2000,100000,Card
+52760,12/7/2024,Mombasa,Beverages,Know,1,10000,10000,M-Pesa
+52023,2/17/2025,,Groceries,Personal,,500,,M-Pesa
+52804,10/29/2025,nakuru,groceries,Red,1,250,250,cash
+50744,29-04-1984,Mombasa,Beverages,Serve,1,2000,2000,cash
+52691,6/2/1988, Kisumu ,Personal Care,But,50,2000,100000,Card
+52120,9/3/2025,Mombasa,Groceries,Per,20,10000,200000,Card
+53950,10/27/2025, Kisumu ,Groceries,Friend,2,10000,20000,M-Pesa
+51548,8/12/2012,Nairobi,Household,Performance,50,50,2500,Card
+51610,14-05-1990,Mombasa,Household,Baby,5,10000,50000,Card
+50327,19-05-1989,Nairobi,Household,Thus,5,1000,5000,cash
+51900,8/7/2008,Mombasa,Household,Enough,1,1000,1000,Card
+51893,7/16/2024, Kisumu ,Groceries,High,10,50,500,M-Pesa
+51810,23-09-1989, Kisumu ,Household,Meet,5,250,1250,Cash
+51621,10/4/1997,,Snacks,Beat,10,50,500,Cash
+50949,5/9/2025,Mombasa,groceries,Everything,,100,,cash
+53586,2/1/1989,Nairobi,Snacks,Sit,5,50,250,Cash
+51643,12/30/2024,,Groceries,Mr,10,500,5000,M-Pesa
+53678,6/20/2024, Kisumu ,Snacks,Cut,5,1000,5000,M-Pesa
+53573,2/17/2026,,Beverages,Economy,5,250,1250,Card
+51148,31-01-2008,,Groceries,Family,5,500,2500,M-Pesa
+52584,28-12-1972,Mombasa,groceries,Its,50,250,12500,M-Pesa
+50984,9/27/2025,,Snacks,Ever,2,1000,2000,Card
+52302,14-06-1973,,Snacks,Goal,10,10000,100000,cash
+52824,1/8/2026,,Household,Number,,1000,,M-Pesa
+53254,10/9/2025,Nairobi,groceries,Only,2,1000,2000,cash
+53983,2/3/2006,Mombasa,Personal Care,Consumer,2,2000,4000,Card
+51344,19-02-2014,Mombasa,Household,Commercial,5,500,2500,Cash
+51651,8/1/2025,nakuru,Groceries,Order,1,2000,2000,Card
+53590,15-05-1973, Kisumu ,Snacks,Thousand,10,1000,10000,M-Pesa
+53088,7/25/2025,,Personal Care,Production,10,1000,10000,cash
+52522,5/24/2025,Mombasa,Groceries,Generation,10,1000,10000,Card
+53729,3/23/2025,nakuru,Beverages,Of,,50,,Card
+51069,10/30/2024,,Snacks,Per,5,10000,50000,Cash
+52701,10/28/2025,,Personal Care,Thus,20,1000,20000,Cash
+50770,10/5/2025,nakuru,Snacks,Cover,10,500,5000,Cash
+52941,6/10/1992,nakuru,groceries,Garden,20,100,2000,Cash
+52915,4/16/2026,nakuru,Personal Care,News,1,10000,10000,M-Pesa
+51113,4/11/1987,Nairobi,Snacks,Foreign,,50,,Cash
+51573,7/16/2025,Nairobi,Beverages,Get,50,1000,50000,M-Pesa
+50808,11/4/1997,Nairobi,Beverages,Individual,10,1000,10000,Cash
+52931,5/12/2025,Nairobi,Personal Care,Miss,1,100,100,Card
+52115,25-08-1999,Nairobi,Groceries,Growth,10,1000,10000,Card
+53281,5/17/2025,Mombasa,Beverages,Open,,50,,M-Pesa
+51668,3/27/2025,nakuru,groceries,Individual,,500,,M-Pesa
+52415,4/6/1984,,Snacks,But,20,250,5000,cash
+50104,26-08-2006, Kisumu ,Snacks,Though,1,50,50,Cash
+53765,6/25/2025,nakuru,Household,Magazine,50,10000,500000,Cash
+53101,15-11-1988,,Household,Wonder,1,500,500,cash
+53994,8/10/2024,,Snacks,Expect,2,100,200,cash
+53581,1/7/2025,nakuru,Groceries,Leg,10,2000,20000,M-Pesa
+52792,7/18/2025,,Beverages,Other,1,250,250,Card
+51343,18-03-2020,Nairobi,Beverages,Blood,2,250,500,M-Pesa
+52993,4/23/2025,nakuru,Beverages,Change,10,100,1000,M-Pesa
+53979,17-12-2007,Nairobi,Snacks,Trial,1,2000,2000,Cash
+50157,22-03-2004,Nairobi,groceries,Purpose,5,1000,5000,M-Pesa
+51161,20-02-1981, Kisumu ,Household,What,20,10000,200000,cash
+53301,9/3/1988, Kisumu ,Beverages,Beautiful,5,50,250,Card
+50502,8/29/2025,Mombasa,Beverages,Turn,20,250,5000,Card
+51412,8/3/2024,nakuru,Beverages,Reduce,5,500,2500,Card
+51396,22-12-2004,nakuru,Snacks,However,2,50,100,M-Pesa
+50940,4/10/1989,Nairobi,groceries,Law,20,100,2000,Cash
+53405,6/25/2025,Mombasa,groceries,Wide,10,2000,20000,M-Pesa
+50098,7/6/1975, Kisumu ,groceries,Everyone,10,2000,20000,cash
+52591,11/24/2025,,Household,Body,,2000,,Cash
+53295,30-01-1995, Kisumu ,Groceries,Letter,1,10000,10000,M-Pesa
+50638,9/22/2024,,Groceries,Last,50,2000,100000,cash
+52378,2/11/2001,,Household,Pick,,,,Card
+51526,23-07-1972,,Household,Allow,2,500,1000,cash
+53735,12/5/2000,,Snacks,Remember,2,1000,2000,Card
+51268,6/2/2022,,Snacks,Region,,10000,,Cash
+52203,25-02-2023,,Personal Care,Country,2,10000,20000,cash
+52609,9/25/2024,Nairobi,groceries,College,10,2000,20000,cash
+51533,3/3/2026, Kisumu ,Snacks,Sort,,2000,,cash
+53398,6/13/2025, Kisumu ,Groceries,Gun,20,50,1000,Card
+50177,10/9/2024,Nairobi,Household,Clear,,2000,,M-Pesa
+51554,22-06-1992,,Beverages,Important,1,100,100,Cash
+53063,18-10-1977,Nairobi,Personal Care,Need,10,250,2500,cash
+52225,10/2/2015,Nairobi,Groceries,Paper,1,250,250,M-Pesa
+51332,11/9/1986, Kisumu ,Personal Care,Seek,20,250,5000,Cash
+53648,12/26/2024, Kisumu ,Household,Beyond,1,250,250,cash
+51829,4/9/2025,,Beverages,Between,,10000,,cash
+52530,11/5/1993,Nairobi,Household,Continue,20,50,1000,cash
+51441,8/4/1975,,Groceries,Appear,10,,,cash
+50914,27-06-1998,,Household,Without,20,,,M-Pesa
+51329,15-12-2005,Nairobi,groceries,Street,1,10000,10000,M-Pesa
+52513,10/30/2024, Kisumu ,groceries,Can,10,2000,20000,M-Pesa
+52234,20-05-2005,,Groceries,Medical,,10000,,Cash
+51332,18-12-1999, Kisumu ,groceries,Day,5,500,2500,M-Pesa
+50115,8/9/2024,,Household,Partner,,,,cash
+53395,16-11-1996,Mombasa,groceries,Produce,50,100,5000,M-Pesa
+50945,7/31/2025,,Snacks,Employee,,500,,cash
+50275,10/16/2024,,Beverages,Note,1,10000,10000,cash
+50407,28-04-1997,,Snacks,Glass,20,,,Cash
+52366,15-12-2024,Mombasa,Household,After,50,50,2500,Card
+50471,3/2/2026,,Household,Recently,10,2000,20000,Card
+52746,4/20/2026,Mombasa,Beverages,Institution,20,100,2000,cash
+53022,11/11/2008,Nairobi,Snacks,Condition,20,250,5000,Card
+50915,24-07-1984,Mombasa,Snacks,Spend,5,250,1250,cash
+50172,29-10-2018,,Beverages,Security,1,10000,10000,M-Pesa
+52512,8/17/2025,,Snacks,Last,50,250,12500,cash
+50373,27-01-1981,,Beverages,Character,1,250,250,Cash
+51837,5/16/2026,,Groceries,Study,20,250,5000,cash
+51616,4/11/2018,Nairobi,Household,Music,2,250,500,M-Pesa
+52698,2/18/2025,Nairobi,Groceries,West,5,250,1250,Cash
+53027,2/27/2025,,Household,Surface,1,100,100,Cash
+51604,12/18/2024,,Beverages,Lose,10,10000,100000,M-Pesa
+51624,13-03-1997,Nairobi,Snacks,Wear,5,,,Cash
+51311,1/23/2026,Nairobi,groceries,Person,20,50,1000,M-Pesa
+50533,6/12/2002,Nairobi,Personal Care,Interview,50,1000,50000,Card
+51126,2/1/2026,,Snacks,Million,2,,,cash
+53314,9/17/2024,nakuru,groceries,Song,5,50,250,cash
+50150,8/29/2025,Mombasa,groceries,Fight,10,500,5000,Cash
+52854,11/25/2025, Kisumu ,groceries,Direction,,50,,cash
+51570,3/12/2026,nakuru,Groceries,Team,50,,,Cash
+50439,17-04-2022, Kisumu ,Personal Care,Out,50,,,cash
+52720,4/4/1972,nakuru,Groceries,Return,50,2000,100000,Card
+50293,22-09-1988,nakuru,Personal Care,Record,10,250,2500,Card
+50530,1/12/2019,Mombasa,Snacks,Federal,20,250,5000,Cash
+53171,6/22/2024,Mombasa,Household,Despite,,10000,,M-Pesa
+52501,4/25/2026,Nairobi,groceries,Attack,1,500,500,M-Pesa
+52928,6/30/2025,Mombasa,Personal Care,Bed,1,250,250,M-Pesa
+53630,27-01-2002,,Household,Begin,50,2000,100000,M-Pesa
+53126,11/12/2024,nakuru,Household,Open,20,250,5000,Cash
+51752,31-07-1972,,Personal Care,Design,2,250,500,M-Pesa
+51174,23-08-1980,nakuru,Snacks,Rather,20,50,1000,Card
+53657,9/24/2024, Kisumu ,Snacks,Their,20,2000,40000,Card
+53362,20-03-1991,nakuru,groceries,Course,10,,,Card
+52204,24-02-2000,Nairobi,Snacks,Able,50,2000,100000,Cash
+51520,3/28/2025, Kisumu ,Personal Care,Push,2,50,100,Card
+52129,3/24/2026,,groceries,Allow,1,10000,10000,Cash
+50475,29-05-2000,Mombasa,Groceries,Perhaps,5,,,Card
+53882,6/8/2020,Nairobi,groceries,Organization,,,,M-Pesa
+50577,3/5/2026, Kisumu ,Snacks,Discover,1,250,250,Card
+53748,9/21/2025,Mombasa,groceries,Into,2,1000,2000,M-Pesa
+51761,8/18/2024,nakuru,Personal Care,Pull,,,,Cash
+50221,31-07-1991,nakuru,Snacks,Politics,1,1000,1000,cash
+50931,10/6/1986,,Personal Care,Morning,,10000,,cash
+53756,2/7/1982,nakuru,Personal Care,Wind,,500,,Card
+51387,12/8/1971, Kisumu ,Beverages,Individual,,500,,Card
+53584,11/11/2025,,groceries,Director,5,10000,50000,Card
+54000,7/10/2024,,Household,Building,5,,,cash
+50647,1/30/2025,Mombasa,Personal Care,Fill,5,2000,10000,M-Pesa
+51204,10/6/1982,Nairobi,Snacks,Never,10,50,500,M-Pesa
+53559,1/24/2026,Mombasa,groceries,Here,1,250,250,Card
+53506,3/5/2025,Mombasa,Household,Data,50,100,5000,cash
+52263,6/4/1986,Mombasa,Personal Care,Card,1,250,250,cash
+53572,11/16/2024,Nairobi,Personal Care,Table,1,50,50,cash
+53021,20-09-1978,,Beverages,Western,20,,,M-Pesa
+53228,9/11/1984,nakuru,Groceries,Item,10,500,5000,Card
+51128,7/7/1995,Mombasa,Household,Teacher,1,50,50,cash
+52659,1/28/2025,nakuru,Beverages,Want,,50,,Cash
+53078,25-08-1997,Nairobi,Snacks,Choice,20,2000,40000,Card
+52711,11/2/2003,Mombasa,Beverages,Represent,2,1000,2000,Card
+51363,19-02-2015,Mombasa,groceries,Focus,10,500,5000,cash
+51135,28-10-2025,,Beverages,Meet,2,1000,2000,Card
+51449,3/7/2017,Mombasa,Beverages,Health,20,,,M-Pesa
+52036,20-06-2005,nakuru,Household,Move,5,10000,50000,Cash
+52788,10/26/2025, Kisumu ,Beverages,Size,,250,,Cash
+52750,29-07-2013,,Personal Care,Make,2,,,Cash
+50721,11/4/2024,,Household,You,5,1000,5000,Cash
+53055,11/14/2024,Nairobi,Personal Care,Oil,2,500,1000,Cash
+51720,10/9/1992,,groceries,Accept,1,50,50,Card
+52367,10/4/2004,Nairobi,groceries,Town,20,500,10000,Cash
+52754,14-10-2015, Kisumu ,Household,Commercial,10,250,2500,cash
+51445,12/4/2025,,Personal Care,Leave,1,2000,2000,M-Pesa
+51731,18-03-1972,,groceries,Race,1,100,100,Cash
+50598,7/11/2009, Kisumu ,Household,But,2,50,100,Card
+51213,20-08-1991,,Groceries,Police,5,2000,10000,M-Pesa
+53402,25-09-1970,Mombasa,Personal Care,Right,50,250,12500,Card
+52983,11/7/1998, Kisumu ,Personal Care,Office,50,2000,100000,cash
+53089,27-10-1988,Nairobi,Beverages,Their,2,50,100,M-Pesa
+51833,7/29/2025,Mombasa,Personal Care,Newspaper,50,500,25000,Cash
+53512,17-02-1984,nakuru,Personal Care,Dinner,20,2000,40000,M-Pesa
+53668,19-10-1970, Kisumu ,Household,Case,,100,,Cash
+50428,31-05-2003,Nairobi,Personal Care,Play,,500,,cash
+50591,11/4/2012,Mombasa,Snacks,Event,5,250,1250,Card
+50154,12/2/1995,nakuru,Beverages,Doctor,2,1000,2000,Card
+51034,7/11/2012,,Groceries,Herself,2,100,200,M-Pesa
+53317,10/20/2025,nakuru,groceries,Main,50,10000,500000,M-Pesa
+50506,12/21/2024,nakuru,Snacks,Keep,10,250,2500,M-Pesa
+51520,28-02-2002, Kisumu ,Personal Care,House,5,500,2500,Card
+53674,10/29/2025,nakuru,Household,Series,20,250,5000,Cash
+53355,27-06-1971,Nairobi,Personal Care,Young,,500,,Cash
+50728,1/11/1971,,Household,Six,50,10000,500000,cash
+50292,11/7/2024,,groceries,Effect,2,2000,4000,Card
+51876,1/9/1975,,Groceries,Hundred,2,10000,20000,cash
+50616,3/26/2025,,Beverages,View,50,100,5000,M-Pesa
+53908,6/25/2025,Nairobi,Household,Pass,2,,,cash
+50778,5/26/2026,nakuru,Beverages,Leg,10,2000,20000,M-Pesa
+52881,6/13/2026,Mombasa,Groceries,Seek,20,500,10000,cash
+52861,9/5/2024,,Beverages,Least,1,100,100,M-Pesa
+52211,6/14/2026,,Beverages,Friend,20,100,2000,M-Pesa
+51583,19-07-1981,Nairobi,Household,Rather,10,10000,100000,Card
+50711,8/8/1970, Kisumu ,Household,Something,50,100,5000,Card
+50760,8/4/2013,,groceries,Drop,10,1000,10000,cash
+53230,7/25/2024,Mombasa,Personal Care,Miss,20,1000,20000,M-Pesa
+51151,2/2/1974,Nairobi,Groceries,Shake,5,50,250,M-Pesa
+50784,6/22/2025,Nairobi,groceries,Fast,2,50,100,cash
+51313,2/4/2025,Nairobi,Groceries,Anything,2,100,200,Card
+52228,6/8/2006,Mombasa,groceries,My,10,1000,10000,Cash
+50523,7/1/2009,nakuru,Household,Give,,50,,M-Pesa
+53946,2/10/2006,,groceries,Value,,100,,Cash
+52685,4/22/2025,,groceries,Always,1,1000,1000,Card
+51901,30-09-1990, Kisumu ,Personal Care,Tonight,1,2000,2000,cash
+50672,6/6/2026, Kisumu ,Groceries,Her,,10000,,cash
+53688,12/3/2024,,Groceries,Discuss,1,50,50,Cash
+52939,1/7/2025,nakuru,Snacks,Way,,2000,,M-Pesa
+51798,5/26/2025,,Household,Various,2,1000,2000,cash
+51452,4/12/2026,Nairobi,Snacks,Wish,1,250,250,Card
+50211,11/14/2025, Kisumu ,Beverages,These,5,500,2500,Card
+51701,11/10/2009,Nairobi,Beverages,Sure,5,1000,5000,Cash
+52303,9/7/2025,,Groceries,The,1,10000,10000,cash
+53539,5/2/2025,nakuru,groceries,Each,5,,,M-Pesa
+51409,28-07-2025,nakuru,Groceries,Whom,10,10000,100000,Cash
+50980,9/3/1995,,Beverages,Want,,1000,,Card
+51832,24-05-2021,,groceries,Might,2,50,100,cash
+52935,20-08-1980,,Beverages,Treat,5,2000,10000,cash
+51790,6/30/2024,,Beverages,Imagine,1,250,250,Card
+51114,16-03-2012,,Personal Care,Suggest,50,2000,100000,M-Pesa
+52391,21-12-1983,nakuru,Household,Pull,,100,,Card
+51700,5/21/2026,,Snacks,Person,2,100,200,cash
+50508,3/1/2025,Nairobi,Snacks,Brother,50,10000,500000,M-Pesa
+50011,12/18/2025, Kisumu ,groceries,Never,1,,,cash
+50770,1/1/2020,Mombasa,groceries,Raise,20,,,Cash
+50271,4/7/2025,,Personal Care,Car,,500,,Card
+52912,31-01-1980,,groceries,Travel,50,10000,500000,Cash
+52080,2/4/2000,,Personal Care,Visit,1,2000,2000,Cash
+51449,5/28/2025,,Beverages,Before,20,250,5000,M-Pesa
+52910,12/12/1996,nakuru,Groceries,Old,,,,Card
+53540,1/6/2025, Kisumu ,Groceries,Wear,5,100,500,cash
+53687,11/4/1979,Mombasa,Personal Care,Carry,1,500,500,Card
+53155,8/1/2025,,Groceries,Both,,,,Cash
+50479,6/2/2025,Mombasa,Groceries,Much,5,,,cash
+51654,18-06-1995,,Snacks,Government,2,100,200,M-Pesa
+50603,29-04-1988,,Beverages,Treat,20,250,5000,M-Pesa
+53335,9/23/2025,,groceries,Week,50,500,25000,M-Pesa
+50380,9/9/2024, Kisumu ,Household,Modern,5,10000,50000,Cash
+50462,10/7/2011,,Beverages,Certainly,10,500,5000,Cash
+52874,27-05-2013,nakuru,Household,Generation,5,,,M-Pesa
+53710,3/3/2025, Kisumu ,Groceries,Tend,2,500,1000,cash
+52513,14-07-2002,,Snacks,Others,5,,,cash
+50493,8/2/1975,,groceries,Later,20,100,2000,cash
+52961,12/4/2025,nakuru,Household,Pressure,50,500,25000,cash
+53057,11/8/2024,Mombasa,Groceries,Skill,2,10000,20000,cash
+50720,10/27/2025,,Household,Order,20,2000,40000,M-Pesa
+52578,14-06-2015,,Personal Care,Enter,50,,,Card
+53524,7/21/2025,Nairobi,groceries,Major,2,1000,2000,Card
+53755,2/25/2026, Kisumu ,Snacks,Give,,50,,cash
+50105,28-10-2016, Kisumu ,groceries,Wide,20,1000,20000,M-Pesa
+50237,11/2/2025,Mombasa,Groceries,Into,10,100,1000,cash
+51420,2/13/2026,,Groceries,Always,1,50,50,Cash
+50705,31-05-2019,,Snacks,Finish,20,50,1000,M-Pesa
+51211,3/13/2025, Kisumu ,Household,If,50,100,5000,M-Pesa
+51191,18-03-2006,,Snacks,Attention,1,100,100,Cash
+51476,21-06-1986,,Snacks,Do,,,,Cash
+53744,28-11-1996,,Groceries,Fish,10,2000,20000,Card
+51809,6/12/2025,,groceries,Choice,,50,,cash
+53577,17-11-1978,nakuru,Snacks,Test,10,50,500,Card
+51547,6/7/2025,,groceries,Staff,20,1000,20000,cash
+51270,20-01-1977,,Groceries,Pick,2,250,500,M-Pesa
+51601,14-02-1999,,Beverages,Find,20,10000,200000,M-Pesa
+51291,5/24/2026,,Snacks,Think,10,2000,20000,M-Pesa
+50898,29-07-2011,Nairobi,Beverages,Indeed,10,1000,10000,Cash
+50094,9/22/2024,,Groceries,Building,50,2000,100000,Card
+53682,11/14/2025,nakuru,Groceries,Generation,2,1000,2000,Cash
+52413,1/31/2025,Nairobi,Groceries,Cup,20,100,2000,Cash
+51291,5/2/1974,Nairobi,groceries,Herself,2,100,200,M-Pesa
+53994,9/19/2024,Nairobi,Beverages,Political,50,500,25000,M-Pesa
+51633,1/5/2026, Kisumu ,Household,Tv,1,50,50,cash
+50106,2/5/2026,,Beverages,Also,2,100,200,cash
+52164,25-03-1988,,Beverages,Anything,1,250,250,M-Pesa
+50940,9/1/1992,nakuru,Personal Care,Hard,1,250,250,cash
+52520,13-04-1975, Kisumu ,Personal Care,Sometimes,1,100,100,cash
+53257,9/7/1991, Kisumu ,Beverages,No,1,1000,1000,cash
+50583,11/6/2003,,Personal Care,Mrs,,250,,Card
+50355,2/8/2025,nakuru,Groceries,If,2,50,100,cash
+51277,9/21/2024,Nairobi,Beverages,This,5,50,250,Cash
+52877,10/6/2024,Mombasa,Personal Care,Town,1,2000,2000,cash
+52110,30-06-2017,Nairobi,groceries,Media,,50,,Cash
+52139,30-07-2001, Kisumu ,Household,Station,10,10000,100000,Cash
+51503,6/5/2026,Nairobi,Beverages,Degree,5,100,500,Card
+53713,1/23/2026,,groceries,Those,,500,,cash
+52773,8/20/2025, Kisumu ,groceries,Risk,5,10000,50000,cash
+53180,9/9/2025,,Beverages,Art,20,500,10000,Card
+51636,5/5/2026,Mombasa,Groceries,At,50,50,2500,M-Pesa
+52868,1/29/2025,nakuru,Personal Care,Left,10,10000,100000,cash
+51181,6/16/2025, Kisumu ,Beverages,Hour,1,500,500,cash
+51586,5/11/2026,,Snacks,Close,1,250,250,Cash
+53387,9/15/2024,Mombasa,groceries,Service,1,,,Cash
+50315,31-12-2015,,Groceries,Likely,1,500,500,Card
+53125,9/19/2025, Kisumu ,Groceries,Manager,5,100,500,Cash
+51449,1/16/2026,,Household,Mother,50,250,12500,M-Pesa
+50733,8/29/2025,Nairobi,Snacks,Why,1,2000,2000,Card
+50841,12/8/2025, Kisumu ,Groceries,Police,20,100,2000,M-Pesa
+52333,31-03-1996,,Household,Author,10,50,500,M-Pesa
+51024,10/2/2024,Nairobi,Groceries,Federal,2,50,100,M-Pesa
+51047,15-02-1992,,Snacks,No,,100,,cash
+53430,4/8/1999,Nairobi,Groceries,Set,5,100,500,Cash
+53270,30-09-2018,,Groceries,Friend,50,,,Cash
+53618,1/15/2026,Nairobi,Snacks,Action,10,100,1000,cash
+52313,9/8/2025,Nairobi,Household,Boy,20,2000,40000,M-Pesa
+52811,12/3/2025, Kisumu ,Snacks,Chair,1,,,Card
+51550,3/19/2025,,groceries,Weight,10,2000,20000,Card
+52324,7/28/2024,,Personal Care,Ahead,50,500,25000,Cash
+50788,21-06-2003,,groceries,Spend,10,100,1000,M-Pesa
+50110,6/27/2025,,Personal Care,Computer,1,,,M-Pesa
+50257,17-02-1980,,Household,Here,50,2000,100000,Card
+51954,31-12-2018,Mombasa,groceries,Discuss,5,250,1250,Cash
+52264,23-05-2022,Nairobi,Personal Care,Wind,,2000,,cash
+50957,20-07-1973,nakuru,Personal Care,Wish,10,10000,100000,Cash
+53931,27-06-1974, Kisumu ,Beverages,Act,20,100,2000,Cash
+52325,5/31/2025,Mombasa,Personal Care,Budget,2,100,200,Cash
+51612,5/7/2008,Mombasa,Beverages,Civil,,50,,cash
+51963,3/12/2006, Kisumu ,groceries,Cold,1,50,50,Card
+51005,29-11-1986,Nairobi,Snacks,Space,20,100,2000,M-Pesa
+51555,3/26/2025,nakuru,Household,Strategy,1,1000,1000,M-Pesa
+50188,7/12/2025,,Personal Care,Real,10,2000,20000,cash
+50849,15-06-2017,,Household,Season,2,,,M-Pesa
+50825,16-05-1973,,Personal Care,Blood,5,100,500,M-Pesa
+53394,17-01-1998,nakuru,groceries,Pull,50,1000,50000,cash
+51497,27-02-2008,Nairobi,Groceries,Response,10,500,5000,Cash
+50712,9/3/2017,Mombasa,Household,See,10,250,2500,M-Pesa
+53453,3/17/2026,nakuru,Snacks,View,1,1000,1000,Card
+50876,6/28/2024,,Snacks,Poor,10,1000,10000,Cash
+50627,3/9/2025,,groceries,Wife,5,100,500,Cash
+52116,2/28/2026,nakuru,Household,Art,20,10000,200000,cash
+53472,9/15/2025,Mombasa,Household,Add,2,,,Cash
+53359,1/13/2026,Nairobi,Personal Care,Some,5,2000,10000,cash
+50535,7/5/2024,Mombasa,Household,Room,1,100,100,Card
+52476,3/2/2016,,Household,Imagine,1,100,100,M-Pesa
+50769,8/12/2011,,groceries,Someone,50,1000,50000,cash
+51253,4/12/2025, Kisumu ,Snacks,Office,20,250,5000,cash
+51436,6/5/2026,,Household,Respond,20,50,1000,Card
+51891,11/18/2024,nakuru,Snacks,Five,20,1000,20000,M-Pesa
+53277,9/10/2025,,Beverages,Few,,50,,Card
+50697,5/2/1996,,Snacks,Upon,20,10000,200000,M-Pesa
+50385,2/19/2025,,groceries,Full,1,2000,2000,Cash
+53123,29-07-2003,Mombasa,groceries,Especially,2,250,500,Cash
+51431,12/8/1979,Nairobi,Beverages,Me,20,2000,40000,Cash
+51967,19-07-1987,Nairobi,Groceries,Move,10,500,5000,cash
+51191,13-04-2014,,Beverages,Event,,1000,,Card
+50443,7/13/2025,,Groceries,Agreement,1,50,50,cash
+52195,6/23/2024,,groceries,Simply,1,500,500,cash
+51491,4/4/2026,nakuru,Personal Care,Ready,2,100,200,M-Pesa
+52793,29-12-1990,nakuru,Snacks,Reason,10,2000,20000,M-Pesa
+52985,1/15/2025, Kisumu ,Beverages,Order,5,100,500,cash
+50102,8/18/2024, Kisumu ,Personal Care,Candidate,,10000,,Card
+52009,9/6/2025,,Beverages,Success,5,500,2500,M-Pesa
+53094,7/26/2025,,Snacks,Use,5,2000,10000,Cash
+51718,3/14/2025,Mombasa,Beverages,Both,10,1000,10000,Cash
+51800,5/4/2026, Kisumu ,Groceries,Store,20,2000,40000,cash
+51431,10/21/2024, Kisumu ,Snacks,Stand,50,1000,50000,M-Pesa
+53409,8/11/1992,Mombasa,groceries,Office,5,50,250,cash
+52179,24-08-1972,,Household,One,50,2000,100000,Card
+52936,8/13/2024,Mombasa,Beverages,Involve,,1000,,cash
+53739,6/5/1993,,Household,Author,5,1000,5000,M-Pesa
+52325,1/15/2026,Mombasa,Groceries,Until,5,500,2500,Cash
+53253,11/12/1970,Nairobi,Snacks,Bit,1,,,M-Pesa
+51957,21-05-1992,,groceries,Mind,50,2000,100000,Card
+53927,6/17/2026,nakuru,Groceries,One,1,500,500,M-Pesa
+52065,16-04-2017,Nairobi,Personal Care,Very,5,1000,5000,Cash
+52089,12/5/2025, Kisumu ,Personal Care,Least,1,1000,1000,Card
+51601,5/14/2025, Kisumu ,Personal Care,Laugh,20,50,1000,M-Pesa
+51609,18-07-1996,Nairobi,Beverages,State,,10000,,M-Pesa
+53155,10/29/2025,nakuru,Personal Care,Bit,50,10000,500000,cash
+51979,6/12/2026,Mombasa,Snacks,Human,10,100,1000,Card
+53758,30-07-1992,Nairobi,groceries,Green,50,500,25000,cash
+53045,11/17/2025,,Beverages,You,1,10000,10000,cash
+52657,31-07-1985, Kisumu ,Snacks,Such,2,50,100,Cash
+53232,8/2/2010,Nairobi,groceries,Buy,50,,,Cash
+50125,4/23/2025,Mombasa,Personal Care,Thus,5,500,2500,cash
+51857,5/11/2025,,Groceries,Oil,5,250,1250,Card
+52927,17-09-1973,Nairobi,Beverages,Party,20,100,2000,M-Pesa
+50779,15-05-2004,,Beverages,Usually,5,,,Cash
+50382,14-11-2008,Mombasa,Snacks,List,50,2000,100000,Cash
+53244,10/8/2024, Kisumu ,Household,Rich,1,2000,2000,Card
+50773,14-04-2026, Kisumu ,Beverages,Season,5,50,250,M-Pesa
+51585,6/13/2025,,Groceries,Left,2,10000,20000,M-Pesa
+51935,22-04-1980,,Personal Care,Range,20,,,cash
+51204,4/1/1971,,Snacks,Treatment,5,100,500,M-Pesa
+52519,4/2/2025,nakuru,Household,Other,5,1000,5000,Card
+51780,16-02-1971,Nairobi,Snacks,Example,50,50,2500,cash
+52344,7/16/2025,Mombasa,Household,Onto,10,10000,100000,M-Pesa
+51229,19-10-1980,Mombasa,Personal Care,Quality,50,1000,50000,Card
+51474,10/9/2025,,Beverages,Third,,250,,cash
+51112,8/22/2024,Nairobi,groceries,Employee,,2000,,Card
+50145,4/22/2026,nakuru,Snacks,Culture,2,10000,20000,M-Pesa
+50864,9/30/2024,,Household,Employee,2,10000,20000,M-Pesa
+51731,6/3/2011,Mombasa,Personal Care,Camera,20,100,2000,cash
+52593,1/12/1974,Mombasa,groceries,My,2,,,Cash
+52522,8/27/2025,nakuru,Personal Care,Number,2,100,200,Cash
+50055,6/29/2024,Nairobi,groceries,Dog,2,2000,4000,Cash
+50922,15-05-1991,Nairobi,Household,Enough,10,50,500,Cash
+53442,6/11/2026,,Personal Care,Study,10,50,500,cash
+50904,20-09-2018,Nairobi,Personal Care,Rich,,50,,M-Pesa
+50968,3/3/2026,Nairobi,Beverages,Cover,50,10000,500000,M-Pesa
+50036,18-09-2004,Nairobi,Personal Care,Phone,,1000,,Card
+53017,12/26/2025, Kisumu ,groceries,Month,2,2000,4000,M-Pesa
+53569,9/3/2021,,Personal Care,These,5,,,Card
+52995,31-12-1999,Mombasa,groceries,Rule,50,1000,50000,cash
+50076,31-03-1980,Mombasa,Snacks,Win,10,100,1000,M-Pesa
+53341,3/16/2026,nakuru,Personal Care,Time,10,250,2500,cash
+52290,12/5/1975,Mombasa,groceries,Control,,10000,,M-Pesa
+51241,5/11/2008,,Beverages,Theory,20,500,10000,Cash
+50591,1/6/2014,,Personal Care,Leg,,2000,,M-Pesa
+53373,8/12/2024,Mombasa,Beverages,About,20,2000,40000,cash
+51287,30-06-2016, Kisumu ,groceries,Theory,1,100,100,cash
+51513,11/23/2024,,Beverages,Model,2,1000,2000,M-Pesa
+51364,2/26/2025,,Snacks,Ago,50,1000,50000,Cash
+53734,21-02-2018,,Snacks,Open,5,50,250,M-Pesa
+51798,10/12/2024, Kisumu ,Groceries,Bill,1,50,50,Cash
+51446,12/27/2025,,groceries,So,1,2000,2000,Card
+52470,28-05-1980, Kisumu ,groceries,Hotel,1,2000,2000,Card
+50058,5/30/2026,Nairobi,Personal Care,Sport,2,100,200,cash
+50031,9/29/2025,,Personal Care,Site,1,1000,1000,M-Pesa
+51613,10/12/2001,,Household,Under,20,,,Card
+52642,4/15/2026,nakuru,groceries,Environment,5,10000,50000,Card
+50618,6/8/1996,Mombasa,groceries,Close,50,2000,100000,cash
+52095,1/6/2026,Nairobi,Beverages,Especially,,50,,Card
+53507,11/6/2024,,groceries,Number,2,10000,20000,Cash
+50703,11/22/2024,Mombasa,groceries,Movement,50,100,5000,cash
+51502,18-05-1978,Mombasa,Personal Care,National,20,,,Card
+52854,9/7/2025, Kisumu ,Groceries,Citizen,,10000,,Card
+51711,7/2/2025,nakuru,Personal Care,Message,10,,,Cash
+51391,7/8/1991,Nairobi,Personal Care,Enjoy,1,500,500,M-Pesa
+53117,11/17/2024,Mombasa,Personal Care,Manage,20,100,2000,M-Pesa
+53340,23-10-2018,,Groceries,Ten,,2000,,Cash
+53804,9/2/2024,,Household,Quality,5,250,1250,cash
+52684,1/5/2025,Mombasa,Beverages,Expect,5,500,2500,Cash
+50020,7/23/2024,nakuru,Snacks,Out,,10000,,M-Pesa
+52234,28-04-1990,,groceries,Police,50,,,M-Pesa
+51231,8/29/2024,,Snacks,Front,1,2000,2000,M-Pesa
+53240,8/5/2024,,Household,Mr,20,2000,40000,M-Pesa
+51610,2/26/2025,,Personal Care,Girl,20,500,10000,Card
+50299,5/24/2026,nakuru,Groceries,Business,10,100,1000,M-Pesa
+53352,23-01-2010,,Personal Care,Describe,,2000,,cash
+52258,23-11-1982,nakuru,groceries,Prove,,,,cash
+51068,9/11/1978,,Household,More,1,2000,2000,Cash
+52736,19-02-1993,nakuru,groceries,Star,2,2000,4000,cash
+50256,3/31/2025,nakuru,Snacks,Particularly,50,500,25000,Card
+53356,4/2/2014,nakuru,groceries,Great,5,50,250,Cash
+51333,25-03-1982,,Beverages,Matter,50,,,Card
+50603,14-08-2020,Mombasa,Snacks,Street,10,,,Card
+51549,22-04-1995,Nairobi,Beverages,Gun,,250,,Cash
+50701,5/1/1975,,Personal Care,Model,1,2000,2000,cash
+52857,2/8/2024,,groceries,Hit,50,10000,500000,Cash
+50468,7/4/2024,Mombasa,Beverages,Decision,,100,,Cash
+51615,2/12/2026,,Personal Care,Coach,20,10000,200000,Cash
+53350,14-03-1991,,Beverages,Back,,50,,Cash
+52280,17-10-2019,nakuru,groceries,Executive,10,10000,100000,cash
+50996,6/2/2011,nakuru,Personal Care,Close,50,,,Cash
+51112,4/7/1980,,Groceries,Can,2,500,1000,M-Pesa
+50188,6/22/2024,Nairobi,Beverages,Of,1,500,500,M-Pesa
+53983,14-02-2000,,Beverages,Return,10,50,500,M-Pesa
+50838,6/10/2019,nakuru,Groceries,Everything,20,,,Cash
+53042,12/15/2025,,Snacks,Rich,5,250,1250,Card
+52664,15-02-2022, Kisumu ,Personal Care,Hard,50,10000,500000,Cash
+51360,1/8/1971,,Personal Care,Feel,2,2000,4000,cash
+51162,6/26/2025,,Household,Rate,,500,,cash
+50584,1/19/2026,Mombasa,Household,Reflect,20,2000,40000,M-Pesa
+50997,10/23/2025,Nairobi,groceries,Bring,10,1000,10000,Cash
+51323,11/14/2025,,Household,Poor,1,,,cash
+52064,3/31/2026,,Groceries,Just,2,1000,2000,Cash
+52861,3/26/2025,,Snacks,Important,,100,,Cash
+53124,20-09-1979, Kisumu ,Personal Care,Employee,50,500,25000,cash
+53681,10/30/2025,nakuru,Beverages,About,50,250,12500,Cash
+50288,10/11/2020,Mombasa,Beverages,Situation,,100,,Card
+53766,4/20/2026,Nairobi,Snacks,Chance,5,50,250,cash
+50800,28-10-2000,nakuru,Personal Care,Get,10,2000,20000,cash
+51945,12/18/2025,,groceries,Total,1,10000,10000,cash
+52541,16-07-1996,Mombasa,Household,Paper,50,,,cash
+52306,20-11-2008,,Household,Because,5,2000,10000,Card
+50051,6/17/2025,,Snacks,Pressure,20,50,1000,cash
+51481,22-06-1999, Kisumu ,Snacks,Traditional,20,500,10000,Cash
+50387,11/5/2025,nakuru,Groceries,Political,2,10000,20000,Card
+52711,21-12-1994,Mombasa,Beverages,Common,50,250,12500,Cash
+51250,8/5/2012, Kisumu ,Groceries,Fill,10,100,1000,M-Pesa
+51873,10/2/2025,,Groceries,Return,2,,,cash
+51718,2/28/2025,,groceries,These,10,100,1000,Card
+51561,8/9/2024,,Snacks,Person,50,100,5000,cash
+52145,25-03-1973,,Beverages,Product,10,250,2500,Cash
+53711,7/27/2025,nakuru,Beverages,To,10,,,M-Pesa
+53331,4/1/2008,,Snacks,Fast,,250,,Cash
+52206,6/16/2026,Mombasa,Groceries,High,2,500,1000,cash
+53739,6/13/2025,Mombasa,Snacks,Tonight,5,2000,10000,M-Pesa
+52481,4/7/1991,,Groceries,Wife,2,1000,2000,Card
+50328,15-07-2001, Kisumu ,Personal Care,Small,,100,,Cash
+53832,26-02-1986, Kisumu ,Personal Care,Bar,5,,,Cash
+50292,2/4/2025,,Household,Here,2,500,1000,cash
+51472,7/7/1993,nakuru,groceries,Box,2,10000,20000,Card
+50993,20-12-1997, Kisumu ,Snacks,Nothing,10,,,Cash
+51203,1/16/2025,Nairobi,Beverages,Contain,2,2000,4000,cash
+51802,1/20/2025,,Personal Care,Everyone,50,100,5000,cash
+52935,4/9/1990,nakuru,Household,Candidate,,10000,,Cash
+50154,21-04-2006,,Snacks,Common,1,50,50,M-Pesa
+53892,4/11/2025,Nairobi,Groceries,Else,10,500,5000,cash
+50372,24-11-1992,Nairobi,Groceries,This,10,2000,20000,Card
+53977,11/17/2025, Kisumu ,groceries,Send,,100,,Card
+52834,12/1/1974,,Groceries,Man,20,250,5000,Card
+52984,9/6/2024,nakuru,Household,Imagine,2,10000,20000,M-Pesa
+52987,5/2/2026,nakuru,groceries,His,2,,,cash
+50327,1/25/2025,Nairobi,Beverages,Able,,50,,Cash
+53743,12/13/2024,,Personal Care,Later,5,10000,50000,cash
+51253,12/3/1993,Mombasa,Snacks,Building,1,1000,1000,Card
+53343,1/30/2026,Nairobi,Snacks,If,2,10000,20000,M-Pesa
+51885,2/22/2025,,Household,Administration,20,1000,20000,cash
+52821,23-08-1984,nakuru,Beverages,Can,2,250,500,Card
+50921,18-09-2005,,Groceries,Dinner,1,10000,10000,Card
+53666,4/30/2025,Mombasa,Personal Care,Keep,10,2000,20000,Card
+52401,8/16/2025,Mombasa,Beverages,Standard,1,250,250,M-Pesa
+52521,3/26/2025,Nairobi,Personal Care,Sea,5,,,M-Pesa
+53017,1/12/1973,,Personal Care,Response,,,,M-Pesa
+51797,4/15/2026,nakuru,Groceries,First,5,50,250,cash
+53331,6/23/2024,,Snacks,It,2,2000,4000,M-Pesa
+50433,1/6/2011,,Personal Care,Skill,1,250,250,Cash
+51614,3/4/2013,,Beverages,At,1,500,500,cash
+52251,8/31/2025,,groceries,Environment,,2000,,cash
+51214,5/10/2025,Mombasa,groceries,Rise,50,1000,50000,M-Pesa
+51131,14-07-2019, Kisumu ,Household,Hotel,5,10000,50000,cash
+50494,6/4/2026,Nairobi,Personal Care,Animal,20,100,2000,Cash
+53081,12/12/2025,,Household,Myself,,500,,Card
+50729,7/1/1998,Nairobi,Beverages,Begin,10,10000,100000,Cash
+51725,11/6/2024,nakuru,Household,Doctor,1,50,50,Cash
+52725,4/25/2026,,Beverages,Security,50,100,5000,Card
+51496,5/18/2025, Kisumu ,Personal Care,Instead,1,2000,2000,Card
+53661,3/7/2026, Kisumu ,Household,Once,,10000,,Card
+52013,12/11/2025, Kisumu ,Beverages,Ground,20,500,10000,cash
+51201,7/8/2011,nakuru,Snacks,Explain,5,500,2500,Card
+52571,27-05-1971,Nairobi,Household,Later,5,50,250,Cash
+50124,3/1/2003,Nairobi,Beverages,Stock,1,500,500,Card
+53703,3/9/1999, Kisumu ,Beverages,Reason,,,,cash
+51650,5/3/1974,,Household,Travel,10,,,M-Pesa
+53069,30-12-1974,nakuru,Personal Care,Vote,2,2000,4000,cash
+52630,3/7/1976, Kisumu ,Personal Care,Address,20,250,5000,Cash
+51696,11/26/2024,Nairobi,Beverages,Other,10,,,Card
+50500,5/20/2025,,Personal Care,Through,1,500,500,Card
+52569,22-06-1987,Mombasa,Beverages,Less,10,250,2500,Cash
+52198,10/9/2024,Nairobi,Snacks,Method,50,10000,500000,Card
+53348,6/1/1980,,Snacks,Better,1,10000,10000,cash
+52224,15-04-2021,,Snacks,Eye,1,1000,1000,Cash
+52747,29-11-2017,Nairobi,Snacks,Job,50,100,5000,Cash
+50690,31-05-1979,,Groceries,Way,,100,,Card
+51453,25-12-2016,nakuru,Beverages,Give,50,10000,500000,cash
+51343,10/12/1978,,Groceries,Produce,50,10000,500000,Cash
+53391,28-01-1973,nakuru,groceries,Move,20,100,2000,Cash
+52431,7/17/2024,,Personal Care,Development,,2000,,Cash
+51321,22-02-2001,,groceries,Time,20,1000,20000,cash
+53810,17-04-2022,,Personal Care,Imagine,5,2000,10000,Card
+51013,9/15/2024,nakuru,Snacks,Again,1,,,Card
+51387,2/10/2025,nakuru,Personal Care,Trip,10,1000,10000,M-Pesa
+53147,12/5/1991, Kisumu ,groceries,Allow,1,250,250,M-Pesa
+51453,12/21/2024,Nairobi,Household,Material,50,250,12500,Card
+53727,19-10-1980,Nairobi,Personal Care,On,1,10000,10000,M-Pesa
+53557,31-10-1979,,Household,Road,10,,,Cash
+51723,14-01-1996, Kisumu ,Household,Organization,10,1000,10000,cash
+52488,27-12-1986,,Snacks,Spend,10,50,500,Card
+50927,31-12-1973,Mombasa,Beverages,Order,10,10000,100000,cash
+51902,21-11-2000,Nairobi,groceries,National,10,50,500,cash
+50398,19-09-2025,Mombasa,Snacks,Professor,1,50,50,Cash
+53103,30-07-1999,Nairobi,Personal Care,Into,2,,,M-Pesa
+51659,28-06-2015,,Groceries,Include,,,,M-Pesa
+52044,5/5/2026, Kisumu ,Beverages,Sell,,50,,M-Pesa
+53354,9/13/2024,Mombasa,Beverages,Mission,,10000,,cash
+53121,10/14/2025, Kisumu ,Household,Player,1,,,Cash
+51629,9/11/2024, Kisumu ,Beverages,Sign,10,50,500,M-Pesa
+51836,6/28/2024,Mombasa,groceries,Community,20,2000,40000,Cash
+52623,1/20/2025,Nairobi,groceries,Course,1,2000,2000,Card
+51660,17-12-1975,,Household,Exist,2,10000,20000,cash
+53981,7/1/1993, Kisumu ,Personal Care,Another,2,1000,2000,cash
+51039,16-05-1987,nakuru,Household,Face,20,50,1000,M-Pesa
+50942,6/16/2026,Mombasa,Personal Care,Page,5,1000,5000,cash
+52209,8/24/2025,,Beverages,Speak,2,50,100,Card
+53617,10/11/2024,Mombasa,Personal Care,Member,,100,,cash
+52714,29-09-1998,,groceries,Little,5,,,cash
+50323,7/5/2024,Mombasa,groceries,Many,2,,,cash
+51525,12/1/2004, Kisumu ,Groceries,American,5,100,500,cash
+53966,31-03-1980, Kisumu ,Snacks,Account,20,10000,200000,Card
+50929,11/13/2024,Nairobi,Household,Few,20,10000,200000,Cash
+53203,21-06-1994,,Beverages,Country,5,,,Card
+50420,1/21/2026,,Snacks,Level,,250,,cash
+52810,29-04-1984,Nairobi,Snacks,Public,5,2000,10000,cash
+50171,1/30/2025,,Beverages,Safe,5,50,250,M-Pesa
+51533,11/3/2024,,Groceries,Tonight,5,,,Cash
+53766,6/23/2024,nakuru,Household,Deal,20,100,2000,M-Pesa
+53508,21-08-1979, Kisumu ,groceries,Herself,5,250,1250,Card
+50404,11/5/1988,,Household,Democratic,10,50,500,M-Pesa
+50420,10/24/2024,Nairobi,Personal Care,Month,5,,,Cash
+51328,4/18/2025,nakuru,Groceries,Shoulder,50,10000,500000,Cash
+53776,23-09-2016,Mombasa,Personal Care,Including,,10000,,M-Pesa
+52669,14-12-1995,Mombasa,Personal Care,Community,1,10000,10000,cash
+51178,26-08-1978,,Groceries,Administration,5,,,cash
+53840,12/24/2024, Kisumu ,Groceries,Move,50,,,Cash
+53976,9/11/2024,,groceries,Thing,,100,,Cash
+50675,27-01-1999,Mombasa,Groceries,Section,50,500,25000,Cash
+53156,13-01-1974,Nairobi,Beverages,Another,1,100,100,cash
+52290,4/13/2025,nakuru,Household,But,20,2000,40000,M-Pesa
+52584,2/10/2026,nakuru,groceries,Information,5,1000,5000,Card
+50633,5/16/2025,,Beverages,Indicate,2,50,100,Card
+51525,4/1/2025,Mombasa,Household,Nature,10,1000,10000,M-Pesa
+53164,4/2/1972,Nairobi,Beverages,Drive,50,50,2500,Cash
+50377,3/28/2026,Nairobi,Personal Care,Act,50,,,M-Pesa
+50233,29-09-1971,,Groceries,Suffer,10,500,5000,M-Pesa
+52033,8/24/2024,nakuru,Beverages,Heart,1,250,250,Cash
+53907,5/4/2025,,Household,Continue,20,1000,20000,M-Pesa
+50957,5/28/2025,Nairobi,Snacks,Ever,50,2000,100000,Card
+51803,4/8/2026,Mombasa,Groceries,Wide,10,50,500,cash
+52555,5/19/2026,Mombasa,Groceries,Protect,5,50,250,Cash
+51128,13-05-2020,,groceries,Range,1,1000,1000,Card
+50252,5/7/2025,nakuru,Groceries,Get,1,,,Cash
+53559,6/9/1992,nakuru,Beverages,Agent,20,250,5000,Card
+50434,3/26/2025,Mombasa,Household,Drug,1,2000,2000,Card
+51000,12/25/2025, Kisumu ,Personal Care,Plan,2,100,200,cash
+51014,16-07-2002,Nairobi,Personal Care,Rock,,100,,Card
+53322,12/3/2010,nakuru,Snacks,Impact,,2000,,cash
+51626,6/17/2025,nakuru,Snacks,Unit,,500,,cash
+50812,16-04-2007, Kisumu ,Household,And,2,100,200,Cash
+52660,20-03-1970,Mombasa,Beverages,Congress,50,1000,50000,Cash
+52897,10/15/2025,,Snacks,Experience,,2000,,Card
+50937,2/26/2025,Mombasa,Beverages,Central,1,500,500,cash
+51120,4/21/2026,,Snacks,Red,20,10000,200000,Cash
+50063,25-01-1984, Kisumu ,Household,Throughout,20,,,cash
+53833,18-03-2006,,Personal Care,Where,50,250,12500,Card
+51034,12/10/2024,,Groceries,Skill,10,50,500,Card
+52105,17-08-1990,,Groceries,Generation,10,1000,10000,M-Pesa
+53235,2/26/2025,nakuru,Household,Official,,50,,M-Pesa
+50252,6/29/2025,nakuru,Groceries,Step,,50,,Card
+53989,7/24/2024,nakuru,Snacks,Beyond,5,500,2500,Card
+50818,6/21/2025,nakuru,Groceries,Approach,50,250,12500,Cash
+50443,5/11/1994,Nairobi,Household,Resource,50,2000,100000,M-Pesa
+51445,7/24/2025,Nairobi,groceries,With,50,100,5000,Card
+51769,3/4/2025,,Household,Tell,,,,M-Pesa
+53981,11/7/2008,Nairobi,Personal Care,Involve,5,50,250,cash
+50968,1/29/2026,nakuru,groceries,Produce,,10000,,Card
+52757,24-11-1974,,groceries,Close,5,1000,5000,Card
+51782,9/5/1984,,groceries,Check,5,,,Cash
+52834,17-02-2024, Kisumu ,Household,Behavior,20,50,1000,Cash
+50763,13-02-2021, Kisumu ,groceries,Range,1,1000,1000,cash
+51468,18-03-1982,,Personal Care,Skill,5,2000,10000,M-Pesa
+50491,10/1/2024,,Snacks,Important,,500,,cash
+52034,4/4/2025,Nairobi,Household,Thus,,1000,,Card
+53931,6/9/2019,Nairobi,Snacks,Interest,2,500,1000,cash
+50773,5/8/2025,,Groceries,Business,1,50,50,Cash
+50449,3/10/1981,Nairobi,Household,Process,,1000,,cash
+53494,4/8/2025,,groceries,Career,5,10000,50000,M-Pesa
+51190,18-05-2019,nakuru,Snacks,Data,5,100,500,Cash
+50207,1/10/2002,nakuru,Personal Care,Account,10,,,Cash
+51323,11/6/1994, Kisumu ,groceries,Team,1,500,500,Cash
+53403,11/7/1982,,Beverages,Artist,50,1000,50000,Cash
+53442,12/6/2024,Mombasa,Personal Care,Husband,,10000,,cash
+51490,6/2/2026,Nairobi,Personal Care,Hope,20,1000,20000,cash
+53858,29-10-1985,Mombasa,Personal Care,Plant,1,250,250,M-Pesa
+53086,7/4/2002,Mombasa,Groceries,Bar,5,50,250,Cash
+53854,12/5/1974,nakuru,Beverages,Toward,10,250,2500,Cash
+53976,3/3/2026, Kisumu ,Personal Care,More,50,2000,100000,cash
+52858,24-06-1974,Mombasa,Groceries,Response,10,500,5000,M-Pesa
+50268,18-07-1972,,Personal Care,Bank,50,1000,50000,cash
+51362,13-01-1992,nakuru,Snacks,Race,2,2000,4000,cash
+50051,11/13/2024, Kisumu ,Snacks,Experience,50,500,25000,M-Pesa
+50463,20-09-1978,Nairobi,Snacks,Series,50,2000,100000,cash
+53813,22-03-2006,Mombasa,Beverages,View,2,500,1000,cash
+52719,19-05-2008,,Household,Five,50,250,12500,cash
+53042,19-11-1989,Mombasa,Personal Care,Artist,20,2000,40000,cash
+50055,30-12-2013,nakuru,Personal Care,Light,1,,,cash
+52732,11/17/2024,,Groceries,Onto,1,10000,10000,cash
+50280,10/11/2024,nakuru,Beverages,When,50,10000,500000,Cash
+53439,22-12-2015,Nairobi,Personal Care,Shake,50,10000,500000,Card
+50415,6/1/2026,,Beverages,Throughout,,100,,M-Pesa
+51223,8/18/2024,Nairobi,Beverages,Serve,5,,,Cash
+53893,13-04-1990, Kisumu ,Groceries,System,2,1000,2000,Cash
+52808,6/15/2025,Mombasa,Beverages,Increase,10,100,1000,Cash
+50395,7/8/2025,,Groceries,Student,20,2000,40000,Cash
+53873,10/6/2025,Mombasa,Personal Care,Which,,,,Cash
+52215,5/6/2026,Mombasa,Personal Care,Family,20,250,5000,M-Pesa
+50581,24-01-1989,,Personal Care,Over,,250,,cash
+50677,3/13/2026, Kisumu ,groceries,Data,2,10000,20000,cash
+52885,4/22/2026,,groceries,Remain,50,50,2500,cash
+52145,7/15/2025, Kisumu ,groceries,Student,10,1000,10000,Card
+52457,7/5/2015,nakuru,groceries,I,20,250,5000,M-Pesa
+51852,12/2/2025,nakuru,Personal Care,Order,50,2000,100000,M-Pesa
+50690,7/11/2025,Mombasa,Household,Know,,100,,Card
+50520,2/11/2025,nakuru,Household,Interest,5,100,500,Card
+51204,7/23/2025,Mombasa,Snacks,Republican,10,2000,20000,Cash
+51012,7/23/2025,,Snacks,College,50,100,5000,M-Pesa
+50525,9/29/2024, Kisumu ,Personal Care,Inside,10,10000,100000,Card
+51088,12/5/2025,,Beverages,Because,,1000,,cash
+53047,28-11-1990,nakuru,Snacks,Wonder,20,2000,40000,Card
+51928,7/9/2024,Mombasa,Beverages,Explain,5,,,Card
+53506,23-01-1981, Kisumu ,Groceries,Step,10,,,Cash
+53487,9/8/1973,,Snacks,Far,1,100,100,Cash
+50736,24-12-2009, Kisumu ,Household,Table,50,250,12500,Card
+50060,3/24/2026,Mombasa,Snacks,Own,50,250,12500,M-Pesa
+53294,8/27/2025,Mombasa,groceries,Security,50,500,25000,M-Pesa
+53361,8/26/2024, Kisumu ,groceries,Expert,,500,,cash
+50035,28-11-2016, Kisumu ,Snacks,Color,50,250,12500,M-Pesa
+50087,7/14/2024, Kisumu ,Personal Care,Letter,50,100,5000,Card
+53417,8/29/2024,Nairobi,Personal Care,Woman,2,,,Card
+51318,4/26/2026,nakuru,Beverages,Religious,5,100,500,M-Pesa
+51478,12/7/1978,nakuru,Personal Care,Series,,,,Cash
+51232,14-04-2007,,Personal Care,Event,1,500,500,Card
+51580,1/15/2026,Mombasa,Household,Music,20,500,10000,cash
+51381,11/2/2009,nakuru,Personal Care,Catch,50,,,Card
+50022,11/26/2025,,Household,Activity,,50,,M-Pesa
+52428,5/10/2010,,Beverages,Trial,,500,,Cash
+53854,24-08-2010, Kisumu ,groceries,Son,1,2000,2000,M-Pesa
+53997,7/18/2024,,Groceries,Design,,2000,,Card
+51407,10/9/2003,nakuru,Snacks,Discover,,500,,cash
+53504,7/5/2025,Nairobi,Snacks,Season,2,100,200,Cash
+53672,7/31/2024,nakuru,Snacks,Top,5,100,500,Cash
+52741,2/10/2009,Nairobi,Household,Night,,250,,Cash
+53032,5/7/2023,Mombasa,Groceries,Law,1,1000,1000,Card
+52172,24-06-2021,Nairobi,Groceries,Bill,50,2000,100000,Card
+51166,9/20/2024,Nairobi,Household,Cup,10,2000,20000,Card
+52179,24-03-1998,Nairobi,Household,Pm,2,100,200,Cash
+51470,2/2/1982,Nairobi,Snacks,Traditional,50,500,25000,Cash
+51417,15-12-2023,Nairobi,Household,Interview,,100,,cash
+50449,9/13/2024,,Personal Care,Figure,20,2000,40000,Cash
+51834,29-06-2005,Nairobi,Household,House,10,100,1000,Card
+53572,8/12/2025,nakuru,Snacks,Again,,50,,cash
+52148,15-07-1977,Nairobi,Groceries,Purpose,20,,,Cash
+50826,2/14/2026,,Personal Care,Difficult,1,50,50,Card
+53620,24-08-1973,Nairobi,Groceries,Course,,,,M-Pesa
+51320,22-08-2005,nakuru,groceries,Bit,,,,Cash
+50221,11/19/2024,Mombasa,Groceries,Animal,10,,,M-Pesa
+51212,2/7/2026,Mombasa,Snacks,Can,,,,Card
+50297,10/3/2025, Kisumu ,Groceries,Operation,2,100,200,Card
+53180,14-06-1978, Kisumu ,Snacks,Us,20,2000,40000,cash
+52485,1/27/2026,Mombasa,Snacks,Summer,5,2000,10000,cash
+53155,5/9/2026, Kisumu ,Beverages,Responsibility,50,100,5000,M-Pesa
+51327,1/18/2025,Nairobi,Beverages,Reduce,10,250,2500,Card
+53194,9/10/1978,,Household,Artist,20,250,5000,cash
+50928,11/8/2024, Kisumu ,Household,Available,2,100,200,M-Pesa
+52051,7/29/2025,Mombasa,Beverages,Social,1,250,250,Cash
+50246,2/3/2026,nakuru,Snacks,Key,2,2000,4000,Cash
+52632,29-01-2018,Mombasa,Snacks,Recent,,10000,,Cash
+51900,11/8/2024,,Household,Color,,,,Cash
+50301,2/11/2004,Nairobi,Household,Beat,20,100,2000,Card
+52479,2/6/2025, Kisumu ,Groceries,Space,2,,,Cash
+53282,26-11-2019,,Beverages,Quite,,500,,M-Pesa
+51566,25-05-2004,Mombasa,Groceries,Education,50,250,12500,cash
+52392,20-09-2007,Mombasa,Snacks,Who,1,500,500,Card
+53707,12/1/2024,Mombasa,Personal Care,Important,5,2000,10000,Cash
+52277,18-06-2017,,Groceries,Mind,50,10000,500000,cash
+51996,17-01-2021,Nairobi,groceries,Worry,5,2000,10000,M-Pesa
+53413,5/27/2026,nakuru,Household,Drive,2,250,500,M-Pesa
+50081,1/5/2026,Nairobi,groceries,Door,1,,,M-Pesa
+53349,7/31/2025,Mombasa,Household,Onto,,500,,M-Pesa
+53901,8/8/1971,,groceries,Hot,,10000,,Card
+52919,2/11/1989,Nairobi,Personal Care,Agree,20,,,cash
+52302,12/27/2025,Mombasa,Groceries,Window,5,,,cash
+51744,18-02-2015,Mombasa,Snacks,Oil,10,250,2500,M-Pesa
+51809,2/14/2026,,Groceries,In,,10000,,M-Pesa
+51800,1/5/2024,,Household,Young,10,1000,10000,Card
+53243,16-07-1972,nakuru,Groceries,Cup,,1000,,M-Pesa
+50104,21-12-1979, Kisumu ,Household,Smile,,10000,,M-Pesa
+53113,14-01-1995,Nairobi,Personal Care,Store,50,1000,50000,Cash
+53966,5/7/2025,Mombasa,groceries,Sometimes,5,1000,5000,M-Pesa
+53468,19-02-1987,,Groceries,Pretty,,,,M-Pesa
+50307,27-05-1982,Mombasa,Snacks,Fear,1,,,cash
+50752,15-07-2000,Nairobi,Groceries,Necessary,10,1000,10000,Cash
+51274,4/11/2025, Kisumu ,Beverages,Phone,10,2000,20000,Card
+51809,7/7/2008,Nairobi,Snacks,Bar,,100,,Cash
+53239,14-04-1977,,Groceries,System,10,2000,20000,Cash
+51313,11/17/2025,nakuru,groceries,Again,5,500,2500,Cash
+52598,1/5/2026,Nairobi,Groceries,Air,2,,,M-Pesa
+52401,5/10/2014,,Snacks,Baby,10,500,5000,Card
+53456,1/3/2020,nakuru,Personal Care,Message,50,100,5000,M-Pesa
+51723,9/9/2025,Nairobi,Beverages,Apply,,250,,cash
+50277,17-02-1970,,Beverages,Wear,20,1000,20000,Card
+52773,11/15/2024,,Beverages,There,2,1000,2000,cash
+51414,12/10/2025,Nairobi,Groceries,What,10,1000,10000,cash
+50246,12/28/2024,,Beverages,Hope,10,2000,20000,Cash
+52381,21-11-2000,nakuru,groceries,Forward,2,50,100,cash
+50049,6/7/2025,Nairobi,Beverages,Theory,5,2000,10000,Card
+51812,1/6/1987,nakuru,Snacks,Ball,1,10000,10000,Cash
+52992,2/21/2026,Nairobi,Personal Care,Likely,10,250,2500,Card
+50753,10/9/2009,Nairobi,Beverages,Chance,20,100,2000,Card
+50735,1/4/2025,nakuru,Groceries,Major,,500,,Card
+51878,4/10/2020,nakuru,groceries,Toward,,,,cash
+53785,14-05-2025,,groceries,Under,5,10000,50000,Cash
+51734,7/10/2024,Mombasa,Groceries,Least,5,1000,5000,cash
+53628,9/12/2013,,Groceries,See,10,50,500,Card
+52558,12/9/2009,,Household,Good,50,1000,50000,cash
+51405,6/8/2022,,Household,Do,1,10000,10000,Card
+53454,12/29/2025,,Snacks,Traditional,10,,,Cash
+52222,3/26/2025,,Personal Care,Audience,2,,,Cash
+51568,12/2/2023,,groceries,Father,20,100,2000,Cash
+52467,17-01-2011,nakuru,Snacks,Every,5,,,cash
+52826,8/5/2013,,groceries,Must,10,1000,10000,Card
+52757,6/10/2026,Nairobi,Groceries,Particular,1,250,250,cash
+52319,5/12/2018, Kisumu ,Groceries,Large,10,1000,10000,Card
+53473,11/7/1995,Mombasa,Snacks,Support,50,100,5000,Card
+51490,23-11-2002, Kisumu ,Household,Take,5,50,250,cash
+51355,29-10-2007,nakuru,Groceries,Send,10,10000,100000,Cash
+53342,9/12/1975, Kisumu ,Snacks,Everything,5,2000,10000,Card
+53415,21-10-1986,nakuru,Personal Care,Wait,1,,,Cash
+52211,25-07-1970, Kisumu ,Household,Black,,10000,,Card
+51537,25-06-1972,,groceries,Operation,2,500,1000,M-Pesa
+53793,18-02-1981,,Groceries,Why,10,50,500,Card
+50041,12/22/2024, Kisumu ,Groceries,Oil,5,10000,50000,cash
+50390,11/12/2024,,Personal Care,Prove,50,10000,500000,cash
+50136,22-08-2024,,Household,Group,20,1000,20000,Cash
+52531,21-07-1988,Mombasa,Groceries,Word,2,1000,2000,M-Pesa
+53356,1/3/2024,Mombasa,groceries,Job,10,2000,20000,Cash
+51996,18-01-2011,Nairobi,Beverages,Suggest,1,10000,10000,Cash
+50152,2/14/2025,,Snacks,Street,1,50,50,cash
+53964,2/17/2026,,Snacks,Opportunity,1,10000,10000,cash
+53609,7/16/2025,nakuru,Snacks,Those,,500,,Card
+51709,22-05-1972,Nairobi,Beverages,Remember,1,100,100,Cash
+53209,1/5/1977,Nairobi,Groceries,Pressure,1,100,100,Card
+51158,17-01-2000,,Household,Available,1,1000,1000,Cash
+51980,10/23/2024,Mombasa,Beverages,Free,,1000,,cash
+52498,1/17/2025,,Snacks,Central,50,250,12500,Card
+50452,4/16/2026,Nairobi,Household,Early,20,50,1000,Cash
+51869,12/14/2025,,Groceries,Theory,5,10000,50000,M-Pesa
+50672,11/11/2025,Nairobi,groceries,Doctor,50,1000,50000,Cash
+52456,5/4/1990,Mombasa,Personal Care,Decision,2,1000,2000,M-Pesa
+53413,26-08-2010,Nairobi,Personal Care,Significant,20,500,10000,Card
+53316,13-08-1991,nakuru,Personal Care,Off,5,1000,5000,Cash
+50784,10/9/1983,Mombasa,Groceries,Smile,10,100,1000,M-Pesa
+51485,16-05-1991, Kisumu ,Beverages,War,10,2000,20000,Cash
+51883,27-07-2009,,Snacks,Week,,2000,,M-Pesa
+50948,22-01-2000,Nairobi,Beverages,Drive,1,250,250,M-Pesa
+51808,9/12/2025,Nairobi,Snacks,Much,1,1000,1000,M-Pesa
+52056,5/21/2025,,Beverages,Agree,2,100,200,M-Pesa
+50718,2/28/2025,Nairobi,Household,Avoid,2,1000,2000,M-Pesa
+51934,14-12-1982,,Snacks,Out,,2000,,M-Pesa
+50507,17-08-1993,Mombasa,Snacks,Policy,50,10000,500000,Card
+51187,6/13/2026,,Personal Care,Science,50,1000,50000,Cash
+52500,18-03-1985,,Personal Care,From,50,250,12500,Card
+51866,21-09-2009,nakuru,Personal Care,Campaign,,10000,,Cash
+50126,8/13/2024,nakuru,Beverages,Difference,20,100,2000,Card
+51692,10/19/2025,,Snacks,Cost,1,1000,1000,cash
+52289,4/11/1982,nakuru,Personal Care,State,10,500,5000,M-Pesa
+50881,26-09-2025, Kisumu ,Personal Care,Race,10,500,5000,M-Pesa
+50268,17-12-2009, Kisumu ,Snacks,Medical,5,1000,5000,M-Pesa
+53931,10/29/2024,Nairobi,Household,Relationship,2,250,500,cash
+51738,26-08-1990,,Snacks,Letter,5,250,1250,Card
+53314,6/17/2025,nakuru,groceries,Conference,10,10000,100000,Card
+53401,15-04-1988,,groceries,Heavy,5,10000,50000,Cash
+50431,10/8/2025,,Snacks,Role,,,,M-Pesa
+51693,7/26/2024,Mombasa,Beverages,Down,10,250,2500,Card
+52914,14-11-1997, Kisumu ,Personal Care,Tonight,1,100,100,cash
+53868,18-07-2007,Mombasa,Snacks,Any,1,500,500,M-Pesa
+52034,25-01-1984, Kisumu ,Groceries,Knowledge,10,100,1000,M-Pesa
+51272,12/11/2024,Nairobi,Household,May,20,,,Card
+52497,27-04-2020,nakuru,Snacks,Collection,10,500,5000,Card
+51345,8/12/2023, Kisumu ,Snacks,As,50,500,25000,cash
+51386,1/17/2026,Nairobi,Personal Care,Four,5,100,500,Card
+52085,12/2/2025,nakuru,Beverages,Idea,2,2000,4000,cash
+52794,7/3/2024,,Personal Care,Thought,20,50,1000,M-Pesa
+51182,1/1/1975,Nairobi,Snacks,Price,,1000,,Cash
+51695,8/16/2024,Nairobi,Personal Care,Job,20,500,10000,M-Pesa
+50007,8/26/2025,nakuru,Household,The,5,2000,10000,M-Pesa
+50290,13-09-1984,Mombasa,Snacks,Trial,2,500,1000,M-Pesa
+53896,7/11/2003, Kisumu ,Household,Understand,2,1000,2000,Cash
+51789,11/5/2025,,groceries,Product,20,250,5000,Card
+50439,10/12/2024,,Household,Office,5,500,2500,Cash
+51663,20-11-2006, Kisumu ,Groceries,Want,1,50,50,cash
+50275,19-03-1994,Mombasa,Groceries,War,10,500,5000,M-Pesa
+52134,9/22/2025,nakuru,Personal Care,Easy,2,10000,20000,Card
+53141,5/17/2026, Kisumu ,Snacks,Soon,,10000,,cash
+53003,15-03-2009,Nairobi,Snacks,Tonight,2,2000,4000,cash
+52841,17-10-1997,,Beverages,Couple,20,100,2000,Cash
+50161,9/22/2024,nakuru,Household,Ability,5,10000,50000,cash
+53001,8/12/2007,nakuru,Household,Address,10,100,1000,Card
+52665,19-10-1995,nakuru,Household,Service,20,1000,20000,Card
+52290,10/10/1979, Kisumu ,groceries,National,2,250,500,M-Pesa
+50713,6/28/2024,,Household,Its,20,10000,200000,Card
+51754,9/7/2025,,Beverages,Right,20,,,Cash
+51121,25-06-1980, Kisumu ,Personal Care,Firm,5,250,1250,Card
+52001,10/10/2025,,Household,Common,10,50,500,Cash
+50107,6/1/1970, Kisumu ,Beverages,Teacher,10,1000,10000,cash
+50023,24-09-1993,nakuru,groceries,Movie,,100,,cash
+50175,1/2/1970, Kisumu ,Beverages,Reality,,50,,cash
+50614,10/7/2024,,groceries,Mrs,50,1000,50000,cash
+52992,8/8/2025,nakuru,Household,Ago,1,100,100,Card
+50382,20-12-2018,,Snacks,Budget,1,250,250,Card
+51244,1/15/2025,Mombasa,Groceries,Read,1,10000,10000,Card
+50664,7/12/2024,,groceries,Clearly,50,250,12500,cash
+51149,9/12/1998, Kisumu ,groceries,By,,250,,cash
+53467,3/15/2025,nakuru,Personal Care,Leader,10,2000,20000,Cash
+51841,4/10/2026, Kisumu ,Groceries,Second,,10000,,Card
+52936,9/20/2025, Kisumu ,Snacks,Approach,5,2000,10000,Cash
+52470,12/13/2024,Mombasa,Household,Job,20,50,1000,cash
+50769,29-09-2024,nakuru,groceries,Car,10,50,500,cash
+53838,11/11/2024,nakuru,Groceries,Deal,20,1000,20000,Cash
+52771,20-06-2010,Mombasa,Beverages,Seek,20,250,5000,M-Pesa
+50459,12/9/2006,Mombasa,Beverages,Rate,20,250,5000,Card
+52110,21-10-2006,,Household,Lead,5,2000,10000,cash
+50731,9/27/2024,,groceries,Turn,20,250,5000,Card
+51688,4/17/2026, Kisumu ,Personal Care,Try,2,50,100,Cash
+53006,5/17/2026,Nairobi,groceries,Hard,,50,,Card
+53071,22-02-2024,Nairobi,Beverages,Yeah,1,100,100,Card
+50331,9/24/2024,Mombasa,Snacks,Process,,100,,cash
+50737,1/4/2026,nakuru,groceries,Require,1,1000,1000,Cash
+51591,3/3/2025,nakuru,Snacks,Single,,2000,,cash
+53987,27-03-2013,Mombasa,Beverages,Join,5,10000,50000,cash
+50743,14-11-2002,Mombasa,Snacks,Sometimes,20,100,2000,Card
+51503,21-09-1986, Kisumu ,Snacks,Soon,1,,,cash
+52557,9/19/2024,Mombasa,Beverages,Against,50,500,25000,Cash
+50077,9/27/2024,Mombasa,Personal Care,Citizen,2,,,cash
+53558,9/27/2024,Nairobi,groceries,Growth,2,,,Card
+51353,25-11-2000,,Personal Care,Top,,50,,Cash
+50606,25-11-1980,,Snacks,Hot,50,250,12500,Cash
+52185,1/6/1992,,Groceries,Name,50,500,25000,Cash
+53865,10/6/2025,nakuru,Household,Challenge,10,,,cash
+53649,1/16/2025,,Groceries,Treatment,10,1000,10000,Card
+50558,12/30/2025,Mombasa,Snacks,Should,50,2000,100000,cash
+51403,6/9/2014, Kisumu ,Household,Break,2,50,100,Cash
+51517,10/1/1986, Kisumu ,Household,High,20,100,2000,Card
+52731,4/16/2025,,Snacks,Conference,2,1000,2000,M-Pesa
+51526,9/14/2025, Kisumu ,Snacks,Add,1,100,100,Cash
+52639,11/5/2005,Nairobi,Snacks,Reflect,10,2000,20000,M-Pesa
+53537,6/13/2025,nakuru,groceries,Thing,2,2000,4000,Cash
+50320,20-11-2010,Mombasa,Snacks,Enough,,10000,,Card
+52221,1/11/2025,Mombasa,Groceries,Blood,10,2000,20000,Cash
+53114,2/23/2025,Mombasa,groceries,We,,1000,,cash
+50552,15-11-2019,Nairobi,Beverages,All,20,500,10000,Card
+51847,11/3/1990,nakuru,Beverages,Foot,1,100,100,Card
+51190,12/4/1986,Mombasa,Beverages,Ball,2,250,500,M-Pesa
+51256,4/20/2026, Kisumu ,Beverages,Effort,20,100,2000,cash
+51279,6/9/1992, Kisumu ,Personal Care,Best,,1000,,cash
+53018,5/31/2025,nakuru,Household,With,,250,,Cash
+53736,29-05-1992,,Groceries,Growth,10,1000,10000,cash
+50162,20-03-2002,Nairobi,Personal Care,Tax,,10000,,Cash
+53470,27-11-1976,nakuru,Snacks,Land,5,1000,5000,cash
+50649,1/13/2026,nakuru,Household,Theory,20,2000,40000,Cash
+53365,15-11-1992,,Personal Care,Act,,500,,Cash
+53615,11/5/2025,Mombasa,Snacks,Specific,5,100,500,M-Pesa
+53806,11/12/2024,,Groceries,Perhaps,20,10000,200000,Card
+51182,7/18/2025,,Groceries,Let,5,,,Cash
+50177,8/28/2024,Mombasa,Snacks,Former,,500,,M-Pesa
+52068,12/8/2024,nakuru,Beverages,Section,20,500,10000,Card
+51822,11/1/1981,,Snacks,Economic,2,10000,20000,M-Pesa
+51215,21-02-2026, Kisumu ,Personal Care,Wish,20,2000,40000,cash
+53941,1/17/2026,Nairobi,Personal Care,Population,50,250,12500,Cash
+53986,12/7/2009,Nairobi,groceries,Full,10,10000,100000,Cash
+53090,24-06-1996,,Snacks,Read,5,250,1250,M-Pesa
+51943,28-05-2003, Kisumu ,groceries,Kitchen,50,2000,100000,M-Pesa
+52166,21-09-1995,Nairobi,Beverages,Piece,5,100,500,cash
+53492,10/11/2024, Kisumu ,Personal Care,Offer,,1000,,Cash
+51659,7/17/2025,Mombasa,Snacks,Audience,20,,,Card
+53394,9/26/2024, Kisumu ,Beverages,Different,2,50,100,M-Pesa
+50159,11/24/2024,Mombasa,groceries,Believe,2,2000,4000,Cash
+51193,29-09-1995,Mombasa,Snacks,Attorney,5,1000,5000,Card
+50236,12/7/2025,,Snacks,Outside,1,500,500,Card
+50496,29-07-2000,,Groceries,Difficult,10,1000,10000,Cash
+50032,20-07-2020,,Snacks,Doctor,10,100,1000,Card
+52321,2/12/1971, Kisumu ,Household,Heavy,20,500,10000,cash
+53320,23-06-2019,,groceries,Analysis,2,,,cash
+50947,13-09-2005,nakuru,Personal Care,Institution,10,10000,100000,cash
+51745,5/25/2025,,Household,Because,20,1000,20000,Card
+53337,15-07-2023,,Personal Care,Each,20,10000,200000,cash
+50909,2/17/2026,Nairobi,Groceries,Lawyer,20,50,1000,M-Pesa
+53064,5/11/2025,,groceries,Participant,1,50,50,cash
+50756,1/7/2002,Mombasa,Personal Care,Bank,10,100,1000,Card
+51184,20-02-2003,,groceries,Month,,10000,,Card
+53070,9/26/2025,Nairobi,Household,Someone,,50,,cash
+53120,8/1/2007,Nairobi,Beverages,Wide,1,250,250,M-Pesa
+50316,6/9/1989,Nairobi,Snacks,Purpose,5,50,250,M-Pesa
+51691,7/24/2025,,Household,Central,5,10000,50000,Cash
+51635,27-11-2014,nakuru,Groceries,Professional,50,1000,50000,Card
+51924,14-11-1997, Kisumu ,Personal Care,Light,2,50,100,Cash
+50850,1/3/2026,,Household,Wish,10,50,500,M-Pesa
+52753,9/5/2024,Mombasa,Snacks,Hear,,10000,,Card
+53685,2/22/2026, Kisumu ,Snacks,Management,1,2000,2000,Cash
+53288,10/10/1991, Kisumu ,Beverages,Deal,10,2000,20000,cash
+52823,1/27/2026,Nairobi,Snacks,It,50,50,2500,Card
+51965,29-05-2025,,Personal Care,Model,5,1000,5000,M-Pesa
+50514,9/11/2010, Kisumu ,Household,Case,10,1000,10000,Card
+52163,12/2/2026,,Snacks,Computer,50,100,5000,cash
+53306,1/5/1985,Mombasa,Snacks,Visit,50,250,12500,M-Pesa
+52029,15-12-2005,Mombasa,Groceries,Per,,10000,,M-Pesa
+51392,7/4/2001, Kisumu ,Groceries,Energy,1,250,250,Card
+50525,5/7/1994,Nairobi,Groceries,Me,1,2000,2000,cash
+53978,20-07-1993,,Beverages,Prepare,,500,,Card
+50326,27-02-2009,Nairobi,Snacks,Though,1,10000,10000,cash
+53127,11/1/1979,nakuru,Groceries,Similar,1,100,100,M-Pesa
+50217,12/27/2025,,Personal Care,Say,1,1000,1000,M-Pesa
+51828,19-01-2024,Nairobi,Groceries,Scientist,10,100,1000,Card
+53903,12/7/2017,,groceries,Picture,2,100,200,cash
+51219,9/3/2024,Nairobi,Household,Likely,,500,,M-Pesa
+53352,20-05-1970,,Beverages,Pretty,10,2000,20000,cash
+53306,5/29/2026,,Groceries,Side,,1000,,M-Pesa
+53666,12/7/2010,nakuru,Personal Care,South,2,100,200,Card
+52575,18-02-1989,nakuru,Groceries,Book,10,10000,100000,cash
+53848,22-04-2016,Nairobi,Beverages,Lawyer,,50,,M-Pesa
+50041,21-09-1980, Kisumu ,groceries,Everybody,2,50,100,Card
+52917,22-12-1982, Kisumu ,Household,Both,2,1000,2000,M-Pesa
+53484,7/17/2025,nakuru,Snacks,Yourself,10,50,500,Cash
+51938,11/8/1972,,Personal Care,No,5,250,1250,cash
+51504,5/3/2002,Mombasa,Household,Dark,,50,,Card
+52873,7/27/2024,Mombasa,groceries,Without,,50,,cash
+51916,12/2/2022,nakuru,Groceries,Fast,2,,,cash
+52735,15-08-2025, Kisumu ,Groceries,Every,5,1000,5000,Card
+51283,16-11-1990,nakuru,Beverages,Than,,,,Card
+51324,7/12/2005,nakuru,Personal Care,Democrat,,100,,Card
+53877,2/7/2026, Kisumu ,Beverages,Foreign,20,1000,20000,Cash
+50857,1/3/2025,Mombasa,Snacks,Song,50,250,12500,cash
+51776,8/19/2024,,Groceries,Could,20,2000,40000,cash
+53313,29-09-2007,nakuru,Groceries,Source,1,250,250,Card
+51427,8/12/2025,nakuru,Snacks,Lose,,250,,Card
+52155,2/22/2025,,Snacks,At,1,1000,1000,Card
+53616,26-01-1999,Mombasa,Groceries,Between,10,250,2500,Card
+52247,10/3/2016, Kisumu ,groceries,Many,50,,,Cash
+52546,7/7/2025,,Groceries,Ground,20,,,Cash
+54000,13-02-2012,Nairobi,Groceries,Trade,10,,,Cash
+52276,9/4/2023,Mombasa,groceries,So,50,50,2500,Card
+50821,3/13/2026,nakuru,Groceries,Human,1,250,250,cash
+51584,1/23/2025,Mombasa,Household,Suddenly,50,2000,100000,Card
+50045,23-02-2000,Mombasa,Beverages,Create,20,50,1000,Card
+52038,23-04-1984,,Snacks,However,1,10000,10000,cash
+52626,3/7/2017,nakuru,Household,Statement,50,10000,500000,M-Pesa
+51124,7/26/2025, Kisumu ,Snacks,Every,,100,,M-Pesa
+53258,17-11-1985,,Personal Care,Often,50,50,2500,Cash
+50294,21-03-1970,Nairobi,Beverages,Medical,,2000,,M-Pesa
+51332,10/29/2025,Nairobi,Beverages,Walk,,1000,,Cash
+52316,19-07-2012, Kisumu ,Groceries,Outside,,,,cash
+51413,6/3/1987,Nairobi,Groceries,Will,1,,,Cash
+51607,21-07-1975,Nairobi,groceries,Anyone,20,250,5000,Cash
+52818,31-10-1984,,groceries,Art,1,250,250,Card
+53649,4/29/2025, Kisumu ,Personal Care,Mr,2,10000,20000,Card
+53380,30-10-2005,Nairobi,groceries,Player,,100,,Card
+52584,10/21/2024,,Beverages,Even,1,,,M-Pesa
+51928,3/15/2026, Kisumu ,Snacks,Sea,20,500,10000,M-Pesa
+53089,25-05-2005,Mombasa,Groceries,Reach,50,10000,500000,cash
+53372,12/6/2024,Mombasa,Personal Care,Charge,,1000,,cash
+53452,5/25/2026, Kisumu ,Groceries,American,1,50,50,Card
+53550,3/29/2025,,Beverages,Professional,20,250,5000,Card
+51732,9/3/2025,nakuru,Beverages,Management,20,,,Cash
+52416,14-01-1996,Mombasa,Groceries,Reflect,2,250,500,M-Pesa
+52740,21-05-1977,,groceries,Radio,50,2000,100000,M-Pesa
+50097,20-05-1999,Mombasa,groceries,Day,10,10000,100000,Cash
+53381,3/17/2026, Kisumu ,groceries,Across,10,10000,100000,Card
+52403,6/15/2025,Mombasa,Snacks,Like,50,10000,500000,Card
+50878,12/23/2024,,Snacks,Anything,20,500,10000,cash
+50064,6/2/2026,,Household,Recently,50,250,12500,Cash
+52587,3/28/2026,,Beverages,Daughter,10,250,2500,Cash
+51362,5/11/2025,Nairobi,groceries,Decade,50,500,25000,M-Pesa
+51030,11/4/2024, Kisumu ,Snacks,Play,2,50,100,cash
+51547,3/8/2025,Mombasa,Beverages,Special,50,10000,500000,Card
+50009,17-09-1977,,Household,Phone,,250,,M-Pesa
+51103,24-03-2026,,Snacks,Trade,10,2000,20000,cash
+53049,10/9/2024, Kisumu ,Snacks,Partner,5,1000,5000,cash
+50909,14-02-2015,Nairobi,Beverages,Summer,2,1000,2000,cash
+50807,26-03-2016, Kisumu ,Beverages,Economy,1,100,100,M-Pesa
+52828,29-03-2009,Nairobi,Beverages,Serious,20,50,1000,cash
+52868,22-08-2024,,Beverages,Clear,50,,,cash
+51238,8/7/1978,,Personal Care,Task,5,2000,10000,cash
+52239,10/18/2024, Kisumu ,Personal Care,Ago,,2000,,cash
+52809,1/30/2026,,Personal Care,Quite,50,500,25000,cash
+50534,5/8/2021,,groceries,Sea,1,2000,2000,Cash
+53931,13-03-1973,nakuru,Household,What,,10000,,cash
+50902,11/1/2025,Nairobi,Household,Process,1,10000,10000,Card
+53685,13-11-2000,,Personal Care,Popular,5,2000,10000,cash
+51459,11/20/2025,Mombasa,Personal Care,Successful,2,250,500,Card
+51309,1/8/2026,Nairobi,Personal Care,Exactly,2,50,100,cash
+52484,8/5/1971,Mombasa,Groceries,Throw,50,500,25000,Card
+50066,4/1/2006,,Snacks,Lead,20,2000,40000,Cash
+52518,5/6/2014,Nairobi,groceries,Own,,500,,M-Pesa
+52245,8/4/1996,Mombasa,Personal Care,Up,,100,,cash
+53611,4/27/2025,Mombasa,groceries,Decade,50,500,25000,Cash
+53425,10/22/2024,,Personal Care,Fall,1,1000,1000,M-Pesa
+51505,13-02-1987,,Groceries,Feel,,100,,M-Pesa
+51011,2/21/2026,,groceries,Let,10,2000,20000,cash
+50042,4/7/2026,,groceries,Item,50,100,5000,Card
+53703,12/30/2025,nakuru,Household,Responsibility,,,,M-Pesa
+52774,18-07-2023,,Household,Take,10,100,1000,M-Pesa
+53893,20-04-2018,nakuru,Household,Film,,10000,,M-Pesa
+52873,14-01-2012,Nairobi,Groceries,Spring,1,,,M-Pesa
+52136,22-03-1993,Nairobi,Household,Everything,10,500,5000,Cash
+51603,24-02-1984,,groceries,Claim,5,1000,5000,Card
+53369,9/11/2024,Mombasa,Beverages,Increase,1,2000,2000,Card
+51924,11/15/2025, Kisumu ,Snacks,Rise,1,250,250,M-Pesa
+51731,6/10/2026,,Household,Page,,50,,M-Pesa
+50963,6/10/2025,nakuru,Snacks,Very,20,500,10000,cash
+52208,5/4/2025,Nairobi,Household,Serious,,,,Card
+53096,12/7/2024,nakuru,groceries,Miss,50,500,25000,cash
+52331,2/18/2025,Mombasa,Household,Between,1,1000,1000,Card
+51751,5/12/1986,,groceries,Nice,2,100,200,cash
+52127,1/19/2025,Nairobi,Beverages,Structure,50,2000,100000,Cash
+53047,12/14/2024,,Household,List,1,2000,2000,cash
+52367,18-03-1999, Kisumu ,Snacks,East,5,1000,5000,cash
+53906,11/11/2005,Nairobi,groceries,Black,20,2000,40000,M-Pesa
+52636,8/21/2025, Kisumu ,Groceries,Away,50,2000,100000,cash
+50445,9/6/2024,nakuru,Groceries,Lawyer,2,100,200,cash
+50582,11/16/2025,,Snacks,First,2,10000,20000,Card
+52170,31-01-2000,,Snacks,Maybe,10,10000,100000,cash
+52495,6/8/1992,,Beverages,Enjoy,,10000,,Cash
+50337,9/7/2024,nakuru,Snacks,Magazine,2,500,1000,cash
+51754,5/28/2025,Nairobi,Household,North,10,1000,10000,Cash
+51286,11/9/2025,,Beverages,Then,50,50,2500,cash
+53303,4/13/2025,nakuru,Household,Follow,,2000,,cash
+52379,28-08-1978,,Groceries,Partner,10,1000,10000,Cash
+53023,4/26/2026, Kisumu ,Personal Care,Part,20,100,2000,cash
+51380,7/7/1995,Mombasa,Household,Style,1,250,250,Cash
+53470,9/14/2024,,Snacks,Standard,2,50,100,Cash
+53712,1/16/2025, Kisumu ,Snacks,Child,1,500,500,M-Pesa
+52730,6/12/2016,,Beverages,Pass,,1000,,M-Pesa
+51182,6/1/1991,nakuru,Personal Care,Save,50,10000,500000,M-Pesa
+53438,27-07-1978,Nairobi,Household,Citizen,2,,,cash
+53370,28-01-2021,,Snacks,Respond,20,,,M-Pesa
+53907,3/18/2025,Mombasa,groceries,No,2,500,1000,Card
+51380,20-09-1978,Mombasa,Groceries,Modern,50,500,25000,Card
+53405,30-03-1987,,Groceries,Stuff,1,,,Card
+50965,5/5/2026,Mombasa,Beverages,State,50,50,2500,cash
+52077,8/2/2024,Mombasa,Household,Program,2,2000,4000,M-Pesa
+52334,6/10/2026,Mombasa,Snacks,Foreign,1,500,500,Card
+53706,24-04-2022,nakuru,groceries,Different,,250,,cash
+53859,6/28/2025,Mombasa,Groceries,Yet,5,50,250,Card
+50262,10/5/2024,,Snacks,Scientist,1,10000,10000,Card
+52277,3/6/2026,nakuru,Personal Care,Assume,50,1000,50000,cash
+51433,8/8/2024, Kisumu ,groceries,Here,20,2000,40000,Cash
+50126,16-07-1983,nakuru,groceries,Senior,2,100,200,Cash
+51557,8/10/2025, Kisumu ,Household,Music,50,10000,500000,Card
+50299,11/10/2024,,Snacks,Everybody,10,,,M-Pesa
+50237,7/9/2024,,groceries,Pressure,10,250,2500,Card
+50995,10/25/2024,Nairobi,Personal Care,White,,500,,Card
+51766,8/4/1972, Kisumu ,groceries,Might,50,2000,100000,cash
+51490,1/8/1993,Mombasa,Groceries,Else,1,,,Card
+50264,5/4/2026,,Snacks,Law,50,10000,500000,Card
+53384,20-03-1983,Mombasa,Beverages,Though,,50,,M-Pesa
+53738,24-04-2005, Kisumu ,Household,Simple,20,500,10000,Cash
+51471,3/4/2025,Nairobi,groceries,Coach,,2000,,M-Pesa
+53437,6/9/2025,Mombasa,groceries,Writer,5,2000,10000,Card
+50061,19-11-2024,nakuru,Household,Process,5,2000,10000,Card
+50526,2/21/2026,,Snacks,Dog,20,2000,40000,M-Pesa
+51645,20-07-2025, Kisumu ,groceries,Wife,20,250,5000,cash
+53947,19-12-2021, Kisumu ,Snacks,Develop,1,250,250,Card
+51407,12/23/2024, Kisumu ,Snacks,Rule,5,1000,5000,cash
+51097,4/8/2026,,Household,Several,5,,,Cash
+51533,13-03-2005, Kisumu ,Household,They,5,,,cash
+53818,6/7/2025,nakuru,Groceries,Tough,1,100,100,cash
+50710,8/13/2025,Mombasa,Household,Run,2,500,1000,M-Pesa
+52161,3/6/2026,nakuru,groceries,First,2,50,100,M-Pesa
+51235,8/3/2022,nakuru,Snacks,Beyond,20,10000,200000,M-Pesa
+52838,9/27/2024,nakuru,Personal Care,Unit,10,250,2500,Card
+52437,2/2/2025,Mombasa,Household,Grow,2,250,500,cash
+50582,31-10-2005,Nairobi,Snacks,Arm,2,100,200,M-Pesa
+52325,17-05-1986,nakuru,Snacks,Drug,1,500,500,Card
+53480,2/20/2026,Nairobi,Household,Example,5,,,Cash
+52724,4/29/2025,Mombasa,Beverages,Itself,10,2000,20000,Cash
+50300,10/10/2025,Nairobi,Household,Consumer,20,500,10000,Card
+50901,13-06-2000,,Snacks,Beyond,50,250,12500,cash
+52816,7/10/1986,,Groceries,Ability,20,500,10000,cash
+53406,5/12/2025,Mombasa,Groceries,Long,50,50,2500,cash
+53007,16-05-1980,Nairobi,groceries,Section,20,500,10000,M-Pesa
+50691,7/4/2024,Nairobi,Snacks,Smile,2,500,1000,Card
+51333,2/8/2002, Kisumu ,Snacks,Voice,20,100,2000,cash
+50513,9/2/2024, Kisumu ,groceries,Pattern,5,100,500,Card
+52859,9/21/2024,Nairobi,Groceries,Civil,50,2000,100000,Card
+53477,6/28/2024,,Beverages,Threat,5,1000,5000,cash
+51860,5/5/2025,,Snacks,Develop,1,250,250,Cash
+50860,7/8/1986, Kisumu ,Groceries,Approach,1,1000,1000,M-Pesa
+50274,5/21/2025,,Household,Democrat,5,100,500,Cash
+51729,8/2/2001,Mombasa,Household,Provide,1,250,250,Card
+53584,9/13/2024,Nairobi,groceries,Opportunity,1,2000,2000,Cash
+51692,8/1/1984,Mombasa,Personal Care,Mission,2,10000,20000,cash
+51481,19-12-1992,,Snacks,Structure,20,10000,200000,cash
+51644,8/6/2025,nakuru,Snacks,Like,1,10000,10000,Card
+50607,10/14/2025,nakuru,Beverages,Court,1,2000,2000,M-Pesa
+52004,5/31/2025, Kisumu ,groceries,Consider,,500,,M-Pesa
+50206,6/10/2026,,Snacks,Pull,20,500,10000,cash
+52227,3/7/2023,,Household,Audience,20,2000,40000,M-Pesa
+53690,17-09-2022,Mombasa,Snacks,Professor,50,1000,50000,M-Pesa
+50840,4/9/2026,,Beverages,Guess,1,1000,1000,M-Pesa
+50074,9/29/2024,nakuru,Beverages,Economic,50,10000,500000,cash
+52417,22-12-2023, Kisumu ,groceries,School,10,1000,10000,Card
+52205,5/20/2026,Nairobi,Groceries,Field,50,500,25000,Cash
+51950,24-12-1993,Mombasa,Personal Care,Garden,50,1000,50000,Cash
+53139,2/1/2026,,Beverages,Choice,10,10000,100000,Card
+53983,2/1/2026,Nairobi,Snacks,Central,,50,,Card
+50441,5/10/2025,Nairobi,Beverages,Store,,50,,M-Pesa
+51277,7/11/2024,,Household,National,10,500,5000,Cash
+53214,13-08-1997,Mombasa,Household,Economic,,250,,cash
+50846,6/22/2025, Kisumu ,Snacks,Focus,20,10000,200000,M-Pesa
+51647,27-10-1992,nakuru,groceries,Pass,1,100,100,M-Pesa
+52749,3/5/2025,nakuru,groceries,Cultural,50,2000,100000,Card
+52377,8/26/2025, Kisumu ,Snacks,Finish,50,100,5000,Cash
+52850,7/2/2025,,Snacks,Because,1,50,50,cash
+52419,7/5/2025,Mombasa,groceries,Question,20,100,2000,cash
+51540,12/4/2024,Nairobi,Beverages,Project,1,,,cash
+52214,9/20/2024,Nairobi,Personal Care,Behavior,10,100,1000,Cash
+51792,2/12/2026,nakuru,Snacks,Consider,,10000,,Card
+53903,6/12/2016,,groceries,Research,20,,,Cash
+53780,26-02-2025,,Groceries,High,50,500,25000,cash
+52270,18-11-2012,,Personal Care,Seek,1,,,cash
+52125,4/27/2025,Mombasa,Beverages,Option,2,250,500,Cash
+52249,1/7/2026,,Household,Collection,,2000,,Card
+53385,16-10-2017,Nairobi,Beverages,Center,50,,,cash
+52547,6/12/2025,Nairobi,Snacks,State,5,1000,5000,M-Pesa
+52381,26-02-1970,Mombasa,groceries,Address,1,500,500,Card
+53831,30-06-2000,Mombasa,Household,Rule,5,1000,5000,Card
+51322,6/20/2024, Kisumu ,Household,Certainly,5,10000,50000,Card
+51803,9/5/2009, Kisumu ,Snacks,Represent,2,10000,20000,Cash
+50484,10/10/2024,,Household,Concern,20,250,5000,Cash
+53706,24-02-1978,Nairobi,Groceries,Store,5,10000,50000,cash
+50033,7/25/2024,nakuru,Snacks,Soon,5,50,250,Card
+52049,2/10/2025,nakuru,Personal Care,Lawyer,10,250,2500,Cash
+52073,20-05-1972,,Beverages,Chair,10,50,500,cash
+53826,1/10/1974,nakuru,groceries,Operation,5,2000,10000,M-Pesa
+50149,12/23/2024, Kisumu ,Personal Care,Day,10,100,1000,Card
+52342,1/7/2026,Nairobi,Beverages,Fast,,10000,,Cash
+50651,3/2/2026,Nairobi,Snacks,Necessary,50,100,5000,Cash
+52932,2/6/2009,Mombasa,groceries,Key,1,250,250,cash
+50542,2/27/2025, Kisumu ,Groceries,Cell,20,500,10000,Card
+50865,4/4/1995,Nairobi,Beverages,Quickly,20,500,10000,cash
+50626,9/30/2024,Nairobi,Beverages,Prevent,2,,,Cash
+51064,12/31/2024,nakuru,Household,Goal,,50,,cash
+50278,3/13/2025,Nairobi,groceries,Girl,20,10000,200000,Cash
+50352,17-05-1979, Kisumu ,Beverages,That,,,,cash
+53078,2/4/1991,Nairobi,Beverages,Begin,2,50,100,cash
+51598,3/25/2025,,Household,Player,50,1000,50000,cash
+50542,2/19/2025,Mombasa,Groceries,Child,,500,,Card
+53041,11/30/2024,Nairobi,Beverages,Myself,20,1000,20000,Card
+52433,15-02-1972, Kisumu ,Household,International,5,500,2500,Cash
+52495,27-07-1972, Kisumu ,groceries,Show,5,1000,5000,Card
+53264,12/4/2007,,Beverages,Treat,2,10000,20000,cash
+52045,10/10/1995,,Household,Amount,10,2000,20000,cash
+51954,2/21/2026,Nairobi,Snacks,Available,,1000,,Cash
+50368,1/2/2025,,groceries,Note,5,500,2500,Cash
+52009,26-12-2010,Mombasa,Snacks,Officer,1,1000,1000,Cash
+50578,6/1/2026,nakuru,Household,Half,10,10000,100000,Cash
+51900,9/2/2024,nakuru,Beverages,Key,20,250,5000,Cash
+51006,11/3/1984,,Snacks,Amount,50,1000,50000,cash
+52060,3/22/2025,,Beverages,Beat,20,2000,40000,Cash
+50702,9/10/2011,,Groceries,Baby,,1000,,M-Pesa
+52607,4/22/2025,Nairobi,Snacks,Support,20,250,5000,cash
+52092,6/1/2025,,Snacks,Traditional,50,,,Card
+52639,11/26/2025,,Snacks,Already,2,100,200,Cash
+51455,6/3/2024,,Household,Everything,5,2000,10000,cash
+50732,8/11/1986,,groceries,Challenge,5,,,Card
+51197,1/19/2026,nakuru,Beverages,Imagine,20,250,5000,cash
+51583,10/4/2024,Nairobi,Snacks,Then,,10000,,Card
+53975,31-05-1971,nakuru,Snacks,Themselves,2,1000,2000,Card
+53472,1/21/2025,nakuru,Household,Consider,1,2000,2000,Card
+52879,1/4/2025,nakuru,Beverages,His,50,10000,500000,Cash
+52096,1/9/2026,Mombasa,Snacks,Open,1,1000,1000,cash
+51421,24-04-1992,,Personal Care,Will,5,,,Card
+53486,29-01-1986,Mombasa,Snacks,Alone,,1000,,Cash
+51648,14-06-2019,Mombasa,Snacks,Alone,5,1000,5000,M-Pesa
+53517,11/3/2025,,Snacks,American,,10000,,Card
+53038,3/4/1988,,Beverages,Open,1,1000,1000,M-Pesa
+52994,12/15/2025,,Beverages,Table,2,100,200,cash
+51275,6/11/2021,,Beverages,Cause,1,250,250,cash
+53223,12/20/2024,,Groceries,Stage,10,2000,20000,M-Pesa
+51419,6/12/2025,,Snacks,Phone,20,500,10000,cash
+50340,10/2/2024,Mombasa,Groceries,Go,5,250,1250,Card
+53395,27-03-1975,nakuru,Household,Agent,,50,,Cash
+52264,6/21/2025,nakuru,Beverages,Share,10,,,M-Pesa
+50765,31-03-2026, Kisumu ,groceries,Return,20,1000,20000,Card
+53520,5/13/2026, Kisumu ,Snacks,At,1,100,100,cash
+50153,7/1/2025,nakuru,groceries,Out,50,2000,100000,Cash
+52704,11/7/1980, Kisumu ,Beverages,Source,1,2000,2000,Cash
+52145,12/7/2016,,Personal Care,Own,5,10000,50000,Cash
+52945,10/10/2025,,Household,Property,2,1000,2000,Card
+51259,4/26/2025,Nairobi,Beverages,Follow,,50,,Card
+50587,12/15/2024,,Household,Billion,10,,,Card
+53828,11/22/2025,nakuru,Household,Baby,2,50,100,M-Pesa
+52549,24-07-1996, Kisumu ,Household,Serious,1,250,250,Cash
+52462,11/8/1996, Kisumu ,Household,Blood,1,250,250,M-Pesa
+50713,23-03-1995,Mombasa,Groceries,Mission,1,2000,2000,Cash
+50702,6/27/2025,,groceries,Like,10,2000,20000,cash
+51499,5/7/2015,,Snacks,Woman,10,2000,20000,Cash
+53176,21-03-1978,Mombasa,Groceries,Yes,10,500,5000,Card
+52438,10/1/1998,Nairobi,Personal Care,Seek,50,50,2500,cash
+53349,12/21/2025,Nairobi,Snacks,Foot,5,100,500,cash
+52343,26-08-2001,,Personal Care,Bed,50,10000,500000,Cash
+50572,5/18/2026,Nairobi,groceries,Pm,20,500,10000,Card
+53997,10/11/1982,Mombasa,Groceries,Surface,20,,,cash
+53556,2/23/2025,Nairobi,Personal Care,Government,10,,,M-Pesa
+50990,1/12/2025,Mombasa,Groceries,Guess,5,1000,5000,M-Pesa
+50158,10/15/2025,Mombasa,Snacks,Involve,1,,,M-Pesa
+53729,27-11-1990,Nairobi,Household,Hand,1,1000,1000,Card
+51461,18-03-1974,nakuru,Snacks,Daughter,5,50,250,M-Pesa
+51563,5/1/2026,Mombasa,Groceries,Our,50,,,Card
+53628,6/10/2026,,Groceries,Be,,250,,Cash
+50509,4/2/2025,Nairobi,Groceries,Five,5,500,2500,cash
+51457,15-10-2025, Kisumu ,Groceries,Pay,50,1000,50000,M-Pesa
+53117,24-04-2017,,Household,Congress,10,2000,20000,M-Pesa
+51970,12/2/2024,Nairobi,Groceries,Item,20,50,1000,M-Pesa
+50721,10/16/2024,,Household,Certain,20,2000,40000,Cash
+52500,1/3/2012,,Personal Care,Fill,,500,,Card
+51098,24-12-1998,,Household,Themselves,5,50,250,cash
+52485,28-05-1983,,Groceries,Control,5,10000,50000,Card
+52119,10/16/2024,,Personal Care,Life,5,,,cash
+51179,15-02-2016,,Beverages,Control,50,10000,500000,M-Pesa
+52753,8/4/2024,nakuru,Groceries,Leave,5,1000,5000,Card
+53340,10/12/2013,,groceries,Of,10,100,1000,M-Pesa
+51360,13-03-1991,Mombasa,groceries,Technology,2,50,100,Card
+53631,6/10/2026,Mombasa,groceries,Pretty,20,250,5000,Cash
+53989,2/17/2025,Mombasa,Groceries,Exactly,10,100,1000,M-Pesa
+53393,10/2/2025, Kisumu ,groceries,Address,2,2000,4000,cash
+51938,5/15/2025,Mombasa,Beverages,Wrong,10,50,500,cash
+51423,9/4/2024,,Snacks,Where,10,250,2500,cash
+50593,22-02-2006,Mombasa,Household,Surface,5,,,M-Pesa
+51882,20-10-2013, Kisumu ,Household,Degree,10,250,2500,Cash
+53524,19-12-2007,,Household,Behind,2,2000,4000,Cash
+52389,5/4/1982,,groceries,Only,20,,,Card
+51869,29-03-1999,,Personal Care,Science,20,2000,40000,M-Pesa
+51108,5/31/2025,,Personal Care,Player,1,100,100,M-Pesa
+50014,10/8/1994,Mombasa,groceries,Whole,1,500,500,M-Pesa
+53073,4/16/2026,nakuru,Household,Current,,100,,Cash
+51754,11/8/2024,Mombasa,Household,Nature,50,2000,100000,cash
+53879,10/10/1996, Kisumu ,Groceries,And,10,500,5000,Card
+52740,13-02-1972,,Personal Care,Behavior,2,1000,2000,Cash
+50039,11/16/2025,,Personal Care,Personal,5,250,1250,Card
+52729,5/9/2025,,Beverages,Firm,2,,,cash
+52165,6/12/2026, Kisumu ,Beverages,Political,,10000,,Card
+53131,11/10/2024,nakuru,Groceries,Interesting,10,250,2500,Card
+51171,2/14/2026,nakuru,Personal Care,School,2,10000,20000,cash
+52616,14-02-1972,,Household,Operation,2,100,200,M-Pesa
+50059,3/9/2025,nakuru,groceries,Information,10,250,2500,cash
+53624,3/10/2026,nakuru,Beverages,Human,2,,,M-Pesa
+53438,4/12/2004, Kisumu ,Beverages,Another,10,250,2500,M-Pesa
+50803,5/3/2026,Nairobi,Beverages,Plant,5,500,2500,M-Pesa
+52091,11/6/1999,,Beverages,Discussion,50,500,25000,cash
+51542,31-08-2004,nakuru,Groceries,Discussion,50,10000,500000,cash
+53421,4/4/2026,,Snacks,Later,50,100,5000,M-Pesa
+53142,8/1/2024,,Snacks,After,1,,,cash
+52062,9/6/1975,nakuru,Beverages,Month,,2000,,Card
+52904,11/12/1977,nakuru,Personal Care,Camera,,250,,Cash
+53728,5/12/2026,,Household,Before,2,500,1000,Cash
+51902,7/30/2025,nakuru,Personal Care,Must,50,250,12500,M-Pesa
+50002,27-02-1981,Nairobi,Groceries,Yeah,2,10000,20000,Cash
+50584,3/11/2018, Kisumu ,Groceries,Goal,,1000,,cash
+53010,2/26/2025,,Snacks,Apply,5,100,500,Cash
+51477,3/21/2026,,Beverages,Market,,2000,,cash
+53873,30-06-2018,,Personal Care,Sport,2,,,Card
+52473,17-06-2016,nakuru,Snacks,Father,20,1000,20000,Card
+50497,11/26/2024, Kisumu ,Snacks,Cost,50,10000,500000,Card
+51419,12/10/2024,,Groceries,Place,50,2000,100000,cash
+52488,8/5/2024,nakuru,Personal Care,Until,2,100,200,cash
+53750,16-11-1986, Kisumu ,Personal Care,Family,10,100,1000,Cash
+52176,6/23/2024,Nairobi,Personal Care,Wife,5,100,500,Card
+53197,13-09-2017,Mombasa,Beverages,Reason,10,50,500,cash
+53030,6/2/2025,,Groceries,Deal,50,100,5000,M-Pesa
+50360,15-01-1985,,Personal Care,Southern,20,50,1000,M-Pesa
+50997,7/19/2025,nakuru,Groceries,Voice,5,1000,5000,Cash
+51658,7/16/2024,nakuru,groceries,Red,,1000,,Card
+52712,6/7/2026,Nairobi,Beverages,Reach,10,250,2500,Cash
+52530,7/10/1971,nakuru,groceries,From,,50,,M-Pesa
+53653,17-02-1990,,Snacks,Special,2,500,1000,Card
+50355,20-05-1991,Nairobi,Beverages,Station,1,100,100,M-Pesa
+52210,8/25/2024,nakuru,Household,Pm,,50,,cash
+50012,11/13/2025,Nairobi,Personal Care,Professional,10,250,2500,M-Pesa
+52841,25-09-1998, Kisumu ,Personal Care,Whole,5,50,250,cash
+51931,15-07-2017,,Beverages,Movement,20,250,5000,Card
+51279,9/4/1991,Mombasa,groceries,Mind,20,500,10000,Cash
+50071,6/1/2025, Kisumu ,Household,Source,50,500,25000,M-Pesa
+50142,31-01-2023, Kisumu ,groceries,If,1,2000,2000,Cash
+53781,22-12-2018,Nairobi,Personal Care,Film,2,250,500,cash
+52971,31-07-1974,,Personal Care,Could,2,50,100,Cash
+51968,12/19/2024,Nairobi,Snacks,Make,,,,M-Pesa
+51535,2/3/1981,,Groceries,Three,20,2000,40000,cash
+53583,7/5/2021, Kisumu ,Beverages,Later,,,,M-Pesa
+52267,4/2/2026,,Personal Care,Truth,20,250,5000,Card
+52544,4/21/2025,nakuru,Snacks,Care,,1000,,Card
+52494,8/21/2025, Kisumu ,Groceries,Might,,,,M-Pesa
+50724,10/5/2024,,groceries,Voice,10,2000,20000,Card
+52428,5/1/1973,nakuru,Household,Set,50,50,2500,Card
+53649,7/1/2024,,Personal Care,Fall,2,50,100,M-Pesa
+50753,25-02-1984,,groceries,Center,2,100,200,Cash
+53864,11/13/2024,Nairobi,Groceries,Factor,2,,,Card
+51594,11/19/2025,Nairobi,Personal Care,Wish,50,100,5000,Cash
+52218,9/12/2025,nakuru,Groceries,Election,5,1000,5000,Card
+52796,24-03-2004,Nairobi,Groceries,Kind,20,50,1000,cash
+51341,1/19/2026,Mombasa,Groceries,Actually,20,50,1000,M-Pesa
+51083,26-08-1973,Nairobi,Household,More,10,,,M-Pesa
+52609,31-07-2021,,groceries,Heavy,5,10000,50000,M-Pesa
+53080,8/13/2024,nakuru,Beverages,Whatever,20,500,10000,Card
+51363,7/23/2025,,groceries,Leave,1,50,50,M-Pesa
+53227,9/21/2025,Nairobi,Groceries,Contain,50,250,12500,Card
+50726,4/5/1989,Nairobi,Beverages,Each,5,2000,10000,Card
+53689,4/7/1977,nakuru,Personal Care,Of,50,2000,100000,M-Pesa
+51022,5/13/2026,,groceries,Small,5,250,1250,Cash
+53650,8/3/2025, Kisumu ,groceries,However,20,10000,200000,M-Pesa
+52964,7/9/2016, Kisumu ,Snacks,Although,50,2000,100000,Card
+53910,15-04-2011,Nairobi,groceries,Rate,2,10000,20000,Cash
+52299,12/27/2025,Mombasa,groceries,Special,,50,,M-Pesa
+51090,5/12/2025,,Personal Care,Reduce,50,250,12500,Cash
+53787,9/1/2024,Nairobi,groceries,Next,20,250,5000,M-Pesa
+52005,9/29/2025,nakuru,Personal Care,Probably,5,10000,50000,cash
+51504,3/9/2025, Kisumu ,Household,Father,1,250,250,Cash
+51809,4/11/2013,Mombasa,Household,Drop,20,50,1000,Cash
+51009,2/27/2026,nakuru,Household,Add,2,250,500,cash
+52614,1/12/2025,,Beverages,Book,50,500,25000,cash
+51704,28-11-2016,,Personal Care,Cup,20,500,10000,M-Pesa
+53715,7/4/2024,,Beverages,Economic,50,500,25000,M-Pesa
+51045,9/8/2025,Mombasa,groceries,Seven,50,500,25000,M-Pesa
+52429,1/6/2025,,Beverages,Me,1,500,500,Cash
+51927,4/10/2025,nakuru,Snacks,Act,1,2000,2000,Cash
+53293,18-09-2024,Nairobi,Personal Care,Look,10,100,1000,Cash
+51064,4/6/2020,nakuru,Groceries,Left,2,250,500,M-Pesa
+52699,10/21/2025,Nairobi,Snacks,Painting,5,1000,5000,cash
+52466,10/8/1984,,groceries,Less,20,50,1000,cash
+52954,14-07-2024,Mombasa,groceries,Run,1,1000,1000,cash
+50857,1/15/2025, Kisumu ,Groceries,Hospital,50,500,25000,M-Pesa
+51551,11/18/2025,nakuru,Personal Care,Almost,10,250,2500,Card
+52467,10/8/2025,Mombasa,Snacks,Enough,2,500,1000,M-Pesa
+53708,20-03-2000,,Beverages,Assume,1,50,50,Card
+53088,3/9/2025, Kisumu ,Household,Box,1,250,250,M-Pesa
+51419,20-02-2002,Nairobi,groceries,Pretty,5,1000,5000,cash
+53203,19-09-2021,,Snacks,Establish,10,500,5000,cash
+53698,16-07-1989,nakuru,groceries,Arrive,1,250,250,Cash
+50954,5/17/2026,,Household,Put,10,250,2500,Cash
+53397,4/29/2026,Mombasa,groceries,Television,5,1000,5000,Cash
+51120,7/6/2005,Nairobi,Beverages,Police,10,100,1000,Cash
+52513,11/28/2024,Mombasa,Beverages,Pretty,5,50,250,M-Pesa
+51206,11/10/2024,Nairobi,Beverages,Fine,5,,,Cash
+52433,8/4/2025,nakuru,Snacks,Choice,50,,,Card
+53725,13-01-1987,,Beverages,Station,2,50,100,M-Pesa
+53747,29-03-2001,,Snacks,Fill,20,250,5000,Cash
+52338,9/25/2025,,Beverages,Painting,20,2000,40000,M-Pesa
+53597,12/5/1987, Kisumu ,Groceries,Reveal,5,100,500,M-Pesa
+51219,2/7/2026,,Personal Care,Clearly,,500,,Card
+52501,2/15/2025,,Household,Act,10,,,cash
+51156,5/21/2026,,Groceries,Question,20,500,10000,cash
+52656,5/10/1993,,groceries,Box,1,,,Cash
+51087,8/8/2025,,Groceries,Store,20,2000,40000,M-Pesa
+50430,11/26/2025,Mombasa,groceries,Budget,1,50,50,cash
+50055,10/21/2024,Nairobi,Snacks,Eat,50,,,Cash
+52608,9/21/2025,,Household,Name,5,50,250,cash
+51532,29-05-1996, Kisumu ,Snacks,Speech,2,100,200,Card
+50689,16-05-2019,,Household,Instead,50,10000,500000,cash
+50731,30-11-1992, Kisumu ,Household,Office,10,2000,20000,Card
+50171,9/5/2024,,Snacks,News,10,250,2500,Card
+52930,6/13/2025,,Personal Care,Thousand,,500,,Card
+53639,10/29/2025,Nairobi,Beverages,Among,1,2000,2000,Cash
+52205,24-04-1973,,Beverages,Possible,5,2000,10000,Card
+53328,1/8/2025, Kisumu ,Household,Serve,20,250,5000,Cash
+52139,27-05-1999,,Household,Brother,50,10000,500000,cash
+50296,10/12/2024,,Beverages,Identify,5,500,2500,Cash
+50671,8/26/2025,Nairobi,Household,Contain,5,2000,10000,cash
+53458,8/5/2024,,Household,Policy,20,,,M-Pesa
+51361,7/12/2010,Mombasa,Snacks,Deep,20,50,1000,Card
+51620,4/4/2026,nakuru,Personal Care,Degree,2,10000,20000,Cash
+50455,13-04-2003, Kisumu ,Groceries,Indeed,20,500,10000,cash
+50553,8/21/2025,,Beverages,Machine,,2000,,M-Pesa
+52619,11/8/2025,Nairobi,Groceries,Simply,1,250,250,M-Pesa
+53261,12/13/2025,nakuru,groceries,Policy,1,50,50,M-Pesa
+51828,13-06-2021,,groceries,Also,1,,,cash
+50266,5/24/2026,,Snacks,Traditional,1,2000,2000,Cash
+50497,12/24/2024,,Groceries,Throughout,50,500,25000,M-Pesa
+51357,2/10/2022, Kisumu ,groceries,Better,20,2000,40000,M-Pesa
+50500,21-01-1998,Nairobi,Personal Care,Discussion,10,,,Cash
+53527,6/7/2026, Kisumu ,Household,Clear,2,1000,2000,Cash
+50145,5/7/2025,Mombasa,Groceries,Century,5,500,2500,Card
+53204,6/9/1998,Mombasa,Snacks,Third,5,1000,5000,Cash
+53963,5/10/2025,nakuru,Snacks,Attack,,500,,cash
+52382,12/21/2024, Kisumu ,Personal Care,Series,1,250,250,Card
+51502,12/17/2025,Mombasa,Groceries,Involve,2,250,500,Card
+50396,22-04-2018,Nairobi,Groceries,Wide,10,500,5000,cash
+50771,24-02-1997,Nairobi,groceries,Sense,,,,Cash
+52283,4/9/2025,Nairobi,Snacks,Concern,50,50,2500,M-Pesa
+52020,6/12/1990, Kisumu ,Household,News,5,250,1250,Cash
+53385,5/18/2026,,Household,Water,20,250,5000,Cash
+52955,21-01-2023,,groceries,Between,50,100,5000,Card
+53348,29-08-2003, Kisumu ,Groceries,Democrat,5,50,250,cash
+53524,8/4/1972,nakuru,groceries,Give,,,,Card
+51584,11/9/2025, Kisumu ,Beverages,The,,,,Cash
+53173,16-08-2021,Nairobi,Groceries,Hair,2,2000,4000,M-Pesa
+50967,5/10/1973,nakuru,Beverages,Enjoy,10,1000,10000,Card
+53477,9/5/2002, Kisumu ,Personal Care,Particular,1,,,cash
+52382,16-01-2004, Kisumu ,groceries,Gun,10,100,1000,Cash
+50382,11/20/2024,nakuru,Beverages,Billion,10,50,500,Cash
+51151,9/18/2024,Mombasa,groceries,Since,10,500,5000,Cash
+50131,8/23/2024,,Household,Sit,5,50,250,M-Pesa
+50275,28-07-1980, Kisumu ,Groceries,Discussion,20,10000,200000,Card
+51522,9/30/2024,,Groceries,After,5,2000,10000,Cash
+51865,27-04-2006,Nairobi,Beverages,This,2,1000,2000,Cash
+52992,3/4/1994,Nairobi,Groceries,Guy,50,10000,500000,M-Pesa
+51688,4/1/2026,nakuru,groceries,Church,5,1000,5000,Cash
+52636,1/5/2026,Nairobi,Beverages,Major,20,10000,200000,Card
+51057,30-09-1999, Kisumu ,Beverages,Commercial,20,1000,20000,Card
+52848,16-04-2023,,Groceries,Without,2,250,500,M-Pesa
+52453,4/4/1973,nakuru,Household,Fire,2,500,1000,cash
+50159,4/2/2026,nakuru,Household,Go,5,100,500,cash
+52705,22-03-2021,nakuru,Snacks,Theory,5,10000,50000,M-Pesa
+50470,16-06-1995, Kisumu ,Household,Couple,20,500,10000,Cash
+51992,1/7/1973, Kisumu ,Snacks,Easy,2,1000,2000,M-Pesa
+51491,5/21/2026,nakuru,Household,Common,20,,,Card
+51184,14-03-1973,,Beverages,Say,2,50,100,Card
+52209,10/7/2025,,Personal Care,Worry,,500,,Card
+50627,10/8/2025, Kisumu ,Personal Care,Turn,50,250,12500,Card
+51046,18-07-1998,Nairobi,Snacks,Lot,5,1000,5000,cash
+50092,10/27/2025,Nairobi,Snacks,Near,5,500,2500,Card
+52904,1/20/2025,Nairobi,Snacks,Consumer,2,500,1000,cash
+53899,11/7/2002,Nairobi,Personal Care,High,10,500,5000,Card
+53411,3/3/1993,,Groceries,Should,20,500,10000,Cash
+52101,10/5/2024,,Beverages,Condition,2,50,100,M-Pesa
+53014,6/12/2023, Kisumu ,Snacks,Market,50,,,M-Pesa
+53919,12/2/1995,nakuru,groceries,Magazine,2,2000,4000,Card
+50022,1/2/2015,nakuru,groceries,Return,,10000,,Cash
+52061,11/13/2025,Nairobi,Snacks,Candidate,,1000,,M-Pesa
+50002,9/1/2022,nakuru,Snacks,Large,,500,,Cash
+51367,7/5/1974,nakuru,Beverages,Boy,50,500,25000,M-Pesa
+53499,30-08-1979,,Household,Reason,1,2000,2000,cash
+50693,2/1/2023,Nairobi,Snacks,Wonder,5,250,1250,cash
+51418,4/2/2025,Nairobi,Household,Bit,5,2000,10000,Cash
+52703,6/26/2024, Kisumu ,Household,Arm,1,2000,2000,M-Pesa
+53239,4/19/2025,Nairobi,Personal Care,Treat,10,500,5000,Cash
+50405,4/16/2026,Mombasa,groceries,List,50,1000,50000,Cash
+51094,8/2/1990,,groceries,Of,1,500,500,Cash
+53393,7/15/2025,nakuru,groceries,Off,50,500,25000,Cash
+50344,21-01-2014,nakuru,Snacks,Candidate,10,500,5000,cash
+53745,13-05-1981,Nairobi,Personal Care,Else,5,10000,50000,Cash
+50449,6/4/2001,Mombasa,Groceries,Body,1,250,250,M-Pesa
+50639,1/5/2026, Kisumu ,Personal Care,Red,2,1000,2000,Cash
+52966,8/29/2025,Nairobi,Groceries,Of,,10000,,M-Pesa
+50370,21-11-2017,,Household,Accept,10,,,M-Pesa
+50614,11/29/2024, Kisumu ,Groceries,Manage,5,500,2500,Card
+51463,27-01-2000,nakuru,Personal Care,Service,1,50,50,Card
+53472,4/6/2020,,Household,Feeling,20,50,1000,Card
+53663,16-04-2018,,Household,Yeah,20,2000,40000,M-Pesa
+52184,4/10/2017,Nairobi,Household,Risk,,100,,Card
+53873,20-11-1973,Mombasa,Beverages,Space,,1000,,M-Pesa
+51897,3/8/2025,Nairobi,Groceries,Pattern,2,10000,20000,Cash
+50661,7/7/2025,Mombasa,Groceries,Week,50,100,5000,M-Pesa
+50248,23-11-2022,Nairobi,Snacks,Eight,5,10000,50000,Cash
+53995,11/5/1995,,Household,Nature,50,250,12500,cash
+52993,1/12/2026,Nairobi,Household,Discuss,20,2000,40000,M-Pesa
+52958,9/24/2025,nakuru,Household,Federal,5,10000,50000,Card
+52544,6/26/2025,,Snacks,Thing,5,2000,10000,Card
+53566,11/8/1971,Nairobi,Groceries,Best,,10000,,Card
+50231,3/31/2026,Nairobi,Snacks,Whether,1,10000,10000,Cash
+52420,10/19/2024,,Groceries,Spend,,2000,,M-Pesa
+52808,16-03-2003,,Household,Effort,50,500,25000,M-Pesa
+53645,11/20/2025,,Personal Care,Kid,1,250,250,M-Pesa
+51435,29-12-1970,Nairobi,Groceries,More,10,10000,100000,Card
+53554,1/17/2026,Nairobi,Personal Care,Field,1,,,Card
+50375,2/2/2025,,Household,Here,1,500,500,Card
+51113,1/25/2026,Nairobi,groceries,Goal,2,,,cash
+52848,5/4/2025,,groceries,Your,2,50,100,M-Pesa
+53509,24-10-1990, Kisumu ,Snacks,Rule,5,50,250,cash
+50483,12/16/2024,Nairobi,Personal Care,Through,10,10000,100000,Cash
+50789,1/2/1999,Nairobi,groceries,Upon,50,,,Cash
+53230,2/10/1975,Mombasa,Beverages,Degree,5,50,250,M-Pesa
+53145,8/30/2024,,Personal Care,Back,1,2000,2000,cash
+50841,7/7/1987,nakuru,Household,Central,5,100,500,M-Pesa
+51993,23-08-2025,,Personal Care,Fish,1,10000,10000,cash
+50692,2/5/1973,Nairobi,Snacks,Officer,,500,,Card
+52715,4/5/2025,Nairobi,Beverages,Nice,1,100,100,cash
+51489,11/26/2024,Mombasa,Household,Management,50,50,2500,M-Pesa
+52645,3/9/2025,,groceries,Concern,,,,M-Pesa
+53910,23-09-2010,,Snacks,Together,5,50,250,cash
+52389,8/6/1985,Nairobi,Groceries,Wide,20,100,2000,Cash
+50188,5/1/2026,nakuru,Personal Care,Tell,50,10000,500000,cash
+52717,30-01-1991,,groceries,Commercial,,,,Card
+50472,1/11/2026, Kisumu ,Groceries,Rather,10,2000,20000,cash
+51689,7/22/2024, Kisumu ,Snacks,Tree,5,50,250,cash
+51707,16-12-2011,nakuru,groceries,Career,10,,,cash
+53774,7/1/2012,,Personal Care,Democrat,1,2000,2000,cash
+53715,6/11/2026,,Beverages,Institution,10,250,2500,Cash
+52345,16-12-1979,,Household,Form,5,50,250,Cash
+52794,10/8/2022,,Groceries,Generation,10,500,5000,M-Pesa
+50907,1/4/1973,Mombasa,Groceries,Center,5,250,1250,M-Pesa
+52826,3/28/2026,Mombasa,Personal Care,Official,50,500,25000,Cash
+50422,11/23/2025,,Snacks,Coach,1,2000,2000,Card
+51257,16-11-2020,Nairobi,groceries,Difference,5,500,2500,M-Pesa
+53980,4/23/2026, Kisumu ,Household,Glass,,250,,Cash
+50902,12/1/2015,,Beverages,Hotel,5,2000,10000,M-Pesa
+52835,6/9/2025,,Snacks,Themselves,20,100,2000,cash
+53259,1/2/2025, Kisumu ,Household,Offer,10,100,1000,cash
+51641,4/2/1980,,Beverages,Free,20,100,2000,Card
+51344,3/11/2025,,Personal Care,Coach,10,500,5000,cash
+53908,5/6/2026,,Snacks,Question,,1000,,Card
+53386,6/8/2025, Kisumu ,Snacks,Environment,2,2000,4000,M-Pesa
+50218,9/20/2024,nakuru,Groceries,Health,1,10000,10000,Card
+52435,2/12/2025,nakuru,Household,Here,10,500,5000,Cash
+53200,6/4/2026,nakuru,Household,Discuss,50,10000,500000,cash
+51047,5/3/1978,Mombasa,Personal Care,Safe,,50,,M-Pesa
+51082,8/3/2024,Mombasa,Household,Vote,20,2000,40000,Cash
+51786,5/1/1982,Nairobi,Household,Remain,,,,Cash
+53137,3/2/1996,nakuru,groceries,Service,2,,,M-Pesa
+53118,31-01-1988, Kisumu ,Household,Detail,1,,,Cash
+52267,1/3/2025,,Beverages,See,20,1000,20000,Cash
+52161,4/3/2026,,Household,Ok,,,,Card
+52350,9/3/2014,nakuru,groceries,Foreign,10,250,2500,Card
+51300,3/20/2025, Kisumu ,Personal Care,Hot,5,10000,50000,M-Pesa
+50580,1/14/2025,,Personal Care,Father,5,2000,10000,Card
+52989,10/11/2025,,Household,Tree,20,1000,20000,M-Pesa
+50664,5/3/2026,,Household,Short,,2000,,Cash
+50823,25-06-1974,,Beverages,Whose,20,50,1000,Cash
+50865,11/9/2006,Mombasa,Household,Hold,1,1000,1000,M-Pesa
+51169,12/2/2024,Nairobi,Groceries,Series,10,50,500,Card
+50311,10/7/2016,,groceries,Since,10,,,cash
+53597,18-10-1993,,Household,Sit,5,100,500,cash
+51094,4/11/2026,Nairobi,Snacks,Age,2,100,200,Cash
+53425,12/5/2025, Kisumu ,Groceries,Church,1,1000,1000,Cash
+53488,14-10-2005,nakuru,Beverages,Glass,,50,,M-Pesa
+50385,6/18/2025,,Groceries,Attack,20,10000,200000,M-Pesa
+50356,17-08-1980,,Beverages,Peace,10,50,500,Cash
+51575,30-11-1994, Kisumu ,Personal Care,Agent,20,,,M-Pesa
+52065,7/9/1974,,groceries,Near,2,2000,4000,Card
+51963,2/11/2018,,Snacks,Miss,50,10000,500000,M-Pesa
+53354,17-02-2017,,Personal Care,Bed,50,,,M-Pesa
+52641,1/11/2025,Mombasa,Household,Institution,10,100,1000,M-Pesa
+50343,23-08-1995,,Groceries,Whom,5,100,500,M-Pesa
+53079,26-04-2019,,Household,Police,2,100,200,M-Pesa
+53744,4/9/2015,,Snacks,Same,10,250,2500,M-Pesa
+52735,17-09-2014,Nairobi,Household,Knowledge,20,500,10000,M-Pesa
+51160,5/16/2026,Nairobi,Beverages,Many,1,1000,1000,Card
+50617,2/11/2013,nakuru,Personal Care,Ten,10,250,2500,cash
+52388,12/11/1988,Nairobi,Groceries,Chance,5,1000,5000,cash
+50632,30-01-1983,nakuru,groceries,Land,,500,,cash
+53650,7/12/1984,,Snacks,Hold,10,50,500,Card
+53493,11/10/2024,,Beverages,Close,50,2000,100000,M-Pesa
+52329,8/22/2024,Mombasa,Beverages,Follow,5,10000,50000,cash
+52980,5/12/2019,Nairobi,Beverages,Letter,20,50,1000,Cash
+50549,5/10/1981,Nairobi,Household,Plant,10,100,1000,Card
+50331,1/7/2018,,groceries,View,50,50,2500,M-Pesa
+50213,4/24/2025,,groceries,Put,5,10000,50000,cash
+50275,27-01-1970,,groceries,Its,10,50,500,Cash
+53434,17-10-1987,,Beverages,Chair,5,50,250,M-Pesa
+53527,28-05-1991,Nairobi,groceries,Class,5,,,Cash
+51983,12/10/2024,Mombasa,Groceries,Along,10,100,1000,Cash
+50785,5/18/2026,,groceries,Size,1,1000,1000,M-Pesa
+51995,6/24/2024,Mombasa,Household,Stock,2,10000,20000,Cash
+53433,2/7/2002,Nairobi,Beverages,Teach,2,,,Card
+51558,30-07-1984,Nairobi,Groceries,Word,1,50,50,cash
+52409,3/11/2026,,Snacks,Order,20,500,10000,Cash
+50225,6/1/2025,Mombasa,groceries,That,50,,,M-Pesa
+50360,9/4/2025,,Groceries,Color,10,1000,10000,Cash
+50199,23-10-2019,,Snacks,Fight,10,50,500,M-Pesa
+50806,9/30/2024,Nairobi,Personal Care,Meeting,20,250,5000,M-Pesa
+51316,29-05-2003,Mombasa,Snacks,Development,20,2000,40000,Card
+53517,9/22/2025,,Household,She,20,,,cash
+53431,11/5/2025,nakuru,Personal Care,Those,2,1000,2000,M-Pesa
+52130,1/7/2022,,Personal Care,Forward,,250,,Card
+51520,5/17/2025,nakuru,groceries,Staff,,50,,Card
+50062,7/4/2024, Kisumu ,Household,Western,,,,Card
+51579,26-01-2020, Kisumu ,Groceries,Perhaps,10,500,5000,M-Pesa
+52048,4/23/2026,Mombasa,Snacks,Name,50,10000,500000,Card
+53087,6/8/2026,nakuru,Groceries,Education,20,100,2000,cash
+51047,18-04-1979,Mombasa,Personal Care,Rather,20,2000,40000,Cash
+51635,1/18/2025,,Personal Care,Stage,2,2000,4000,cash
+53314,11/27/2024,,Household,On,,2000,,M-Pesa
+51793,2/15/2026,Nairobi,Household,Where,,100,,Cash
+52674,11/25/2025,,Household,Training,,50,,cash
+50031,31-01-2015,,Groceries,Box,,2000,,M-Pesa
+50050,22-02-2008,nakuru,Personal Care,Animal,2,,,Cash
+52354,13-08-1974,nakuru,Household,Up,,250,,M-Pesa
+51492,30-12-2009, Kisumu ,Household,Who,20,100,2000,cash
+52322,6/10/1980,,Groceries,Mother,50,500,25000,cash
+53228,4/1/1987,,Snacks,Do,20,1000,20000,M-Pesa
+50936,8/10/2025,nakuru,Personal Care,Popular,,100,,Card
+53595,26-01-1978,Mombasa,Snacks,Thus,2,,,cash
+53098,11/22/2025,Mombasa,Groceries,Role,50,50,2500,M-Pesa
+50894,3/5/2026,Mombasa,Snacks,Maintain,2,500,1000,Cash
+50002,10/14/2025,,Snacks,Particular,20,100,2000,cash
+53182,21-12-2017,,groceries,Fine,20,100,2000,cash
+50666,26-11-2020,,groceries,Bill,1,,,Cash
+52417,22-01-1992,Nairobi,Groceries,My,10,500,5000,cash
+52333,9/3/2025,Mombasa,Beverages,Store,,100,,Card
+52875,24-04-1970,,Groceries,Difficult,20,500,10000,Card
+53033,7/8/2025,,Snacks,Stop,2,10000,20000,cash
+51952,2/9/2025,Mombasa,Household,Somebody,1,,,Card
+50273,4/8/2025,Mombasa,Household,Kind,10,500,5000,Cash
+53352,3/9/2026,,Household,Deal,2,250,500,Card
+50904,24-03-2010,Mombasa,Beverages,New,50,1000,50000,Card
+50495,11/17/2025,Nairobi,Groceries,Chance,50,500,25000,M-Pesa
+51241,13-11-2005,,Beverages,Weight,2,1000,2000,cash
+52274,6/15/2026, Kisumu ,Household,Network,2,10000,20000,Cash
+53216,8/19/2024, Kisumu ,Personal Care,Suffer,2,10000,20000,Card
+51678,12/9/2005, Kisumu ,Snacks,Sister,5,500,2500,M-Pesa
+52714,28-03-1986,,Personal Care,Buy,,10000,,M-Pesa
+50563,3/4/2026, Kisumu ,Snacks,Seek,,2000,,cash
+51889,8/16/2024,Mombasa,Snacks,Population,20,,,cash
+53390,26-09-1993, Kisumu ,Snacks,Forget,5,10000,50000,Cash
+53457,6/8/2026,Mombasa,Beverages,Hospital,1,50,50,Cash
+53583,4/13/2026,nakuru,Household,Produce,50,2000,100000,cash
+50083,6/12/2025,nakuru,Beverages,Attorney,5,2000,10000,Cash
+51325,15-08-2008,Nairobi,Personal Care,Between,,500,,Cash
+53884,9/17/2024,Mombasa,Groceries,Congress,5,50,250,cash
+52040,3/15/2025, Kisumu ,Beverages,Six,10,50,500,M-Pesa
+52496,5/14/2026,,Household,May,5,,,Cash
+53115,1/19/2025,Mombasa,groceries,Material,1,1000,1000,M-Pesa
+52314,31-10-2007,Nairobi,Groceries,Head,5,100,500,M-Pesa
+50838,23-07-2019,nakuru,Beverages,Theory,5,2000,10000,M-Pesa
+53802,11/2/2004,Mombasa,Household,Newspaper,5,1000,5000,Card
+53002,2/18/2025,Mombasa,Personal Care,Line,50,,,cash
+53523,10/16/2024,,groceries,Physical,2,500,1000,M-Pesa
+52393,8/2/2019,Mombasa,Personal Care,Major,2,2000,4000,cash
+52656,1/4/2025,Nairobi,Household,Room,50,2000,100000,Card
+53440,8/31/2024,Nairobi,groceries,Out,1,250,250,M-Pesa
+52058,9/9/1988,nakuru,Personal Care,Could,10,10000,100000,M-Pesa
+51829,28-07-1977, Kisumu ,Beverages,Minute,5,500,2500,cash
+52413,7/5/1997,Nairobi,Household,Then,10,50,500,M-Pesa
+52441,4/2/2026,,Household,Above,50,50,2500,cash
+50036,1/9/2001,,Personal Care,Their,1,500,500,M-Pesa
+50503,15-09-2001,Mombasa,Household,Under,10,250,2500,cash
+53874,12/11/2024,,groceries,Sometimes,5,100,500,Cash
+51562,28-04-2013,nakuru,Household,Single,5,,,M-Pesa
+52909,10/19/2025, Kisumu ,Beverages,More,5,100,500,cash
+50189,7/25/2024,Mombasa,Household,Radio,50,,,Cash
+50183,2/15/2026,Mombasa,groceries,Deep,20,1000,20000,Cash
+52293,17-11-2011,,Beverages,Talk,5,100,500,Card
+50385,8/15/2024,Nairobi,groceries,Not,10,250,2500,M-Pesa
+53051,12/31/2025, Kisumu ,Groceries,Travel,2,50,100,Card
+52684,11/30/2025,,Personal Care,Several,50,250,12500,Card
+53091,6/10/2025,Mombasa,Household,Area,10,50,500,cash
+52442,4/23/2025,,Household,Parent,10,1000,10000,cash
+53236,3/3/2007,Nairobi,groceries,Course,1,10000,10000,Cash
+53825,2/14/2026, Kisumu ,Groceries,Home,1,100,100,cash
+50704,8/15/2025, Kisumu ,Personal Care,Price,20,500,10000,M-Pesa
+52468,19-04-2020,Nairobi,Groceries,Wrong,10,1000,10000,Card
+53398,12/9/1999,nakuru,Beverages,Shoulder,5,500,2500,Card
+50666,1/25/2026,nakuru,Groceries,Stay,2,1000,2000,M-Pesa
+52389,9/2/2025, Kisumu ,Personal Care,When,1,500,500,M-Pesa
+51687,23-11-2002,Nairobi,Household,Local,,50,,M-Pesa
+53890,19-04-1989,Mombasa,Household,Republican,1,500,500,Card
+53505,4/2/2010, Kisumu ,Groceries,Usually,,50,,cash
+50471,9/1/2025,,Beverages,Hotel,,50,,Cash
+53784,5/17/2026,,Groceries,Decision,10,10000,100000,cash
+50983,2/19/2026, Kisumu ,Personal Care,Build,,,,Card
+53348,3/1/1972,Nairobi,Beverages,Need,10,500,5000,Card
+53545,18-08-1983,nakuru,Personal Care,Food,50,2000,100000,Card
+52077,18-10-2004, Kisumu ,Personal Care,Shoulder,20,10000,200000,Cash
+53826,7/25/2024,,groceries,Itself,10,250,2500,M-Pesa
+53724,12/9/2024, Kisumu ,Beverages,Produce,2,,,M-Pesa
+50012,2/4/2003,,Personal Care,Attention,50,1000,50000,M-Pesa
+51890,6/29/2024,Mombasa,groceries,Data,50,50,2500,Cash
+53812,23-06-2012,,Personal Care,Agent,10,250,2500,cash
+53049,8/3/1976,,Groceries,Eye,20,50,1000,M-Pesa
+51007,8/27/2025,nakuru,Snacks,Quickly,10,10000,100000,M-Pesa
+53575,10/1/2025,Nairobi,Personal Care,War,2,100,200,Card
+51053,1/12/2025,,Personal Care,Record,5,2000,10000,cash
+53120,2/20/2026,Mombasa,Household,High,1,1000,1000,Cash
+51610,30-11-2001,Nairobi,groceries,Answer,2,2000,4000,Cash
+50720,11/20/2024,Mombasa,Beverages,Any,5,10000,50000,Cash
+50972,9/5/2024, Kisumu ,Groceries,Seven,20,500,10000,M-Pesa
+50999,26-05-1997,nakuru,Groceries,Career,5,500,2500,Cash
+50551,6/4/2026,Mombasa,Household,Officer,,10000,,M-Pesa
+52407,12/24/2025,Nairobi,Snacks,Young,20,2000,40000,Card
+52313,6/4/2026,nakuru,Household,Picture,50,,,cash
+50174,4/12/2025, Kisumu ,Household,Eight,,100,,M-Pesa
+53333,1/10/2019,,Personal Care,Major,5,500,2500,Card
+53978,16-06-2001,,Snacks,Serve,50,10000,500000,cash
+52560,8/25/2025, Kisumu ,groceries,Goal,20,10000,200000,cash
+52873,1/2/1980,nakuru,groceries,Second,20,250,5000,M-Pesa
+51667,10/6/1972, Kisumu ,groceries,Building,10,1000,10000,cash
+50234,9/28/2025,Mombasa,Personal Care,Movement,1,2000,2000,M-Pesa
+50778,1/2/2025,,Groceries,Star,50,500,25000,Card
+52245,19-02-2026,nakuru,Snacks,Behavior,,100,,cash
+51432,1/4/2017,Mombasa,Household,Sometimes,20,10000,200000,Card
+53060,3/25/2025,nakuru,Household,Car,2,,,M-Pesa
+50659,12/1/2015, Kisumu ,groceries,Republican,2,2000,4000,cash
+51823,28-09-1989,nakuru,groceries,Majority,10,10000,100000,Cash
+51941,9/26/2024,,Groceries,Girl,,100,,Card
+53408,12/26/2024,Mombasa,Household,Kind,1,,,Card
+53398,2/24/2025,nakuru,Snacks,While,1,10000,10000,Card
+50381,3/1/1982,,Personal Care,Concern,2,10000,20000,M-Pesa
+50326,31-07-2015,Mombasa,Beverages,Memory,5,50,250,M-Pesa
+51643,9/2/2001, Kisumu ,groceries,Bar,,100,,Card
+51043,12/27/2024,,Household,Generation,2,100,200,M-Pesa
+50156,10/22/2025,,Personal Care,Adult,,250,,cash
+52716,9/30/2025,,Household,Head,10,50,500,M-Pesa
+52043,5/21/2025,Nairobi,Beverages,Return,5,250,1250,Cash
+52585,10/3/1990,nakuru,groceries,Account,10,100,1000,M-Pesa
+50560,5/28/2025, Kisumu ,Groceries,Decade,20,50,1000,Cash
+51651,19-01-1987,Mombasa,Household,Suddenly,,2000,,M-Pesa
+51853,27-07-1987,nakuru,Personal Care,Air,2,50,100,Cash
+50685,12/24/2025,nakuru,Snacks,Blood,2,10000,20000,Card
+52768,25-09-1986, Kisumu ,Personal Care,Note,,2000,,M-Pesa
+52387,4/5/1972,,Groceries,Mission,,50,,Card
+50450,10/23/2025,Nairobi,Household,Before,,,,Card
+53765,7/14/2024,,Household,Choose,50,2000,100000,Cash
+50654,4/11/2007, Kisumu ,Household,Company,10,,,Card
+51233,1/1/2025,,Groceries,Fall,1,1000,1000,Cash
+53630,19-05-1988, Kisumu ,groceries,Hospital,5,1000,5000,M-Pesa
+50763,3/3/2026,Mombasa,Beverages,Brother,1,2000,2000,Card
+51030,6/6/1981,Nairobi,Household,Night,10,500,5000,cash
+53785,4/23/2026,,groceries,Billion,,1000,,M-Pesa
+53343,30-04-1976,,Snacks,Figure,20,100,2000,M-Pesa
+51402,12/4/2008,nakuru,Snacks,Black,2,2000,4000,Cash
+50206,13-02-2025,nakuru,Groceries,New,1,500,500,Cash
+50525,22-12-1978,Nairobi,Beverages,Adult,50,10000,500000,cash
+50361,31-05-1973, Kisumu ,Beverages,Police,5,50,250,M-Pesa
+51235,4/6/1999,,Household,Network,1,,,Card
+51440,3/13/2026,,Groceries,Yeah,50,2000,100000,cash
+50374,4/18/2025, Kisumu ,Household,Music,1,250,250,Cash
+52490,12/4/2017,,Beverages,Check,5,250,1250,cash
+51623,18-03-1977,Nairobi,Personal Care,Team,50,1000,50000,M-Pesa
+52649,3/9/1995, Kisumu ,Groceries,Always,5,50,250,M-Pesa
+53391,6/11/1993,Mombasa,Groceries,Party,2,100,200,Card
+51820,7/11/1970,Mombasa,Groceries,Piece,20,500,10000,Cash
+51740,20-12-2016,,Groceries,Also,,10000,,Card
+53213,27-03-2022,,Household,Into,20,100,2000,Card
+52290,1/17/2026,,Snacks,Fire,,10000,,cash
+51154,8/16/2024,nakuru,Snacks,Oil,2,10000,20000,cash
+52623,4/4/2026,Mombasa,Household,Wonder,5,1000,5000,cash
+52252,1/4/2026,Mombasa,Personal Care,Include,,250,,Card
+50020,23-04-2018,Nairobi,Beverages,Ability,10,2000,20000,Cash
+53933,4/15/2026,Nairobi,Groceries,Ball,20,50,1000,Cash
+53969,9/3/2025,,Groceries,Reality,20,100,2000,Card
+50054,23-04-1990,Nairobi,groceries,And,5,2000,10000,cash
+50704,4/3/2026,,Household,Time,20,500,10000,cash
+50665,5/21/2026,nakuru,Beverages,Cell,,500,,Card
+52841,22-01-2006, Kisumu ,Groceries,Bit,10,1000,10000,Cash
+53270,25-09-1989, Kisumu ,Beverages,Surface,10,,,Cash
+50756,5/18/2026,,Personal Care,Kind,5,2000,10000,M-Pesa
+53654,11/23/2024, Kisumu ,Snacks,Various,50,250,12500,Card
+51859,30-09-1979,,Household,Note,20,50,1000,Card
+50467,22-07-2004,Nairobi,Personal Care,Western,5,250,1250,cash
+50793,12/9/2025,Mombasa,Household,Computer,20,100,2000,cash
+50522,12/3/2024,Nairobi,Household,Son,5,1000,5000,Cash
+51771,9/23/2025, Kisumu ,Beverages,Describe,50,500,25000,Cash
+53023,4/3/2025, Kisumu ,Personal Care,Beautiful,50,,,cash
+51748,4/16/2026, Kisumu ,Snacks,Game,,1000,,Cash
+50431,12/24/2024, Kisumu ,groceries,Hundred,20,250,5000,Card
+51394,15-01-2017,Mombasa,Personal Care,Threat,20,500,10000,Card
+51473,9/4/2025, Kisumu ,groceries,More,1,,,cash
+53952,6/26/2025, Kisumu ,Household,Keep,20,50,1000,cash
+53130,5/31/2026,Mombasa,Household,Call,2,10000,20000,Card
+53296,3/26/2025,Nairobi,Household,Perhaps,10,,,cash
+50607,3/30/2025,Nairobi,groceries,Require,1,100,100,M-Pesa
+50619,4/20/2026,Mombasa,groceries,Usually,2,1000,2000,M-Pesa
+50942,13-09-2016, Kisumu ,Snacks,Share,1,10000,10000,M-Pesa
+52491,18-03-2014, Kisumu ,Snacks,Candidate,10,10000,100000,Card
+50257,4/12/2012,Mombasa,Beverages,Mind,1,50,50,M-Pesa
+53844,9/10/2023,Nairobi,Snacks,Commercial,5,250,1250,M-Pesa
+52925,2/5/2023,Mombasa,Groceries,Risk,2,2000,4000,M-Pesa
+53896,4/8/2013, Kisumu ,Household,His,2,250,500,Card
+53095,10/26/2025,Nairobi,Household,Himself,10,,,cash
+52139,7/21/2025,Mombasa,Groceries,Could,20,1000,20000,cash
+52407,10/9/2024,Mombasa,Snacks,Method,,250,,Card
+51570,9/28/2025,Nairobi,Household,Recently,,10000,,Card
+51102,27-09-2024,Mombasa,Household,Very,50,250,12500,Card
+51331,3/7/1997,nakuru,Snacks,Most,5,100,500,Card
+50227,8/24/2025,Mombasa,Household,Who,20,100,2000,cash
+51357,27-04-2006,Mombasa,groceries,Probably,,500,,M-Pesa
+53731,15-09-1971,,Snacks,Lead,10,2000,20000,cash
+52622,22-09-1988,Mombasa,Personal Care,Traditional,5,2000,10000,Card
+50040,10/25/2025, Kisumu ,Snacks,Family,2,250,500,M-Pesa
+50806,19-02-1983, Kisumu ,Personal Care,Behavior,1,10000,10000,cash
+52039,6/3/2011,Mombasa,Beverages,Accept,5,100,500,M-Pesa
+52998,11/6/1993,Nairobi,Beverages,City,20,2000,40000,Card
+53546,9/25/2025,,Household,Issue,2,100,200,cash
+53010,1/18/2025,,Household,Dream,1,50,50,Cash
+51876,7/2/2024,Nairobi,Household,Lot,50,100,5000,M-Pesa
+52333,14-06-1995, Kisumu ,Personal Care,Economy,20,,,cash
+51716,3/23/2025, Kisumu ,Snacks,Trouble,20,500,10000,M-Pesa
+51901,6/2/2026,Mombasa,groceries,Kind,,100,,M-Pesa
+52525,3/16/2026,,Snacks,Possible,20,2000,40000,M-Pesa
+50008,25-05-2023, Kisumu ,Beverages,Difficult,50,250,12500,M-Pesa
+53634,7/19/2024,Mombasa,Beverages,Do,5,100,500,cash
+51277,15-07-1994,Mombasa,Beverages,Rich,2,1000,2000,cash
+51310,2/22/2025,Mombasa,Groceries,Peace,20,10000,200000,Cash
+53071,7/7/2024,Mombasa,Beverages,Actually,50,100,5000,Card
+53685,8/27/2024,Mombasa,groceries,But,20,50,1000,Cash
+50839,28-02-1972,Mombasa,groceries,Garden,,10000,,M-Pesa
+52345,9/11/2000,,Groceries,Rate,2,50,100,Card
+50862,11/20/2024,Nairobi,Snacks,Provide,20,1000,20000,Cash
+52250,8/21/2024, Kisumu ,groceries,Standard,5,250,1250,Cash
+53444,7/25/2024,,Household,In,20,1000,20000,M-Pesa
+50344,1/7/2026, Kisumu ,groceries,Employee,2,10000,20000,cash
+51895,4/7/2026, Kisumu ,Snacks,Store,,2000,,cash
+51945,10/2/2024,,Beverages,Notice,,10000,,cash
+51619,8/19/2024,Mombasa,Snacks,Rate,50,500,25000,Card
+52102,3/30/2026,nakuru,Groceries,However,20,,,cash
+53293,6/25/2024,Mombasa,Snacks,Alone,2,2000,4000,Cash
+52160,9/7/2024,,Beverages,Onto,20,100,2000,Cash
+53772,20-01-1994,Mombasa,Personal Care,Believe,50,100,5000,M-Pesa
+51188,10/10/1971,,Personal Care,Executive,5,1000,5000,Card
+51339,9/14/2024,Mombasa,Personal Care,Station,,2000,,M-Pesa
+52890,13-02-1994, Kisumu ,Beverages,Picture,5,100,500,cash
+51535,12/31/2025, Kisumu ,Groceries,Thus,5,2000,10000,cash
+52797,3/7/2014,,groceries,Consider,,250,,Cash
+52626,11/9/2024,,Beverages,Everybody,50,100,5000,Cash
+50311,5/25/2025,,Snacks,Gun,,,,cash
+50414,10/8/2024, Kisumu ,Groceries,Charge,50,1000,50000,Cash
+51912,6/5/2026,nakuru,Beverages,Capital,10,2000,20000,Cash
+51581,2/27/2026, Kisumu ,groceries,Season,10,,,M-Pesa
+52496,26-03-1978,,groceries,Gas,2,100,200,cash
+50341,17-01-1988, Kisumu ,groceries,Per,10,1000,10000,M-Pesa
+50779,8/14/2024,Mombasa,Beverages,White,5,10000,50000,M-Pesa
+50073,10/4/2007,,Snacks,Special,1,2000,2000,M-Pesa
+50143,20-10-2021,nakuru,Beverages,Offer,1,100,100,M-Pesa
+53068,10/31/2025,Mombasa,groceries,Front,50,1000,50000,cash
+52430,11/11/2005,,Household,Available,20,250,5000,Cash
+50592,21-09-2006, Kisumu ,Groceries,Sometimes,5,100,500,Cash
+52993,19-10-1989,,Groceries,Police,10,500,5000,Card
+51778,16-07-2013,Mombasa,Groceries,Tonight,10,,,Cash
+52900,21-08-2005,nakuru,Beverages,Cost,1,100,100,M-Pesa
+53320,2/3/2026,Nairobi,Beverages,Truth,10,2000,20000,Cash
+52369,11/11/2009,,Beverages,Picture,1,100,100,cash
+50240,5/27/2026,,groceries,Page,50,100,5000,Cash
+52781,29-04-2004,nakuru,Household,South,,500,,cash
+51145,16-01-1988,Nairobi,Snacks,Detail,50,250,12500,cash
+53924,5/11/1986,,Personal Care,Tell,50,500,25000,Cash
+52986,7/9/1992,,Household,Care,10,100,1000,cash
+52039,4/3/2009, Kisumu ,Personal Care,Food,10,1000,10000,M-Pesa
+51453,13-10-1984,Nairobi,groceries,Indeed,1,250,250,Cash
+50514,7/1/2025,nakuru,Personal Care,Detail,,1000,,M-Pesa
+52141,1/1/1984,Mombasa,Beverages,Sea,1,250,250,cash
+51857,7/11/1981,Mombasa,Household,Plant,1,250,250,M-Pesa
+50639,6/20/2026,,groceries,Sometimes,10,,,Card
+52426,7/28/2025,Nairobi,Groceries,Federal,5,50,250,Card
+53991,6/14/2025,,Groceries,Society,,500,,cash
+50675,7/2/2024,Nairobi,Snacks,Action,50,1000,50000,M-Pesa
+52512,14-01-1990,,Beverages,Event,10,50,500,M-Pesa
+53319,11/19/2024,Mombasa,Groceries,Deep,20,100,2000,Cash
+50478,6/9/2021, Kisumu ,Groceries,Sit,10,10000,100000,Cash
+52478,7/28/2024,,Snacks,Various,5,10000,50000,Cash
+53411,3/14/2025,Nairobi,Groceries,Coach,10,10000,100000,Card
+50053,9/2/2025,,groceries,Treatment,20,10000,200000,Card
+50980,8/5/2024,,groceries,Mouth,1,250,250,Card
+50973,5/26/2025,Mombasa,Snacks,Open,2,1000,2000,M-Pesa
+52301,10/2/2024, Kisumu ,Beverages,Local,20,2000,40000,M-Pesa
+50046,7/1/2005,nakuru,Beverages,Pass,10,100,1000,Card
+53910,13-03-1984,,Beverages,Three,20,2000,40000,M-Pesa
+50598,1/26/2025,Mombasa,Snacks,Inside,10,2000,20000,Card
+53067,1/2/2025,Nairobi,Beverages,Market,5,100,500,Card
+53301,4/16/2025, Kisumu ,Snacks,Music,1,,,Cash
+50027,23-06-1983,nakuru,Beverages,Save,2,500,1000,Cash
+52700,12/3/2007, Kisumu ,Groceries,Member,,250,,M-Pesa
+52916,7/1/2024,,Beverages,Upon,5,500,2500,Card
+52720,12/3/2014,Mombasa,Personal Care,Instead,10,500,5000,Cash
+53659,4/12/2024,Mombasa,Groceries,Analysis,,50,,Cash
+50280,1/20/2026,,Snacks,Reduce,20,1000,20000,Card
+51409,10/18/2025,,Beverages,Difficult,2,50,100,M-Pesa
+52883,7/23/2024,Nairobi,Personal Care,Between,50,50,2500,M-Pesa
+52736,14-04-1976,Nairobi,Snacks,Once,1,,,M-Pesa
+53759,10/2/1975,nakuru,Snacks,Hour,2,100,200,cash
+53010,3/6/2025,Mombasa,Household,War,20,250,5000,Card
+51023,12/9/2025,,Beverages,Economy,,500,,M-Pesa
+52193,27-01-2001,Mombasa,Groceries,Business,2,500,1000,M-Pesa
+50519,10/21/2024,,Groceries,Recently,5,50,250,Card
+52882,12/28/2025,nakuru,Household,Whom,2,,,cash
+50119,6/2/2025, Kisumu ,Snacks,Could,1,50,50,cash
+50293,6/15/2026,,groceries,Best,1,10000,10000,Card
+53166,1/4/2025,,Groceries,Whether,2,100,200,M-Pesa
+52408,7/22/2025, Kisumu ,Snacks,Face,,10000,,cash
+53034,24-12-1978,Mombasa,Beverages,Reality,1,100,100,Cash
+52498,6/6/1979,Nairobi,groceries,Standard,,250,,cash
+51350,9/20/2024,nakuru,Personal Care,Book,20,1000,20000,M-Pesa
+51946,23-10-1989, Kisumu ,Snacks,Lead,2,500,1000,Cash
+51971,7/17/2024,Mombasa,Snacks,Husband,1,500,500,cash
+50141,30-08-2005,,Snacks,Inside,2,50,100,M-Pesa
+51183,11/21/2024, Kisumu ,Personal Care,Low,20,10000,200000,Card
+50393,7/7/2024,Mombasa,Snacks,Treat,50,100,5000,M-Pesa
+52127,4/12/2025,nakuru,Personal Care,Color,1,500,500,Card
+50621,12/3/2024,Nairobi,Groceries,Paper,10,2000,20000,Cash
+51900,27-03-1995,,groceries,Tax,5,10000,50000,M-Pesa
+52351,1/9/1989,nakuru,Snacks,Part,10,1000,10000,cash
+53417,24-08-2021,Mombasa,Household,Hot,10,100,1000,cash
+53817,19-09-1985,Mombasa,Personal Care,TRUE,5,10000,50000,Card
+53183,12/6/1970,Nairobi,Snacks,Whom,5,1000,5000,cash
+50432,10/12/2012,Nairobi,Groceries,Its,,500,,Card
+51924,1/3/1996,Nairobi,Groceries,Eye,50,50,2500,cash
+53098,3/7/2026,nakuru,Personal Care,Physical,,100,,M-Pesa
+53111,5/31/2026, Kisumu ,groceries,Cold,5,2000,10000,Card
+53129,4/2/2025,nakuru,groceries,General,20,1000,20000,Cash
+50520,11/8/1994,nakuru,Household,Few,50,500,25000,M-Pesa
+51728,12/22/2025, Kisumu ,Groceries,Hit,20,,,Card
+52784,14-08-1999,,Personal Care,Enough,2,2000,4000,Cash
+50249,15-06-1984,Mombasa,groceries,Perform,2,500,1000,Cash
+52230,3/8/2015,,Beverages,Speech,,2000,,Card
+50525,5/19/2026, Kisumu ,Snacks,Reach,,100,,cash
+50615,2/8/2004,Mombasa,groceries,Surface,1,500,500,Cash
+52713,8/12/2025,,Snacks,Pick,5,,,Card
+52813,11/20/2025,nakuru,Personal Care,Wall,1,100,100,M-Pesa
+53219,9/5/1981,Nairobi,Snacks,Southern,1,10000,10000,Cash
+52537,1/25/2026,nakuru,Personal Care,Dinner,50,250,12500,Cash
+52914,19-04-1994,Nairobi,groceries,Trade,5,100,500,M-Pesa
+51714,24-04-1990,nakuru,Beverages,Teach,1,500,500,Card
+50511,11/11/2025,nakuru,Personal Care,Available,1,,,M-Pesa
+53139,8/1/2025,nakuru,Snacks,Main,10,,,Cash
+52309,7/20/2024,Mombasa,Personal Care,Doctor,50,250,12500,Card
+51148,20-06-1992,nakuru,Groceries,Feel,,10000,,Card
+53377,10/1/2024,,Personal Care,Sport,5,250,1250,cash
+50781,5/7/2025,Nairobi,Personal Care,Face,,,,cash
+53502,8/4/2025,,Household,Author,5,2000,10000,cash
+50360,3/28/2026,,Household,Go,20,,,Cash
+50720,14-02-2023,,Groceries,Simply,5,,,Card
+51050,5/7/2026,Mombasa,Groceries,Past,2,1000,2000,Cash
+51264,2/14/2026,,Personal Care,Page,50,2000,100000,Cash
+50373,12/1/2024, Kisumu ,Personal Care,Without,50,,,M-Pesa
+52044,10/16/2024,,Snacks,Book,10,,,Cash
+53642,8/10/1974,,groceries,Too,5,100,500,M-Pesa
+53465,27-07-1992,Mombasa,Snacks,Major,1,,,cash
+51192,2/4/2014,,groceries,Career,5,10000,50000,Cash
+51872,9/22/2024,,Personal Care,Executive,10,100,1000,cash
+51952,26-11-2002,nakuru,Groceries,Meeting,50,,,Cash
+53994,21-06-1996,Mombasa,Personal Care,Rock,50,10000,500000,M-Pesa
+50422,20-05-2016, Kisumu ,groceries,Fill,1,50,50,Cash
+53554,31-01-1985,nakuru,Personal Care,Think,10,500,5000,Card
+51007,6/9/2025,Nairobi,Personal Care,Strategy,10,100,1000,cash
+50597,10/11/2025,Mombasa,groceries,Scene,2,1000,2000,M-Pesa
+50069,10/11/2024,,groceries,North,5,1000,5000,M-Pesa
+52553,12/11/2000,Mombasa,Groceries,Call,5,1000,5000,Cash
+51326,30-09-1988, Kisumu ,Personal Care,Run,50,2000,100000,M-Pesa
+53924,4/3/2025,Mombasa,Snacks,Begin,1,1000,1000,Cash
+50764,12/9/2025,Nairobi,Snacks,Eat,,,,Cash
+51828,21-08-1997,,Groceries,Each,2,,,Cash
+51259,2/15/2026,,Personal Care,Mission,5,250,1250,M-Pesa
+50523,25-05-1981, Kisumu ,Beverages,Up,,2000,,M-Pesa
+52439,23-01-2004, Kisumu ,groceries,Floor,2,2000,4000,cash
+52688,28-08-2007,nakuru,Personal Care,Pm,,10000,,cash
+53390,30-05-2026,Mombasa,Beverages,Source,5,,,M-Pesa
+51123,2/8/2004,,Household,Its,10,1000,10000,cash
+50410,5/16/2026, Kisumu ,Snacks,Determine,50,2000,100000,cash
+53558,26-07-1975,,Household,Another,50,1000,50000,Cash
+52169,28-09-1995,,Household,Authority,1,50,50,cash
+52042,10/20/2024,Nairobi,groceries,Somebody,2,1000,2000,Cash
+50619,6/11/2012,,Personal Care,People,2,1000,2000,M-Pesa
+50289,2/5/2025, Kisumu ,Household,Point,1,500,500,M-Pesa
+53149,12/8/2025,nakuru,Groceries,Doctor,10,,,Cash
+51488,29-09-2010,,Snacks,Beat,5,500,2500,cash
+50739,8/14/2025,,Beverages,Idea,2,2000,4000,cash
+50899,6/25/2024,,Household,Even,50,10000,500000,Card
+52507,12/24/2025,,Beverages,Unit,1,500,500,Card
+53485,4/28/2025,Nairobi,Beverages,Fall,20,10000,200000,cash
+51834,11/22/2024,Mombasa,Household,Whom,2,250,500,cash
+53197,4/8/1975, Kisumu ,Household,If,2,100,200,M-Pesa
+50806,12/15/2024,nakuru,Groceries,Wish,10,,,cash
+50059,3/22/2026, Kisumu ,Snacks,Professor,20,250,5000,cash
+52276,20-03-2016,Nairobi,Snacks,Not,5,,,cash
+53642,19-07-2009,Mombasa,Household,Fast,2,1000,2000,M-Pesa
+51972,4/9/2025,,Personal Care,Soon,2,2000,4000,M-Pesa
+53388,8/11/1981,,Snacks,Plan,10,1000,10000,cash
+52707,10/2/1998, Kisumu ,Beverages,Effect,50,2000,100000,M-Pesa
+51089,12/15/2025,nakuru,Snacks,Huge,10,2000,20000,Card
+51411,9/19/2024, Kisumu ,Household,Inside,10,250,2500,Card
+53402,29-10-1998,,Household,Court,2,500,1000,Cash
+51072,28-10-1978,Mombasa,Groceries,Social,,100,,Card
+50559,3/8/2025,Nairobi,Personal Care,Against,1,,,cash
+50128,6/10/2006,Nairobi,groceries,Move,,500,,cash
+50573,1/2/2026,Nairobi,Snacks,Decision,5,100,500,Card
+52882,3/1/2026,Nairobi,Groceries,Determine,10,2000,20000,M-Pesa
+52747,10/29/2024, Kisumu ,Groceries,Town,50,250,12500,cash
+51755,9/4/1970,,Groceries,Money,,100,,Cash
+53513,23-12-2008,Mombasa,Snacks,Memory,,,,M-Pesa
+53627,29-01-2013,Mombasa,Personal Care,Write,2,250,500,Cash
+52944,4/10/2016, Kisumu ,Groceries,Reach,1,250,250,M-Pesa
+53195,12/1/2011,,Personal Care,Write,50,500,25000,Cash
+51018,6/20/2026,Nairobi,Personal Care,Pressure,20,50,1000,Cash
+53918,10/13/2024,,Snacks,Government,1,100,100,cash
+52075,11/20/2025,Nairobi,Groceries,Time,,10000,,Card
+52693,4/11/2025,nakuru,Personal Care,Game,,1000,,Card
+50178,28-10-1993,Nairobi,groceries,Prepare,,10000,,M-Pesa
+52244,24-05-1978,,Snacks,Hand,50,10000,500000,M-Pesa
+52860,7/25/2025,Nairobi,Household,Result,10,50,500,Cash
+52510,8/27/2024,,Household,Air,5,500,2500,cash
+51092,25-07-2021,nakuru,Household,Such,,,,cash
+53473,3/2/2025,,Household,Sense,2,2000,4000,M-Pesa
+50964,12/15/2025,Nairobi,Household,Rise,2,250,500,cash
+51373,18-10-2005,Mombasa,groceries,Upon,10,10000,100000,cash
+51030,3/29/2026,,Beverages,Letter,50,10000,500000,M-Pesa
+51509,12/7/1976, Kisumu ,groceries,Risk,,50,,cash
+50806,9/23/2024,,Household,What,5,100,500,M-Pesa
+51722,21-02-1975, Kisumu ,Household,Manage,1,1000,1000,cash
+52859,2/14/2025,Nairobi,Household,Picture,1,,,M-Pesa
+50015,26-03-1987,,Personal Care,Guess,1,500,500,cash
+50712,17-04-1975,,Groceries,Live,,250,,Card
+51325,13-12-1982,,groceries,Employee,1,50,50,Cash
+53510,24-07-2021,nakuru,Household,Economy,5,500,2500,Card
+50278,6/13/2025,,Household,Apply,1,50,50,M-Pesa
+51378,6/11/1970,,groceries,Particular,5,,,Card
+51503,14-07-1972,,Beverages,Wonder,10,250,2500,M-Pesa
+53766,19-03-1984,,Beverages,Before,2,100,200,cash
+50336,9/12/2025,Nairobi,Beverages,Attention,,1000,,Card
+51345,4/13/2026,,Personal Care,West,10,500,5000,Cash
+51855,3/30/2026,Mombasa,Personal Care,Decide,20,250,5000,cash
+51289,2/12/1976,Mombasa,groceries,Answer,2,2000,4000,M-Pesa
+50957,9/24/2025,Nairobi,Personal Care,Threat,50,,,M-Pesa
+52519,8/15/2024,,Beverages,Single,10,50,500,Cash
+52049,22-01-2013,Nairobi,Groceries,Investment,2,10000,20000,M-Pesa
+50940,28-11-2021,,Household,Option,20,10000,200000,M-Pesa
+52174,2/1/1986,,Beverages,President,1,1000,1000,Cash
+50254,13-05-2005,,groceries,Sport,2,50,100,M-Pesa
+50144,5/17/2025,,groceries,Behind,20,100,2000,M-Pesa
+53372,11/3/1977,,Beverages,Current,5,2000,10000,Card
+53703,3/1/2025,Mombasa,Snacks,Fish,5,10000,50000,M-Pesa
+53507,29-10-2009,Mombasa,Groceries,Pm,10,1000,10000,Card
+52112,19-05-1987,,groceries,Day,10,1000,10000,Card
+51652,10/14/2024,,Groceries,Drive,,250,,cash
+51886,1/17/2025, Kisumu ,Personal Care,Can,1,50,50,cash
+50855,7/24/2025,Mombasa,Groceries,Maybe,10,100,1000,Cash
+52126,12/6/2025,Nairobi,Snacks,He,50,250,12500,cash
+50603,5/4/2025,,Household,If,50,250,12500,cash
+53087,1/4/2025,,groceries,Forget,1,50,50,Card
+50134,3/12/2025,Nairobi,groceries,Only,2,1000,2000,M-Pesa
+53963,1/15/2026,Nairobi,Household,Sort,1,250,250,cash
+50855,1/16/2025, Kisumu ,groceries,Late,50,10000,500000,Card
+53242,20-08-2018,Mombasa,Beverages,Medical,5,100,500,cash
+51608,5/17/2026,Nairobi,Snacks,Clearly,20,50,1000,Cash
+50695,8/11/2025,,Snacks,Professor,2,250,500,M-Pesa
+53310,4/18/2026,,Household,Interview,1,1000,1000,Cash
+50588,1/4/2025,Nairobi,groceries,Effort,1,10000,10000,Card
+52816,11/19/2025,Nairobi,Groceries,Support,10,250,2500,Cash
+50684,7/30/2024, Kisumu ,Personal Care,Foreign,1,10000,10000,M-Pesa
+52514,12/2/2024, Kisumu ,Groceries,Against,5,,,Cash
+50090,1/9/2025,Nairobi,groceries,Operation,,10000,,M-Pesa
+51026,23-09-2002,,groceries,Leave,5,50,250,cash
+53724,4/24/2026,Nairobi,Beverages,Need,2,100,200,cash
+52148,12/20/2024,,Household,Local,20,100,2000,Cash
+52717,5/9/2025,,Snacks,Explain,5,50,250,Card
+51045,31-10-1993,,Groceries,Party,10,100,1000,Cash
+50454,4/7/2025,nakuru,Beverages,Investment,1,50,50,M-Pesa
+50897,19-01-1998,Nairobi,groceries,May,50,2000,100000,Card
+50763,11/20/2025, Kisumu ,Snacks,Sister,1,100,100,Card
+51045,25-06-2022,Nairobi,groceries,Learn,,,,Cash
+53253,14-03-1981,Nairobi,Snacks,Town,1,100,100,Card
+50911,4/25/2026,Nairobi,groceries,Well,,250,,Card
+50674,18-03-2001,nakuru,Snacks,I,,1000,,cash
+53823,11/9/2013,,Snacks,He,20,50,1000,Card
+52783,16-03-1977,Mombasa,Snacks,Party,,100,,cash
+51447,9/19/2025, Kisumu ,Personal Care,Employee,5,10000,50000,cash
+51694,10/4/2025, Kisumu ,Snacks,Large,10,,,Card
+50633,11/9/2025,,Groceries,President,50,10000,500000,Card
+52043,9/23/2024, Kisumu ,groceries,Exist,50,250,12500,M-Pesa
+51734,12/4/2013,nakuru,Beverages,Door,50,10000,500000,M-Pesa
+50069,8/11/1983,,Household,Cut,20,2000,40000,M-Pesa
+53965,9/21/2025,Nairobi,Groceries,Believe,1,500,500,Cash
+53335,10/12/2025, Kisumu ,groceries,Popular,20,250,5000,Cash
+51894,15-08-2015,,groceries,Bank,20,50,1000,M-Pesa
+53889,4/1/2025,nakuru,Personal Care,Information,1,,,Cash
+51983,3/5/1970,nakuru,Beverages,Person,50,100,5000,cash
+51841,2/5/2026,nakuru,Household,State,50,250,12500,M-Pesa
+50724,11/30/2025,Mombasa,Groceries,Center,1,10000,10000,cash
+51886,8/27/2025,Nairobi,Snacks,Billion,20,100,2000,cash
+52474,8/30/2024,Nairobi,Snacks,Continue,5,2000,10000,Cash
+50654,7/11/2024,,Groceries,Table,10,250,2500,M-Pesa
+53625,3/28/2026,,Groceries,Much,20,2000,40000,Card
+53037,28-08-1972,Nairobi,groceries,Indicate,1,100,100,M-Pesa
+51792,19-01-1971,Mombasa,Snacks,What,5,10000,50000,Card
+52027,26-01-1996,,Snacks,Level,50,250,12500,cash
+53670,23-03-1981,,Beverages,General,5,10000,50000,M-Pesa
+50383,26-02-1977,,Groceries,Can,1,100,100,Cash
+53877,1/9/2025,,Beverages,Minute,50,50,2500,cash
+50046,5/23/2026,,Snacks,After,10,50,500,Card
+51404,24-10-1995,Nairobi,Groceries,Forget,5,,,Cash
+50429,29-03-2011,Nairobi,Personal Care,Scene,50,10000,500000,Card
+52085,17-05-2024,Mombasa,Groceries,Boy,,250,,cash
+51281,19-07-1974,Nairobi,Household,To,,100,,Cash
+52190,16-07-2014,,Groceries,Artist,5,100,500,cash
+50839,22-10-1975,Nairobi,Snacks,Learn,50,1000,50000,Card
+51995,23-10-2024,Mombasa,groceries,Well,5,2000,10000,M-Pesa
+50876,21-03-2009,,Snacks,Difficult,5,250,1250,Card
+53750,25-04-2005,nakuru,groceries,Democratic,50,100,5000,Card
+51470,11/24/2025,Mombasa,Snacks,Through,1,1000,1000,cash
+53694,18-05-1997,,Groceries,Tonight,20,250,5000,M-Pesa
+53431,6/5/2026,nakuru,groceries,Fear,1,500,500,Card
+51031,7/28/2025, Kisumu ,Personal Care,Indeed,50,250,12500,M-Pesa
+53426,10/26/2024, Kisumu ,Beverages,Especially,20,10000,200000,Cash
+52578,10/6/1980,nakuru,groceries,News,5,2000,10000,M-Pesa
+51436,6/8/2002,Mombasa,Beverages,Score,5,,,Card
+53068,4/1/1982,Mombasa,Groceries,Three,,100,,Cash
+52048,24-02-1978,,Personal Care,If,20,250,5000,cash
+53817,7/1/2025,,Household,Process,10,1000,10000,Card
+53889,2/19/2025,Nairobi,Personal Care,Boy,,50,,Card
+53464,2/24/2025,,Household,May,2,10000,20000,cash
+52675,9/1/1986,nakuru,Groceries,Thought,,2000,,cash
+50037,12/6/2025,nakuru,Beverages,Rise,20,1000,20000,cash
+53315,29-11-2000,nakuru,Groceries,Build,1,250,250,Card
+51018,8/15/2024,Mombasa,Personal Care,Audience,1,,,cash
+52186,1/29/2025,nakuru,Snacks,Official,20,10000,200000,M-Pesa
+53146,6/4/2026,,Personal Care,Mean,20,250,5000,cash
+53037,18-05-2010,Nairobi,groceries,Economy,2,50,100,M-Pesa
+51568,5/22/2025,Nairobi,groceries,Yourself,,100,,cash
+51638,1/16/2025,,Snacks,White,,1000,,cash
+54000,3/17/2026,nakuru,Snacks,Sound,20,500,10000,Card
+50264,9/9/2005, Kisumu ,Personal Care,Those,10,50,500,Card
+52711,28-11-2012,,Groceries,Different,10,50,500,M-Pesa
+50913,1/20/2025,nakuru,Snacks,Provide,5,500,2500,Cash
+52241,22-03-1977, Kisumu ,Beverages,Think,,500,,Card
+51530,25-10-1986, Kisumu ,groceries,Receive,1,10000,10000,M-Pesa
+50862,5/20/2025,,Beverages,Significant,50,500,25000,M-Pesa
+51070,15-03-1987, Kisumu ,groceries,Set,50,1000,50000,cash
+50855,9/21/2024,nakuru,Snacks,Team,20,50,1000,Cash
+51190,6/3/2026,nakuru,Groceries,Be,5,500,2500,M-Pesa
+50156,26-05-2019,Mombasa,Beverages,Degree,5,1000,5000,cash
+53318,1/15/2025, Kisumu ,Household,Network,5,100,500,cash
+51246,20-07-1986,nakuru,Household,Fine,,100,,M-Pesa
+51394,5/5/1986,nakuru,Groceries,Election,20,500,10000,cash
+50182,14-09-2014, Kisumu ,Household,Agreement,1,50,50,cash
+52366,12/16/2025,Nairobi,Household,Great,10,1000,10000,M-Pesa
+53504,6/9/1987,nakuru,Household,Team,,2000,,cash
+51969,3/13/2025,Nairobi,Beverages,Recent,10,10000,100000,cash
+52224,6/12/2025,Mombasa,Personal Care,Too,,500,,M-Pesa
+52684,16-04-2021,,Groceries,Cup,1,1000,1000,Card
+52017,12/11/1992,nakuru,groceries,Toward,50,1000,50000,Card
+51306,10/27/2024,Nairobi,Snacks,Including,50,1000,50000,Card
+51291,6/24/2025,,groceries,Garden,5,250,1250,M-Pesa
+51309,10/8/1980,,Personal Care,Chance,50,,,Card
+50145,24-02-2015,Mombasa,Household,Miss,2,50,100,Card
+52028,10/26/2025,Mombasa,groceries,Improve,2,250,500,Cash
+53413,18-01-2022,,Snacks,Home,1,,,cash
+53732,5/18/2026,Mombasa,groceries,Region,,500,,M-Pesa
+50639,22-04-1975,,Personal Care,Whether,2,500,1000,M-Pesa
+53264,22-07-2024,,Groceries,Threat,50,100,5000,M-Pesa
+50896,11/6/2025,,Personal Care,Now,,,,Cash
+51717,18-09-2007,Nairobi,Snacks,Media,,10000,,M-Pesa
+50039,12/5/1998,Nairobi,Snacks,Manage,,100,,Cash
+50245,3/11/2026,,groceries,Real,50,1000,50000,Card
+51612,3/9/1985,nakuru,Snacks,Leader,2,100,200,cash
+53043,1/11/1992,,Household,Foot,5,250,1250,Cash
+52417,9/4/2025, Kisumu ,Personal Care,Even,2,500,1000,Cash
+51215,4/25/2026,,Household,Summer,2,100,200,Card
+51396,3/17/2025,Nairobi,Beverages,Politics,5,500,2500,Card
+52954,2/13/2025, Kisumu ,groceries,Hundred,5,2000,10000,Cash
+51191,7/20/2025,Nairobi,Snacks,Always,5,10000,50000,M-Pesa
+51635,7/5/1988,Mombasa,Beverages,Green,20,500,10000,Card
+50079,15-02-2008, Kisumu ,Beverages,Smile,2,10000,20000,Cash
+51593,11/13/2025,,Household,Down,50,100,5000,Card
+53796,21-10-1971, Kisumu ,Personal Care,Serious,2,100,200,Cash
+53946,2/5/1989,,Snacks,Central,,250,,cash
+51648,11/7/2024,,Personal Care,My,2,2000,4000,M-Pesa
+50184,11/11/1981,Nairobi,Beverages,Question,2,50,100,cash
+51920,3/8/2026,nakuru,Groceries,Cost,10,2000,20000,M-Pesa
+52471,13-08-1974, Kisumu ,Household,Price,2,2000,4000,M-Pesa
+52377,4/2/2025,,Snacks,Spend,,250,,Card
+52679,9/18/2024,Mombasa,Personal Care,Television,20,2000,40000,cash
+52496,2/10/2012,Nairobi,Household,Of,5,500,2500,M-Pesa
+53192,20-11-1976,nakuru,groceries,Institution,1,2000,2000,M-Pesa
+53421,3/11/2025,Nairobi,Groceries,Southern,50,,,cash
+51341,4/11/1983,Nairobi,groceries,Customer,2,50,100,M-Pesa
+52602,5/6/1976,Nairobi,Beverages,Trade,5,250,1250,M-Pesa
+50065,9/11/1986,Nairobi,Groceries,Glass,2,1000,2000,cash
+50768,16-05-1996,,Snacks,Go,2,500,1000,M-Pesa
+53217,21-07-2020,,Beverages,Quality,20,2000,40000,Card
+50198,6/16/2025, Kisumu ,groceries,But,,,,Cash
+51733,5/8/2025,,Personal Care,Arrive,2,100,200,Card
+52910,13-08-1978,nakuru,Household,Idea,2,500,1000,Card
+53764,8/3/2025,nakuru,Snacks,Human,2,2000,4000,Card
+52197,10/24/2024,nakuru,Household,Meet,2,2000,4000,Cash
+53349,29-01-1995,,groceries,Next,5,100,500,Cash
+50407,11/30/2024, Kisumu ,Beverages,Dinner,10,500,5000,Card
+52865,7/10/2010,Mombasa,Household,Before,5,250,1250,M-Pesa
+52103,2/2/2022,,Groceries,Big,50,50,2500,Cash
+51623,24-09-2007,,Household,Across,5,250,1250,Cash
+53282,11/15/2025, Kisumu ,groceries,Build,10,10000,100000,M-Pesa
+50056,9/15/2025, Kisumu ,Groceries,Source,1,250,250,M-Pesa
+50736,1/12/2025,nakuru,Snacks,Quite,1,100,100,Card
+53476,29-10-2024,,Snacks,Represent,20,2000,40000,Card
+53389,3/21/2025,Mombasa,Household,Travel,,50,,Card
+53001,6/15/2025,Nairobi,Personal Care,Surface,10,250,2500,M-Pesa
+52552,12/30/2025,Mombasa,Personal Care,Floor,10,10000,100000,Card
+51829,11/28/2025,,groceries,Tree,2,250,500,M-Pesa
+51617,5/18/2025,nakuru,Household,Read,10,1000,10000,M-Pesa
+52309,25-12-2006,,Groceries,A,1,100,100,Card
+51919,24-06-1987,,Household,Kind,1,,,M-Pesa
+52518,19-09-2010,nakuru,Beverages,History,5,500,2500,M-Pesa
+51153,3/3/2025,nakuru,groceries,From,20,1000,20000,Cash
+51143,9/19/2024,Nairobi,Snacks,Because,2,,,Card
+52109,6/4/2025,nakuru,Snacks,Her,10,250,2500,Card
+52243,25-03-1973,Mombasa,Beverages,Increase,1,2000,2000,Card
+53631,7/4/2025,Mombasa,Beverages,Word,1,100,100,Card
+51046,7/17/2024,Nairobi,Personal Care,Believe,10,50,500,Cash
+53506,2/9/2025,nakuru,groceries,Run,2,100,200,Cash
+51437,5/1/2026,,Snacks,Think,1,,,Cash
+51861,23-06-2010, Kisumu ,Groceries,Program,5,100,500,Cash
+50038,10/24/2024,,Personal Care,Smile,10,10000,100000,Cash
+53423,13-12-2020,Nairobi,groceries,Body,5,100,500,Cash
+53755,10/5/2010,,Groceries,Door,50,500,25000,Cash
+51151,8/13/2025,,Personal Care,Activity,50,500,25000,Card
+51800,24-04-1999,,Groceries,Station,10,2000,20000,cash
+51226,13-02-1978,,Beverages,Television,50,1000,50000,Cash
+50540,27-05-2000,,Snacks,Buy,50,10000,500000,Cash
+53694,9/6/2022,,Household,Laugh,,50,,cash
+52257,10/15/2025,Mombasa,Household,Magazine,1,10000,10000,Cash
+51148,18-05-1976,Mombasa,Snacks,Debate,,2000,,cash
+51595,15-10-2007, Kisumu ,Snacks,Probably,10,50,500,M-Pesa
+52441,1/10/1993,,Beverages,Language,2,250,500,Card
+50465,7/16/2024,nakuru,Personal Care,Any,2,2000,4000,cash
+52925,5/9/1973,,groceries,Discussion,20,50,1000,cash
+53385,3/19/2026,Nairobi,Beverages,Whom,50,2000,100000,M-Pesa
+50178,22-02-2006,,Beverages,Civil,5,10000,50000,Cash
+53345,18-12-2005,Nairobi,Beverages,Approach,2,500,1000,Cash
+53801,11/3/2025,Nairobi,Snacks,Mrs,50,,,Cash
+53557,4/13/2026,Mombasa,Household,Military,50,500,25000,cash
+53724,31-12-2022,,Personal Care,Movement,,10000,,cash
+53412,13-12-2019,Nairobi,Household,Black,20,100,2000,Card
+52566,24-10-1986,,Snacks,Window,2,,,Cash
+50976,7/4/2025,nakuru,Groceries,No,10,250,2500,M-Pesa
+52590,4/29/2025, Kisumu ,Personal Care,Affect,,100,,cash
+53529,2/4/1995,Nairobi,Household,Energy,,250,,cash
+50278,9/4/2016,Mombasa,Groceries,Nice,50,1000,50000,Card
+52899,1/1/2025,,Beverages,Stage,10,1000,10000,Cash
+51576,3/2/2025,,Groceries,Avoid,,50,,Cash
+51973,12/14/2024,,Beverages,Fear,20,,,M-Pesa
+50945,19-07-1983,Mombasa,Household,Stuff,50,500,25000,M-Pesa
+52542,8/6/2024,nakuru,Groceries,Realize,10,500,5000,Card
+51236,7/6/1985,,groceries,Act,10,500,5000,Card
+50980,21-04-2015, Kisumu ,groceries,Little,2,50,100,cash
+52430,5/8/2009,Nairobi,groceries,Contain,50,50,2500,M-Pesa
+52490,4/5/1999,Mombasa,Beverages,Right,5,2000,10000,M-Pesa
+53092,10/14/2024,nakuru,groceries,Hand,5,100,500,Cash
+50860,11/6/2021,nakuru,Snacks,Tree,50,250,12500,M-Pesa
+51124,1/2/1997,,Groceries,Often,2,1000,2000,M-Pesa
+50018,16-03-1980,nakuru,Personal Care,Land,,2000,,Card
+52774,12/12/2025,,Personal Care,Trade,2,1000,2000,cash
+51387,11/19/2024,Nairobi,Household,Perhaps,10,,,cash
+51785,14-01-1993, Kisumu ,groceries,Throughout,5,,,cash
+52080,1/30/2025,,Beverages,Safe,10,50,500,Cash
+53538,8/23/2025,,Household,Occur,50,2000,100000,M-Pesa
+50553,10/1/2024,Mombasa,Household,Happy,1,2000,2000,cash
+52883,21-04-1973,Nairobi,Personal Care,Discuss,10,10000,100000,cash
+52488,12/24/2024,,Beverages,Very,2,500,1000,M-Pesa
+50687,1/14/2026, Kisumu ,Beverages,Among,2,100,200,M-Pesa
+50129,4/9/1975,Mombasa,groceries,Past,2,10000,20000,M-Pesa
+51502,25-09-1977,,Snacks,Feel,50,50,2500,Cash
+53680,23-11-1992,,groceries,Mind,50,,,cash
+51673,9/12/2024,,Groceries,Meeting,20,100,2000,Cash
+53745,12/29/2025,Mombasa,Snacks,Trip,5,100,500,Card
+51305,28-01-1995,Mombasa,Household,However,5,1000,5000,Cash
+52410,25-10-2018,,Snacks,Close,50,50,2500,Cash
+52701,1/22/2026,,Groceries,End,50,100,5000,Cash
+51619,11/22/2024,,Groceries,Exactly,1,10000,10000,Card
+53926,3/11/2026,Nairobi,Household,Brother,,100,,M-Pesa
+53096,12/1/1991,,Snacks,State,50,250,12500,M-Pesa
+53241,6/15/2026,Mombasa,Beverages,Final,2,100,200,Card
+51397,9/10/2009,,Groceries,Fire,50,100,5000,M-Pesa
+52040,15-02-1971,,Personal Care,Class,10,100,1000,M-Pesa
+53099,20-07-1972,,Groceries,Call,10,50,500,Card
+53605,4/1/2025,Nairobi,Snacks,Hear,2,,,cash
+50167,8/31/2025, Kisumu ,Groceries,Box,5,1000,5000,cash
+51335,21-10-1972,Nairobi,Personal Care,Everything,5,100,500,M-Pesa
+52400,29-09-2016,Nairobi,Personal Care,Newspaper,2,250,500,cash
+50808,5/23/2025, Kisumu ,Groceries,Participant,5,2000,10000,Cash
+51980,2/16/2025,Mombasa,Personal Care,Clear,2,,,Cash
+50366,19-11-2023,Mombasa,Snacks,Own,50,250,12500,cash
+50276,6/26/2025,,Personal Care,Prepare,50,1000,50000,Cash
+53318,3/4/2025,,Groceries,Picture,1,,,M-Pesa
+52587,4/29/2025,,Personal Care,Health,2,500,1000,M-Pesa
+53748,6/11/2006,nakuru,Personal Care,Knowledge,50,10000,500000,Card
+51864,12/27/2024,Mombasa,Household,Claim,,2000,,Card
+52452,27-07-1986,,Groceries,That,1,100,100,M-Pesa
+50830,4/28/2025,Nairobi,Snacks,Road,2,2000,4000,Card
+53543,31-07-2002,,Personal Care,Provide,50,10000,500000,Card
+52126,5/9/2026,nakuru,Groceries,Movie,20,2000,40000,cash
+51770,3/16/2026,,groceries,A,20,,,cash
+51900,4/8/2026, Kisumu ,Personal Care,Thousand,10,50,500,Card
+51182,9/6/1971,Mombasa,Groceries,Sell,50,100,5000,Cash
+52316,6/1/2026,,groceries,Issue,50,1000,50000,M-Pesa
+52597,2/9/1985, Kisumu ,Household,Nearly,2,100,200,M-Pesa
+51713,15-12-1983,,Groceries,Stage,,50,,M-Pesa
+53211,2/7/2026, Kisumu ,Beverages,Pull,1,2000,2000,M-Pesa
+50098,10/1/2024,Mombasa,Household,Anything,5,,,M-Pesa
+53904,4/15/2025,Nairobi,groceries,Decision,,,,Card
+52012,14-12-2015, Kisumu ,Beverages,Imagine,,50,,M-Pesa
+51780,11/7/2024, Kisumu ,Groceries,Value,,10000,,cash
+53575,9/11/2015, Kisumu ,Groceries,Law,10,500,5000,cash
+52983,8/28/2024,,Household,Have,50,500,25000,Cash
+50954,18-12-2005,nakuru,Beverages,All,10,1000,10000,Card
+52705,5/15/2026,Nairobi,Personal Care,Child,20,10000,200000,Cash
+53938,17-01-2022, Kisumu ,Groceries,Guess,2,2000,4000,Cash
+51380,6/1/1986,nakuru,Personal Care,Main,50,500,25000,M-Pesa
+53431,3/10/2026,,Snacks,Ever,50,500,25000,cash
+51838,1/26/2026,Mombasa,Personal Care,Figure,10,100,1000,cash
+53257,11/27/2025,,Household,Record,5,,,M-Pesa
+51342,3/13/2026,,Beverages,Their,2,250,500,M-Pesa
+53450,14-12-2023, Kisumu ,Beverages,Culture,50,500,25000,Cash
+52705,4/6/2026, Kisumu ,groceries,Police,20,500,10000,M-Pesa
+53932,9/4/2003,nakuru,Snacks,Score,1,,,cash
+52094,8/7/1996,,Groceries,Knowledge,10,1000,10000,M-Pesa
+50985,12/10/2025,nakuru,groceries,Meet,20,100,2000,M-Pesa
+51767,9/3/2025,nakuru,Groceries,Government,,250,,cash
+51501,16-04-2009, Kisumu ,Beverages,Whose,10,,,cash
+51756,31-12-1971,Mombasa,Groceries,Among,20,,,Card
+50235,21-10-1983,Mombasa,Personal Care,Structure,10,50,500,Card
+52696,5/1/2025,nakuru,Household,Art,50,1000,50000,M-Pesa
+51058,23-08-2001, Kisumu ,groceries,Across,50,2000,100000,Card
+51315,5/7/1983,Nairobi,Personal Care,Fire,50,50,2500,Card
+52288,8/29/2025,Mombasa,Groceries,Mind,20,50,1000,cash
+53062,22-06-1992,,Snacks,Attorney,2,100,200,M-Pesa
+50644,7/12/2024,Mombasa,Snacks,Price,20,500,10000,M-Pesa
+51395,29-06-1970,,Beverages,Better,2,10000,20000,cash
+50569,8/29/2025,Mombasa,Groceries,Claim,1,50,50,Cash
+52846,4/5/2014,nakuru,Household,Arm,2,250,500,M-Pesa
+52228,11/4/2024,nakuru,Household,Data,2,,,Card
+53555,6/12/2023, Kisumu ,Personal Care,Run,,250,,Card
+51727,19-10-2017,Nairobi,Beverages,Feeling,1,100,100,M-Pesa
+53801,7/12/2014,Nairobi,Groceries,Behavior,10,50,500,Cash
+52626,17-10-1990,nakuru,Personal Care,Never,20,2000,40000,Cash
+53837,21-08-2006,nakuru,Personal Care,So,20,50,1000,cash
+51304,7/7/2025, Kisumu ,Beverages,Across,2,,,cash
+50932,12/28/2024,,Snacks,Whole,1,10000,10000,Cash
+52178,8/30/2024, Kisumu ,Beverages,Agree,5,10000,50000,Card
+50790,10/4/1979, Kisumu ,Personal Care,Century,,,,M-Pesa
+53888,3/12/2025, Kisumu ,Beverages,Later,1,,,M-Pesa
+50064,5/6/2020,nakuru,Snacks,Control,1,50,50,cash
+50197,4/17/2025,nakuru,groceries,Smile,1,,,cash
+53462,5/9/1971, Kisumu ,Household,Issue,1,10000,10000,Card
+53430,30-10-2001,nakuru,Household,How,10,,,M-Pesa
+50895,11/5/1984,Mombasa,Snacks,Paper,20,,,Card
+53928,14-06-1984,Mombasa,groceries,Modern,5,100,500,M-Pesa
+50974,2/4/2026,,Beverages,Plant,20,250,5000,M-Pesa
+52706,8/24/2025,Nairobi,Household,Activity,50,2000,100000,cash
+53894,4/8/2009,Mombasa,Groceries,Worry,,100,,cash
+53601,6/8/2025,Mombasa,Household,Arm,10,250,2500,M-Pesa
+51181,18-06-2012,Nairobi,Snacks,Meet,20,10000,200000,Card
+50462,12/4/1980,,Groceries,Turn,10,2000,20000,Card
+51149,25-07-1994, Kisumu ,Snacks,Interview,20,50,1000,cash
+53473,9/23/2024,,Household,Create,10,,,M-Pesa
+51190,9/1/2024,,Snacks,Apply,50,2000,100000,Cash
+50700,3/21/2025,,Personal Care,Discover,50,1000,50000,M-Pesa
+53202,15-02-1973, Kisumu ,groceries,Every,20,500,10000,M-Pesa
+51764,29-12-2011,Nairobi,Personal Care,Can,1,250,250,Card
+52596,12/25/2025,Nairobi,Personal Care,Trial,5,10000,50000,cash
+50697,14-06-1973,nakuru,groceries,Heart,2,1000,2000,cash
+53555,10/14/2024,nakuru,Snacks,Whose,10,10000,100000,cash
+50328,6/12/2026,,Snacks,Result,10,250,2500,Card
+53888,26-01-1987,,groceries,Establish,1,1000,1000,Card
+50103,5/7/1980,,Personal Care,Sort,50,1000,50000,M-Pesa
+52572,25-08-2016,nakuru,Beverages,East,20,250,5000,M-Pesa
+52183,3/16/2025,Mombasa,Household,High,10,1000,10000,Card
+50383,8/28/2025,,Groceries,Here,1,500,500,Cash
+51210,3/24/2025,,Groceries,Simply,10,10000,100000,Card
+51750,10/2/2025,Mombasa,Household,Memory,10,100,1000,Cash
+50083,10/9/2024,nakuru,Personal Care,Notice,5,2000,10000,cash
+52624,9/25/2025,,Personal Care,Wonder,,100,,Card
+51179,2/2/2026,Nairobi,Household,Early,20,1000,20000,cash
+50479,3/1/2025,nakuru,groceries,Significant,1,10000,10000,Cash
+53476,8/5/2025,Nairobi,Snacks,House,10,50,500,Card
+50723,2/5/1973,Nairobi,Groceries,Bank,20,500,10000,Cash
+53068,13-02-1992, Kisumu ,Personal Care,Catch,10,10000,100000,M-Pesa
+50771,10/8/1994, Kisumu ,groceries,Bar,10,100,1000,Cash
+53031,9/20/2025,Nairobi,Beverages,Available,5,250,1250,M-Pesa
+51561,4/6/2026, Kisumu ,Groceries,Old,50,100,5000,Card
+52679,5/5/1978,nakuru,Groceries,Watch,5,100,500,Card
+51160,2/13/2025,,Personal Care,Them,,1000,,Card
+52019,5/30/2025,,Snacks,Forward,2,2000,4000,Card
+53774,17-01-2023,Nairobi,Snacks,Option,20,500,10000,Card
+52603,4/1/1973,,Snacks,Benefit,1,10000,10000,Cash
+53758,20-10-2022,,Beverages,Moment,5,,,cash
+50321,4/3/2025,nakuru,Snacks,Send,50,100,5000,M-Pesa
+50749,5/1/2025, Kisumu ,Beverages,Analysis,1,50,50,cash
+53303,6/20/2025,,Beverages,Herself,10,10000,100000,Card
+53728,5/1/2011, Kisumu ,Snacks,See,50,250,12500,M-Pesa
+51997,19-02-2023,Nairobi,Household,Green,,1000,,Card
+50637,14-05-1979,Nairobi,Snacks,Energy,10,100,1000,M-Pesa
+51010,4/27/2025,Mombasa,Beverages,All,5,500,2500,Card
+52117,6/25/2024,Nairobi,Groceries,Season,5,50,250,Cash
+52307,12/6/2024,Mombasa,Household,Sound,1,50,50,Card
+50037,6/8/2025,nakuru,groceries,Deal,2,50,100,M-Pesa
+52002,10/7/1993,,Household,Herself,10,10000,100000,Cash
+53052,11/4/1977, Kisumu ,Personal Care,Picture,10,50,500,M-Pesa
+50316,3/13/2026, Kisumu ,groceries,Best,,,,M-Pesa
+50572,9/24/2025,Nairobi,Groceries,Within,20,250,5000,cash
+53808,9/24/2024, Kisumu ,Beverages,Different,5,1000,5000,M-Pesa
+53454,5/22/2025,Nairobi,Beverages,Also,1,500,500,Cash
+52846,1/13/2026,,groceries,Hold,5,50,250,M-Pesa
+51940,1/2/2025,Mombasa,Personal Care,Glass,1,500,500,Cash
+51055,10/4/2024,Nairobi,Household,Cost,,100,,Card
+52277,24-03-2012,Mombasa,groceries,Establish,5,100,500,Card
+51094,9/1/1974,,Snacks,Tough,,500,,cash
+50901,1/19/2026,,Household,Pretty,1,,,Card
+50074,11/17/2025,Mombasa,Beverages,Itself,2,250,500,Card
+53888,2/10/2026,Nairobi,Groceries,Fast,10,1000,10000,cash
+52904,9/7/2024,nakuru,Household,Customer,2,,,M-Pesa
+52220,9/2/2024,,Snacks,Produce,1,50,50,cash
+51894,2/5/2025,,Groceries,May,20,2000,40000,cash
+53358,8/8/2024, Kisumu ,Snacks,Suddenly,1,500,500,Card
+52229,16-11-2003,,Household,Participant,1,500,500,Card
+51036,9/24/2025,,Groceries,What,1,250,250,Card
+52079,6/28/2025,Nairobi,Personal Care,See,5,100,500,cash
+50097,19-04-2014,nakuru,Groceries,Concern,5,50,250,Cash
+52389,10/1/2024,nakuru,Snacks,Make,,50,,Card
+52664,27-10-2012,,Snacks,Executive,2,50,100,cash
+52502,2/2/2026,,Groceries,Remain,,2000,,Cash
+53706,11/7/2025,,Personal Care,Still,50,2000,100000,M-Pesa
+51189,6/16/2025,,Beverages,Their,1,500,500,M-Pesa
+53243,9/10/2025,Mombasa,groceries,Among,1,250,250,Cash
+53729,9/6/2024,Mombasa,Personal Care,Side,,1000,,cash
+50832,20-08-1978,,Snacks,Report,10,,,Card
+51440,1/31/2025, Kisumu ,Snacks,Suddenly,1,250,250,cash
+53283,18-08-2000,Mombasa,groceries,Step,10,50,500,M-Pesa
+50966,7/12/2011,Nairobi,Snacks,Audience,,1000,,cash
+51510,2/8/1977,Nairobi,Household,Police,,,,M-Pesa
+51866,12/4/2025,nakuru,Personal Care,Walk,1,50,50,cash
+52838,1/6/1976,,Beverages,Foot,2,,,M-Pesa
+50443,18-10-2012,nakuru,Household,On,5,50,250,cash
+53250,2/7/2026,,Personal Care,Unit,50,100,5000,Card
+52740,23-10-2020, Kisumu ,Beverages,Summer,10,250,2500,Cash
+52027,14-08-1981,,groceries,Wrong,1,50,50,cash
+52052,8/6/1988,Nairobi,Snacks,Prove,50,50,2500,Cash
+51825,11/12/1995,nakuru,Household,First,10,100,1000,Cash
+52381,21-11-2000,nakuru,groceries,Forward,2,50,100,cash
+51554,22-06-1992,,Beverages,Important,1,100,100,Cash
+51585,4/3/2026,,Groceries,Price,,,,Cash
+53680,23-11-1992,,groceries,Mind,50,,,cash
+50246,12/28/2024,,Beverages,Hope,10,2000,20000,Cash
+51149,9/12/1998, Kisumu ,groceries,By,,250,,cash
+51259,2/15/2026,,Personal Care,Mission,5,250,1250,M-Pesa
+53078,25-08-1997,Nairobi,Snacks,Choice,20,2000,40000,Card
+53435,9/8/2000,Nairobi,Personal Care,Fast,20,500,10000,M-Pesa
+53062,22-06-1992,,Snacks,Attorney,2,100,200,M-Pesa
+52221,1/11/2025,Mombasa,Groceries,Blood,10,2000,20000,Cash
+52044,10/16/2024,,Snacks,Book,10,,,Cash
+52992,8/8/2025,nakuru,Household,Ago,1,100,100,Card
+53666,4/30/2025,Mombasa,Personal Care,Keep,10,2000,20000,Card
+50806,9/30/2024,Nairobi,Personal Care,Meeting,20,250,5000,M-Pesa
+50516,2/23/2026, Kisumu ,groceries,Allow,2,,,M-Pesa
+50721,10/16/2024,,Household,Certain,20,2000,40000,Cash
+53732,5/18/2026,Mombasa,groceries,Region,,500,,M-Pesa
+53652,11/24/2024,Mombasa,Household,Word,20,1000,20000,Card
+50248,23-11-2022,Nairobi,Snacks,Eight,5,10000,50000,Cash
+52019,5/30/2025,,Snacks,Forward,2,2000,4000,Card
+52993,19-10-1989,,Groceries,Police,10,500,5000,Card
+53377,10/1/2024,,Personal Care,Sport,5,250,1250,cash
+52994,12/15/2025,,Beverages,Table,2,100,200,cash
+51323,11/14/2025,,Household,Poor,1,,,cash
+51203,1/16/2025,Nairobi,Beverages,Contain,2,2000,4000,cash
+50182,14-09-2014, Kisumu ,Household,Agreement,1,50,50,cash
+51659,28-06-2015,,Groceries,Include,,,,M-Pesa
+50729,10/5/2025,nakuru,Personal Care,Least,20,2000,40000,M-Pesa
+51113,4/11/1987,Nairobi,Snacks,Foreign,,50,,Cash
+53504,7/5/2025,Nairobi,Snacks,Season,2,100,200,Cash
+50254,13-05-2005,,groceries,Sport,2,50,100,M-Pesa
+52448,29-09-1988,Mombasa,Snacks,Investment,10,10000,100000,Cash
+51900,4/8/2026, Kisumu ,Personal Care,Thousand,10,50,500,Card
+52841,22-01-2006, Kisumu ,Groceries,Bit,10,1000,10000,Cash
+51468,18-03-1982,,Personal Care,Skill,5,2000,10000,M-Pesa
+52129,3/24/2026,,groceries,Allow,1,10000,10000,Cash
+53184,4/30/2025,,Snacks,Skin,5,500,2500,Cash
+51920,3/8/2026,nakuru,Groceries,Cost,10,2000,20000,M-Pesa
+52160,9/7/2024,,Beverages,Onto,20,100,2000,Cash
+53088,7/25/2025,,Personal Care,Production,10,1000,10000,cash
+50395,7/8/2025,,Groceries,Student,20,2000,40000,Cash
+50150,8/29/2025,Mombasa,groceries,Fight,10,500,5000,Cash
+50339,11/17/2025, Kisumu ,groceries,Receive,50,10000,500000,Card
+52329,8/22/2024,Mombasa,Beverages,Follow,5,10000,50000,cash
+52410,1/3/2025,,Household,Indicate,20,500,10000,M-Pesa
+50723,2/5/1973,Nairobi,Groceries,Bank,20,500,10000,Cash
+53555,6/12/2023, Kisumu ,Personal Care,Run,,250,,Card
+50211,11/14/2025, Kisumu ,Beverages,These,5,500,2500,Card
+52208,5/4/2025,Nairobi,Household,Serious,,,,Card
+53781,22-12-2018,Nairobi,Personal Care,Film,2,250,500,cash
+50143,20-10-2021,nakuru,Beverages,Offer,1,100,100,M-Pesa
+51533,11/3/2024,,Groceries,Tonight,5,,,Cash
+50032,20-07-2020,,Snacks,Doctor,10,100,1000,Card
+50731,9/27/2024,,groceries,Turn,20,250,5000,Card
+50141,30-08-2005,,Snacks,Inside,2,50,100,M-Pesa
+51677,23-10-1977,nakuru,Beverages,Play,20,2000,40000,Card
+51722,9/7/2025,Mombasa,Household,Throughout,5,50,250,Cash
+50790,10/4/1979, Kisumu ,Personal Care,Century,,,,M-Pesa
+51902,21-11-2000,Nairobi,groceries,National,10,50,500,cash
+53049,10/9/2024, Kisumu ,Snacks,Partner,5,1000,5000,cash
+50316,6/9/1989,Nairobi,Snacks,Purpose,5,50,250,M-Pesa
+50693,2/1/2023,Nairobi,Snacks,Wonder,5,250,1250,cash
+52958,9/24/2025,nakuru,Household,Federal,5,10000,50000,Card
+53817,7/1/2025,,Household,Process,10,1000,10000,Card
+53417,8/29/2024,Nairobi,Personal Care,Woman,2,,,Card
+52085,12/2/2025,nakuru,Beverages,Idea,2,2000,4000,cash
+53838,11/11/2024,nakuru,Groceries,Deal,20,1000,20000,Cash
+53724,4/24/2026,Nairobi,Beverages,Need,2,100,200,cash
+51120,4/21/2026,,Snacks,Red,20,10000,200000,Cash
+51548,8/12/2012,Nairobi,Household,Performance,50,50,2500,Card
+51463,27-01-2000,nakuru,Personal Care,Service,1,50,50,Card
+51603,6/10/1976,,Beverages,Them,10,2000,20000,Cash
+50549,5/10/1981,Nairobi,Household,Plant,10,100,1000,Card
+51235,4/6/1999,,Household,Network,1,,,Card
+50046,7/1/2005,nakuru,Beverages,Pass,10,100,1000,Card
+53318,1/15/2025, Kisumu ,Household,Network,5,100,500,cash
+51510,2/8/1977,Nairobi,Household,Police,,,,M-Pesa
+52488,8/5/2024,nakuru,Personal Care,Until,2,100,200,cash
+51141,30-07-2022,Mombasa,Personal Care,Culture,1,500,500,cash
+53288,10/10/1991, Kisumu ,Beverages,Deal,10,2000,20000,cash
+52325,5/31/2025,Mombasa,Personal Care,Budget,2,100,200,Cash
+51900,3/22/2026,,Snacks,Including,10,,,M-Pesa
+50855,9/21/2024,nakuru,Snacks,Team,20,50,1000,Cash
+51648,6/16/2025, Kisumu ,groceries,Decide,2,1000,2000,cash
+51474,10/9/2025,,Beverages,Third,,250,,cash
+52760,12/7/2024,Mombasa,Beverages,Know,1,10000,10000,M-Pesa
+52660,20-03-1970,Mombasa,Beverages,Congress,50,1000,50000,Cash
+50542,2/19/2025,Mombasa,Groceries,Child,,500,,Card
+53931,13-03-1973,nakuru,Household,What,,10000,,cash
+53425,12/5/2025, Kisumu ,Groceries,Church,1,1000,1000,Cash
+53784,5/17/2026,,Groceries,Decision,10,10000,100000,cash
+53264,12/4/2007,,Beverages,Treat,2,10000,20000,cash
+51182,6/1/1991,nakuru,Personal Care,Save,50,10000,500000,M-Pesa
+52684,16-04-2021,,Groceries,Cup,1,1000,1000,Card
+51291,6/24/2025,,groceries,Garden,5,250,1250,M-Pesa
+53703,3/9/1999, Kisumu ,Beverages,Reason,,,,cash
+53934,3/31/2026, Kisumu ,Household,Everything,10,50,500,cash
+50637,14-05-1979,Nairobi,Snacks,Energy,10,100,1000,M-Pesa
+52935,20-08-1980,,Beverages,Treat,5,2000,10000,cash
